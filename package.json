@@ -1,6 +1,7 @@
 {
   "name": "kanjigame",
   "version": "0.1.0",
+  "homepage": "https://nc000.github.io/kanji-game",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.10.1",
@@ -15,6 +16,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "deploy": "npm run build && gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -31,5 +33,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
