@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kanji-game/static/css/main.fe0cc50c.chunk.css",
-    "main.js": "/kanji-game/static/js/main.d67a4ee9.chunk.js",
-    "main.js.map": "/kanji-game/static/js/main.d67a4ee9.chunk.js.map",
+    "main.js": "/kanji-game/static/js/main.e5af0919.chunk.js",
+    "main.js.map": "/kanji-game/static/js/main.e5af0919.chunk.js.map",
     "runtime~main.js": "/kanji-game/static/js/runtime~main.17de345d.js",
     "runtime~main.js.map": "/kanji-game/static/js/runtime~main.17de345d.js.map",
     "static/css/2.b693fe29.chunk.css": "/kanji-game/static/css/2.b693fe29.chunk.css",
     "static/js/2.66e7c6f9.chunk.js": "/kanji-game/static/js/2.66e7c6f9.chunk.js",
     "static/js/2.66e7c6f9.chunk.js.map": "/kanji-game/static/js/2.66e7c6f9.chunk.js.map",
     "index.html": "/kanji-game/index.html",
-    "precache-manifest.41b945e8eb66f828625896718862ff98.js": "/kanji-game/precache-manifest.41b945e8eb66f828625896718862ff98.js",
+    "precache-manifest.58f0498fea387fe6b046d8f50a968295.js": "/kanji-game/precache-manifest.58f0498fea387fe6b046d8f50a968295.js",
     "service-worker.js": "/kanji-game/service-worker.js",
     "static/css/2.b693fe29.chunk.css.map": "/kanji-game/static/css/2.b693fe29.chunk.css.map",
     "static/css/main.fe0cc50c.chunk.css.map": "/kanji-game/static/css/main.fe0cc50c.chunk.css.map",

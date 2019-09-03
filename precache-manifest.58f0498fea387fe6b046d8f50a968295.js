@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8503bc5ba402bb0c6a055b762c80f2d",
+    "revision": "b77fdb41df8e42a1c9a94a447f295820",
     "url": "/kanji-game/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kanji-game/static/css/2.b693fe29.chunk.css"
   },
   {
-    "revision": "f1b5b0008aad3a632595",
+    "revision": "24844a0df3c162020021",
     "url": "/kanji-game/static/css/main.fe0cc50c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kanji-game/static/js/2.66e7c6f9.chunk.js"
   },
   {
-    "revision": "f1b5b0008aad3a632595",
-    "url": "/kanji-game/static/js/main.d67a4ee9.chunk.js"
+    "revision": "24844a0df3c162020021",
+    "url": "/kanji-game/static/js/main.e5af0919.chunk.js"
   },
   {
     "revision": "f247a102ea765d49cd15",
