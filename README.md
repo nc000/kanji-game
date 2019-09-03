@@ -5,6 +5,7 @@ A simple game to sharpen your Kanji recognition skills
 * Contains all of the characters from RTK1 and RTK3
 * Can choose between RTK order or a random order
 * Keeps a track of your highest score
+* Allows for alternative keywords to be entered (from jisho.org)
 
 ## Libraries/Frameworks Used
 * [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
@@ -12,7 +13,6 @@ A simple game to sharpen your Kanji recognition skills
   * [Ant Design](https://ant.design/)
   * [React Transition Group](https://github.com/reactjs/react-transition-group)
   * [Styled Components](https://www.styled-components.com/)
-* [Redux.js](https://redux.js.org/)
 
 ## Installation
 1. Download this repository
