@@ -2,11001 +2,16733 @@ export default [
   {
     kanji: '一',
     keyword: 'one',
-    number: '1'
+    alternativeKeywords: ['one', 'one radical (no.1)'],
+    number: 1
   },
   {
     kanji: '二',
     keyword: 'two',
-    number: '2'
+    alternativeKeywords: ['two', 'two radical (no. 7)'],
+    number: 2
   },
-  {
-    kanji: '三',
-    keyword: 'three',
-    number: '3'
-  },
-  {
-    kanji: '四',
-    keyword: 'four',
-    number: '4'
-  },
-  {
-    kanji: '五',
-    keyword: 'five',
-    number: '5'
-  },
-  {
-    kanji: '六',
-    keyword: 'six',
-    number: '6'
-  },
-  {
-    kanji: '七',
-    keyword: 'seven',
-    number: '7'
-  },
+  { kanji: '三', keyword: 'three', alternativeKeywords: ['three'], number: 3 },
+  { kanji: '四', keyword: 'four', alternativeKeywords: ['four'], number: 4 },
+  { kanji: '五', keyword: 'five', alternativeKeywords: ['five'], number: 5 },
+  { kanji: '六', keyword: 'six', alternativeKeywords: ['six'], number: 6 },
+  { kanji: '七', keyword: 'seven', alternativeKeywords: ['seven'], number: 7 },
   {
     kanji: '八',
     keyword: 'eight',
-    number: '8'
+    alternativeKeywords: ['eight', 'eight radical (no. 12)'],
+    number: 8
   },
-  {
-    kanji: '九',
-    keyword: 'nine',
-    number: '9'
-  },
-  {
-    kanji: '十',
-    keyword: 'ten',
-    number: '10'
-  },
-  {
-    kanji: '口',
-    keyword: 'mouth',
-    number: '11'
-  },
+  { kanji: '九', keyword: 'nine', alternativeKeywords: ['nine'], number: 9 },
+  { kanji: '十', keyword: 'ten', alternativeKeywords: ['ten'], number: 10 },
+  { kanji: '口', keyword: 'mouth', alternativeKeywords: ['mouth'], number: 11 },
   {
     kanji: '日',
     keyword: 'day',
-    number: '12'
+    alternativeKeywords: ['day', 'sun', 'Japan', 'counter for days'],
+    number: 12
   },
   {
     kanji: '月',
     keyword: 'month',
-    number: '13'
+    alternativeKeywords: ['month', 'moon'],
+    number: 13
   },
   {
     kanji: '田',
     keyword: 'rice field',
-    number: '14'
+    alternativeKeywords: ['rice field', 'rice paddy'],
+    number: 14
   },
   {
     kanji: '目',
     keyword: 'eye',
-    number: '15'
+    alternativeKeywords: [
+      'eye',
+      'class',
+      'look',
+      'insight',
+      'experience',
+      'care',
+      'favor'
+    ],
+    number: 15
   },
-  {
-    kanji: '古',
-    keyword: 'old',
-    number: '16'
-  },
+  { kanji: '古', keyword: 'old', alternativeKeywords: ['old'], number: 16 },
   {
     kanji: '吾',
     keyword: 'I',
-    number: '17'
+    alternativeKeywords: ['I', 'my', 'our', "one's own"],
+    number: 17
   },
   {
     kanji: '冒',
     keyword: 'risk',
-    number: '18'
+    alternativeKeywords: [
+      'risk',
+      'face',
+      'defy',
+      'dare',
+      'damage',
+      'assume (a name)'
+    ],
+    number: 18
   },
   {
     kanji: '朋',
     keyword: 'companion',
-    number: '19'
+    alternativeKeywords: ['companion', 'friend'],
+    number: 19
   },
   {
     kanji: '明',
     keyword: 'bright',
-    number: '20'
+    alternativeKeywords: ['bright', 'light'],
+    number: 20
   },
   {
     kanji: '唱',
     keyword: 'chant',
-    number: '21'
+    alternativeKeywords: ['chant', 'recite', 'call upon', 'yell'],
+    number: 21
   },
   {
     kanji: '晶',
     keyword: 'sparkle',
-    number: '22'
+    alternativeKeywords: ['sparkle', 'clear', 'crystal'],
+    number: 22
   },
   {
     kanji: '品',
     keyword: 'goods',
-    number: '23'
+    alternativeKeywords: [
+      'goods',
+      'refinement',
+      'dignity',
+      'article',
+      'counter for meal courses'
+    ],
+    number: 23
   },
   {
     kanji: '呂',
     keyword: 'spine',
-    number: '24'
+    alternativeKeywords: ['spine', 'backbone'],
+    number: 24
   },
   {
     kanji: '昌',
     keyword: 'prosperous',
-    number: '25'
+    alternativeKeywords: ['prosperous', 'bright', 'clear'],
+    number: 25
   },
   {
     kanji: '早',
     keyword: 'early',
-    number: '26'
+    alternativeKeywords: ['early', 'fast'],
+    number: 26
   },
   {
     kanji: '旭',
     keyword: 'rising sun',
-    number: '27'
+    alternativeKeywords: ['rising sun', 'morning sun'],
+    number: 27
   },
   {
     kanji: '世',
     keyword: 'generation',
-    number: '28'
+    alternativeKeywords: ['generation', 'world', 'society', 'public'],
+    number: 28
   },
   {
     kanji: '胃',
     keyword: 'stomach',
-    number: '29'
+    alternativeKeywords: ['stomach', 'paunch', 'crop', 'craw'],
+    number: 29
   },
   {
     kanji: '旦',
     keyword: 'nightbreak',
-    number: '30'
+    alternativeKeywords: ['daybreak', 'dawn', 'morning'],
+    number: 30
   },
   {
     kanji: '胆',
     keyword: 'gall bladder',
-    number: '31'
+    alternativeKeywords: ['gall bladder', 'courage', 'pluck', 'nerve'],
+    number: 31
   },
   {
     kanji: '亘',
     keyword: 'span',
-    number: '32'
+    alternativeKeywords: ['span', 'range', 'extend over'],
+    number: 32
   },
   {
     kanji: '凹',
     keyword: 'concave',
-    number: '33'
+    alternativeKeywords: ['concave', 'hollow', 'sunken'],
+    number: 33
   },
   {
     kanji: '凸',
     keyword: 'convex',
-    number: '34'
+    alternativeKeywords: ['convex', 'beetle brow', 'uneven'],
+    number: 34
   },
   {
     kanji: '旧',
     keyword: 'olden times',
-    number: '35'
+    alternativeKeywords: [
+      'old times',
+      'old things',
+      'old friend',
+      'former',
+      'ex-'
+    ],
+    number: 35
   },
   {
     kanji: '自',
     keyword: 'oneself',
-    number: '36'
+    alternativeKeywords: ['oneself'],
+    number: 36
   },
-  {
-    kanji: '白',
-    keyword: 'white',
-    number: '37'
-  },
+  { kanji: '白', keyword: 'white', alternativeKeywords: ['white'], number: 37 },
   {
     kanji: '百',
     keyword: 'hundred',
-    number: '38'
+    alternativeKeywords: ['hundred'],
+    number: 38
   },
   {
     kanji: '中',
     keyword: 'in',
-    number: '39'
+    alternativeKeywords: ['in', 'inside', 'middle', 'mean', 'center'],
+    number: 39
   },
   {
     kanji: '千',
     keyword: 'thousand',
-    number: '40'
+    alternativeKeywords: ['thousand'],
+    number: 40
   },
   {
     kanji: '舌',
     keyword: 'tongue',
-    number: '41'
+    alternativeKeywords: ['tongue', 'reed', 'clapper'],
+    number: 41
   },
   {
     kanji: '升',
     keyword: 'measuring box',
-    number: '42'
+    alternativeKeywords: ['measuring box', '1.8 liter'],
+    number: 42
   },
   {
     kanji: '昇',
     keyword: 'rise up',
-    number: '43'
+    alternativeKeywords: ['rise up'],
+    number: 43
   },
   {
     kanji: '丸',
     keyword: 'round',
-    number: '44'
+    alternativeKeywords: [
+      'round',
+      'full (month)',
+      'perfection',
+      '-ship',
+      'pills',
+      'make round',
+      'roll up',
+      'curl up',
+      'seduce',
+      'explain away'
+    ],
+    number: 44
   },
   {
     kanji: '寸',
     keyword: 'measurement',
-    number: '45'
+    alternativeKeywords: [
+      'measurement',
+      'tenth of a shaku',
+      'a little',
+      'small'
+    ],
+    number: 45
   },
   {
     kanji: '肘',
     keyword: 'elbow',
-    number: '46'
+    alternativeKeywords: ['elbow', 'arm'],
+    number: 46
   },
   {
     kanji: '専',
     keyword: 'specialty',
-    number: '47'
+    alternativeKeywords: ['specialty', 'exclusive', 'mainly', 'solely'],
+    number: 47
   },
   {
     kanji: '博',
     keyword: 'Dr.',
-    number: '48'
+    alternativeKeywords: [
+      'Dr.',
+      'command',
+      'esteem',
+      'win acclaim',
+      'Ph.D.',
+      'exposition',
+      'fair'
+    ],
+    number: 48
   },
   {
     kanji: '占',
     keyword: 'fortune-telling',
-    number: '49'
+    alternativeKeywords: [
+      'fortune-telling',
+      'divining',
+      'forecasting',
+      'occupy',
+      'hold',
+      'have',
+      'get',
+      'take'
+    ],
+    number: 49
   },
   {
     kanji: '上',
     keyword: 'above',
-    number: '50'
+    alternativeKeywords: ['above', 'up'],
+    number: 50
   },
   {
     kanji: '下',
     keyword: 'below',
-    number: '51'
+    alternativeKeywords: [
+      'below',
+      'down',
+      'descend',
+      'give',
+      'low',
+      'inferior'
+    ],
+    number: 51
   },
   {
     kanji: '卓',
     keyword: 'eminent',
-    number: '52'
+    alternativeKeywords: ['eminent', 'table', 'desk', 'high'],
+    number: 52
   },
   {
     kanji: '朝',
     keyword: 'morning',
-    number: '53'
+    alternativeKeywords: [
+      'morning',
+      'dynasty',
+      'regime',
+      'epoch',
+      'period',
+      '(North) Korea'
+    ],
+    number: 53
   },
   {
     kanji: '嘲',
     keyword: 'derision',
-    number: '54'
+    alternativeKeywords: ['ridicule', 'insult'],
+    number: 54
   },
   {
     kanji: '只',
     keyword: 'only',
-    number: '55'
+    alternativeKeywords: ['only', 'free', 'in addition'],
+    number: 55
   },
   {
     kanji: '貝',
     keyword: 'shellfish',
-    number: '56'
+    alternativeKeywords: ['shellfish'],
+    number: 56
   },
   {
     kanji: '唄',
     keyword: 'pop song',
-    number: '57'
+    alternativeKeywords: ['song', 'ballad'],
+    number: 57
   },
   {
     kanji: '貞',
     keyword: 'upright',
-    number: '58'
+    alternativeKeywords: ['upright', 'chastity', 'constancy', 'righteousness'],
+    number: 58
   },
   {
     kanji: '員',
     keyword: 'employee',
-    number: '59'
+    alternativeKeywords: ['employee', 'member', 'number', 'the one in charge'],
+    number: 59
   },
   {
     kanji: '貼',
     keyword: 'post a bill',
-    number: '60'
+    alternativeKeywords: ['stick', 'paste', 'apply'],
+    number: 60
   },
   {
     kanji: '見',
     keyword: 'see',
-    number: '61'
+    alternativeKeywords: [
+      'see',
+      'hopes',
+      'chances',
+      'idea',
+      'opinion',
+      'look at',
+      'visible'
+    ],
+    number: 61
   },
   {
     kanji: '児',
     keyword: 'newborn babe',
-    number: '62'
+    alternativeKeywords: ['newborn babe', 'child', 'young of animals'],
+    number: 62
   },
   {
     kanji: '元',
     keyword: 'beginning',
-    number: '63'
+    alternativeKeywords: ['beginning', 'former time', 'origin'],
+    number: 63
   },
   {
     kanji: '頁',
     keyword: 'page',
-    number: '64'
+    alternativeKeywords: ['page', 'leaf'],
+    number: 64
   },
   {
     kanji: '頑',
     keyword: 'stubborn',
-    number: '65'
+    alternativeKeywords: ['stubborn', 'foolish', 'firmly'],
+    number: 65
   },
   {
     kanji: '凡',
     keyword: 'mediocre',
-    number: '66'
+    alternativeKeywords: ['commonplace', 'ordinary', 'mediocre'],
+    number: 66
   },
   {
     kanji: '負',
     keyword: 'defeat',
-    number: '67'
+    alternativeKeywords: [
+      'defeat',
+      'negative',
+      '-',
+      'minus',
+      'bear',
+      'owe',
+      'assume a responsibility'
+    ],
+    number: 67
   },
   {
     kanji: '万',
     keyword: 'ten thousand',
-    number: '68'
+    alternativeKeywords: ['ten thousand', '10', '000'],
+    number: 68
   },
   {
     kanji: '句',
     keyword: 'phrase',
-    number: '69'
+    alternativeKeywords: [
+      'phrase',
+      'clause',
+      'sentence',
+      'passage',
+      'paragraph',
+      'counter for haiku'
+    ],
+    number: 69
   },
   {
     kanji: '肌',
     keyword: 'texture',
-    number: '70'
+    alternativeKeywords: ['texture', 'skin', 'body', 'grain'],
+    number: 70
   },
   {
     kanji: '旬',
     keyword: 'decameron',
-    number: '71'
+    alternativeKeywords: [
+      'decameron',
+      'ten-day period',
+      'season (for specific products)'
+    ],
+    number: 71
   },
   {
     kanji: '勺',
     keyword: 'ladle',
-    number: '72'
+    alternativeKeywords: ['ladle', 'one tenth of a go', 'dip'],
+    number: 72
   },
   {
     kanji: '的',
     keyword: 'bull’s eye',
-    number: '73'
+    alternativeKeywords: [
+      "bull's eye",
+      'mark',
+      'target',
+      'object',
+      'adjective ending'
+    ],
+    number: 73
   },
   {
     kanji: '首',
     keyword: 'neck',
-    number: '74'
+    alternativeKeywords: ['neck', 'counter for songs and poems'],
+    number: 74
   },
   {
     kanji: '乙',
     keyword: 'fish guts',
-    number: '75'
+    alternativeKeywords: [
+      'the latter',
+      'duplicate',
+      'strange',
+      'witty',
+      'fishhook radical (no. 5)'
+    ],
+    number: 75
   },
   {
     kanji: '乱',
     keyword: 'riot',
-    number: '76'
+    alternativeKeywords: ['riot', 'war', 'disorder', 'disturb'],
+    number: 76
   },
   {
     kanji: '直',
     keyword: 'straightaway',
-    number: '77'
+    alternativeKeywords: [
+      'straightaway',
+      'honesty',
+      'frankness',
+      'fix',
+      'repair'
+    ],
+    number: 77
   },
   {
     kanji: '具',
     keyword: 'tool',
-    number: '78'
+    alternativeKeywords: [
+      'tool',
+      'utensil',
+      'means',
+      'possess',
+      'ingredients',
+      'counter for armor',
+      'suits',
+      'sets of furniture'
+    ],
+    number: 78
   },
   {
     kanji: '真',
     keyword: 'TRUE',
-    number: '79'
+    alternativeKeywords: ['true', 'reality', 'Buddhist sect'],
+    number: 79
   },
   {
     kanji: '工',
     keyword: 'craft',
-    number: '80'
+    alternativeKeywords: [
+      'craft',
+      'construction',
+      'katakana e radical (no. 48)'
+    ],
+    number: 80
   },
-  {
-    kanji: '左',
-    keyword: 'left',
-    number: '81'
-  },
-  {
-    kanji: '右',
-    keyword: 'right',
-    number: '82'
-  },
+  { kanji: '左', keyword: 'left', alternativeKeywords: ['left'], number: 81 },
+  { kanji: '右', keyword: 'right', alternativeKeywords: ['right'], number: 82 },
   {
     kanji: '有',
     keyword: 'possess',
-    number: '83'
+    alternativeKeywords: [
+      'possess',
+      'have',
+      'exist',
+      'happen',
+      'occur',
+      'approx'
+    ],
+    number: 83
   },
   {
     kanji: '賄',
     keyword: 'bribe',
-    number: '84'
+    alternativeKeywords: ['bribe', 'board', 'supply', 'finance'],
+    number: 84
   },
   {
     kanji: '貢',
     keyword: 'tribute',
-    number: '85'
+    alternativeKeywords: ['tribute', 'support', 'finance'],
+    number: 85
   },
   {
     kanji: '項',
     keyword: 'paragraph',
-    number: '86'
+    alternativeKeywords: [
+      'paragraph',
+      'nape of neck',
+      'clause',
+      'item',
+      'term (expression)'
+    ],
+    number: 86
   },
   {
     kanji: '刀',
     keyword: 'sword',
-    number: '87'
+    alternativeKeywords: ['sword', 'saber', 'knife'],
+    number: 87
   },
   {
     kanji: '刃',
     keyword: 'blade',
-    number: '88'
+    alternativeKeywords: ['blade', 'sword', 'edge'],
+    number: 88
   },
   {
     kanji: '切',
     keyword: 'cut',
-    number: '89'
+    alternativeKeywords: ['cut', 'cutoff', 'be sharp'],
+    number: 89
   },
   {
     kanji: '召',
     keyword: 'seduce',
-    number: '90'
+    alternativeKeywords: [
+      'seduce',
+      'call',
+      'send for',
+      'wear',
+      'put on',
+      'ride in',
+      'buy',
+      'eat',
+      'drink',
+      'catch (cold)'
+    ],
+    number: 90
   },
   {
     kanji: '昭',
     keyword: 'shining',
-    number: '91'
+    alternativeKeywords: ['shining', 'bright'],
+    number: 91
   },
   {
     kanji: '則',
     keyword: 'rule',
-    number: '92'
+    alternativeKeywords: ['rule', 'follow', 'based on', 'model after'],
+    number: 92
   },
   {
     kanji: '副',
     keyword: 'vice-',
-    number: '93'
+    alternativeKeywords: ['vice-', 'assistant', 'aide', 'duplicate', 'copy'],
+    number: 93
   },
   {
     kanji: '別',
     keyword: 'separate',
-    number: '94'
+    alternativeKeywords: [
+      'separate',
+      'branch off',
+      'diverge',
+      'fork',
+      'another',
+      'extra',
+      'specially'
+    ],
+    number: 94
   },
   {
     kanji: '丁',
     keyword: 'street',
-    number: '95'
+    alternativeKeywords: [
+      'street',
+      'ward',
+      'town',
+      'counter for guns',
+      'tools',
+      'leaves or cakes of something',
+      'even number',
+      '4th calendar sign'
+    ],
+    number: 95
   },
   {
     kanji: '町',
     keyword: 'town',
-    number: '96'
+    alternativeKeywords: ['town', 'village', 'block', 'street'],
+    number: 96
   },
   {
     kanji: '可',
     keyword: 'can',
-    number: '97'
+    alternativeKeywords: ['can', 'passable', "mustn't", 'should not', 'do not'],
+    number: 97
   },
   {
     kanji: '頂',
     keyword: 'place on the head',
-    number: '98'
+    alternativeKeywords: [
+      'place on the head',
+      'receive',
+      'top of head',
+      'top',
+      'summit',
+      'peak'
+    ],
+    number: 98
   },
   {
     kanji: '子',
     keyword: 'child',
-    number: '99'
+    alternativeKeywords: [
+      'child',
+      'sign of the rat',
+      '11PM-1AM',
+      'first sign of Chinese zodiac'
+    ],
+    number: 99
   },
   {
     kanji: '孔',
     keyword: 'cavity',
-    number: '100'
+    alternativeKeywords: [
+      'cavity',
+      'hole',
+      'slit',
+      'very',
+      'great',
+      'exceedingly'
+    ],
+    number: 100
   },
   {
     kanji: '了',
     keyword: 'complete',
-    number: '101'
+    alternativeKeywords: ['complete', 'finish'],
+    number: 101
   },
   {
     kanji: '女',
     keyword: 'woman',
-    number: '102'
+    alternativeKeywords: ['woman', 'female'],
+    number: 102
   },
   {
     kanji: '好',
     keyword: 'fond',
-    number: '103'
+    alternativeKeywords: ['fond', 'pleasing', 'like something'],
+    number: 103
   },
   {
     kanji: '如',
     keyword: 'likeness',
-    number: '104'
+    alternativeKeywords: [
+      'likeness',
+      'like',
+      'such as',
+      'as if',
+      'better',
+      'best',
+      'equal'
+    ],
+    number: 104
   },
   {
     kanji: '母',
     keyword: 'mama',
-    number: '105'
+    alternativeKeywords: ['mother'],
+    number: 105
   },
   {
     kanji: '貫',
     keyword: 'pierce',
-    number: '106'
+    alternativeKeywords: ['pierce', '8 1/3lbs', 'penetrate', 'brace'],
+    number: 106
   },
   {
     kanji: '兄',
     keyword: 'elder brother',
-    number: '107'
+    alternativeKeywords: ['elder brother', 'big brother'],
+    number: 107
   },
   {
     kanji: '呪',
     keyword: 'curse',
-    number: '108'
+    alternativeKeywords: ['spell', 'curse', 'charm', 'malediction'],
+    number: 108
   },
   {
     kanji: '克',
     keyword: 'overcome',
-    number: '109'
+    alternativeKeywords: ['overcome', 'kindly', 'skillfully'],
+    number: 109
   },
   {
     kanji: '小',
     keyword: 'little',
-    number: '110'
+    alternativeKeywords: ['little', 'small'],
+    number: 110
   },
   {
     kanji: '少',
     keyword: 'few',
-    number: '111'
+    alternativeKeywords: ['few', 'little'],
+    number: 111
   },
   {
     kanji: '大',
     keyword: 'large',
-    number: '112'
+    alternativeKeywords: ['large', 'big'],
+    number: 112
   },
   {
     kanji: '多',
     keyword: 'many',
-    number: '113'
+    alternativeKeywords: ['many', 'frequent', 'much'],
+    number: 113
   },
   {
     kanji: '夕',
     keyword: 'evening',
-    number: '114'
+    alternativeKeywords: ['evening'],
+    number: 114
   },
   {
     kanji: '汐',
     keyword: 'eventide',
-    number: '115'
+    alternativeKeywords: ['eventide', 'tide', 'salt water', 'opportunity'],
+    number: 115
   },
   {
     kanji: '外',
     keyword: 'outside',
-    number: '116'
+    alternativeKeywords: ['outside'],
+    number: 116
   },
   {
     kanji: '名',
     keyword: 'name',
-    number: '117'
+    alternativeKeywords: ['name', 'noted', 'distinguished', 'reputation'],
+    number: 117
   },
   {
     kanji: '石',
     keyword: 'stone',
-    number: '118'
+    alternativeKeywords: ['stone'],
+    number: 118
   },
   {
     kanji: '肖',
     keyword: 'resemblance',
-    number: '119'
+    alternativeKeywords: ['resemblance'],
+    number: 119
   },
   {
     kanji: '硝',
     keyword: 'nitrate',
-    number: '120'
+    alternativeKeywords: ['nitrate', 'saltpeter'],
+    number: 120
   },
   {
     kanji: '砕',
     keyword: 'smash',
-    number: '121'
+    alternativeKeywords: ['smash', 'break', 'crush', 'familiar', 'popular'],
+    number: 121
   },
-  {
-    kanji: '砂',
-    keyword: 'sand',
-    number: '122'
-  },
+  { kanji: '砂', keyword: 'sand', alternativeKeywords: ['sand'], number: 122 },
   {
     kanji: '妬',
     keyword: 'jealous',
-    number: '123'
+    alternativeKeywords: ['jealous', 'envy'],
+    number: 123
   },
   {
     kanji: '削',
     keyword: 'plane',
-    number: '124'
+    alternativeKeywords: ['plane', 'sharpen', 'whittle', 'pare', 'shave'],
+    number: 124
   },
   {
     kanji: '光',
     keyword: 'ray',
-    number: '125'
+    alternativeKeywords: ['ray', 'light'],
+    number: 125
   },
   {
     kanji: '太',
     keyword: 'plump',
-    number: '126'
+    alternativeKeywords: ['plump', 'thick', 'big around'],
+    number: 126
   },
   {
     kanji: '器',
     keyword: 'utensil',
-    number: '127'
+    alternativeKeywords: [
+      'utensil',
+      'vessel',
+      'receptacle',
+      'implement',
+      'instrument',
+      'ability',
+      'container',
+      'tool',
+      'set'
+    ],
+    number: 127
   },
   {
     kanji: '臭',
     keyword: 'stinking',
-    number: '128'
+    alternativeKeywords: [
+      'stinking',
+      'ill-smelling',
+      'suspicious looking',
+      'odor',
+      'savor',
+      'fragrance',
+      'be fragrant',
+      'stink',
+      'glow',
+      'be bright'
+    ],
+    number: 128
   },
   {
     kanji: '嗅',
     keyword: 'sniff',
-    number: '129'
+    alternativeKeywords: ['smell', 'sniff', 'scent'],
+    number: 129
   },
   {
     kanji: '妙',
     keyword: 'exquisite',
-    number: '130'
+    alternativeKeywords: [
+      'exquisite',
+      'strange',
+      'queer',
+      'mystery',
+      'miracle',
+      'excellent',
+      'delicate',
+      'charming'
+    ],
+    number: 130
   },
   {
     kanji: '省',
     keyword: 'focus',
-    number: '131'
+    alternativeKeywords: ['focus', 'government ministry', 'conserve'],
+    number: 131
   },
   {
     kanji: '厚',
     keyword: 'thick',
-    number: '132'
+    alternativeKeywords: [
+      'thick',
+      'heavy',
+      'rich',
+      'kind',
+      'cordial',
+      'brazen',
+      'shameless'
+    ],
+    number: 132
   },
   {
     kanji: '奇',
     keyword: 'strange',
-    number: '133'
+    alternativeKeywords: ['strange', 'strangeness', 'curiosity'],
+    number: 133
   },
   {
     kanji: '川',
     keyword: 'stream',
-    number: '134'
+    alternativeKeywords: [
+      'stream',
+      'river',
+      'river or three-stroke river radical (no. 47)'
+    ],
+    number: 134
   },
   {
     kanji: '州',
     keyword: 'state',
-    number: '135'
+    alternativeKeywords: ['state', 'province'],
+    number: 135
   },
   {
     kanji: '順',
     keyword: 'obey',
-    number: '136'
+    alternativeKeywords: [
+      'obey',
+      'order',
+      'turn',
+      'right',
+      'docility',
+      'occasion'
+    ],
+    number: 136
   },
   {
     kanji: '水',
     keyword: 'water',
-    number: '137'
+    alternativeKeywords: ['water'],
+    number: 137
   },
   {
     kanji: '氷',
     keyword: 'icicle',
-    number: '138'
+    alternativeKeywords: ['icicle', 'ice', 'hail', 'freeze', 'congeal'],
+    number: 138
   },
   {
     kanji: '永',
     keyword: 'eternity',
-    number: '139'
+    alternativeKeywords: ['eternity', 'long', 'lengthy'],
+    number: 139
   },
   {
     kanji: '泉',
     keyword: 'spring',
-    number: '140'
+    alternativeKeywords: ['spring', 'fountain'],
+    number: 140
   },
   {
     kanji: '腺',
     keyword: 'gland',
-    number: '141'
+    alternativeKeywords: ['gland'],
+    number: 141
   },
   {
     kanji: '原',
     keyword: 'meadow',
-    number: '142'
+    alternativeKeywords: [
+      'meadow',
+      'original',
+      'primitive',
+      'field',
+      'plain',
+      'prairie',
+      'tundra',
+      'wilderness'
+    ],
+    number: 142
   },
   {
     kanji: '願',
     keyword: 'petition',
-    number: '143'
+    alternativeKeywords: ['petition', 'request', 'vow', 'wish', 'hope'],
+    number: 143
   },
-  {
-    kanji: '泳',
-    keyword: 'swim',
-    number: '144'
-  },
+  { kanji: '泳', keyword: 'swim', alternativeKeywords: ['swim'], number: 144 },
   {
     kanji: '沼',
     keyword: 'marsh',
-    number: '145'
+    alternativeKeywords: ['marsh', 'lake', 'bog', 'swamp', 'pond'],
+    number: 145
   },
   {
     kanji: '沖',
     keyword: 'open sea',
-    number: '146'
+    alternativeKeywords: ['open sea', 'offing', 'rise high into sky'],
+    number: 146
   },
-  {
-    kanji: '汎',
-    keyword: 'pan-',
-    number: '147'
-  },
+  { kanji: '汎', keyword: 'pan-', alternativeKeywords: ['pan-'], number: 147 },
   {
     kanji: '江',
     keyword: 'creek',
-    number: '148'
+    alternativeKeywords: ['creek', 'inlet', 'bay'],
+    number: 148
   },
   {
     kanji: '汰',
     keyword: 'cleanse',
-    number: '149'
+    alternativeKeywords: [
+      'washing',
+      'sieving',
+      'filtering',
+      'weeding out',
+      'luxury'
+    ],
+    number: 149
   },
   {
     kanji: '汁',
     keyword: 'soup',
-    number: '150'
+    alternativeKeywords: ['soup', 'juice', 'broth', 'sap', 'gravy', 'pus'],
+    number: 150
   },
   {
     kanji: '沙',
     keyword: 'grains of sand',
-    number: '151'
+    alternativeKeywords: ['sand'],
+    number: 151
   },
   {
     kanji: '潮',
     keyword: 'tide',
-    number: '152'
+    alternativeKeywords: ['tide', 'salt water', 'opportunity'],
+    number: 152
   },
   {
     kanji: '源',
     keyword: 'source',
-    number: '153'
+    alternativeKeywords: ['source', 'origin'],
+    number: 153
   },
   {
     kanji: '活',
     keyword: 'lively',
-    number: '154'
+    alternativeKeywords: ['lively', 'resuscitation', 'being helped', 'living'],
+    number: 154
   },
   {
     kanji: '消',
     keyword: 'extinguish',
-    number: '155'
+    alternativeKeywords: [
+      'extinguish',
+      'blow out',
+      'turn off',
+      'neutralize',
+      'cancel'
+    ],
+    number: 155
   },
   {
     kanji: '況',
     keyword: 'but of course',
-    number: '156'
+    alternativeKeywords: ['condition', 'situation'],
+    number: 156
   },
   {
     kanji: '河',
     keyword: 'river',
-    number: '157'
+    alternativeKeywords: ['river'],
+    number: 157
   },
   {
     kanji: '泊',
     keyword: 'overnight',
-    number: '158'
+    alternativeKeywords: ['overnight stay', 'put up at', 'ride at anchor'],
+    number: 158
   },
-  {
-    kanji: '湖',
-    keyword: 'lake',
-    number: '159'
-  },
+  { kanji: '湖', keyword: 'lake', alternativeKeywords: ['lake'], number: 159 },
   {
     kanji: '測',
     keyword: 'fathom',
-    number: '160'
+    alternativeKeywords: ['fathom', 'plan', 'scheme', 'measure'],
+    number: 160
   },
   {
     kanji: '土',
     keyword: 'soil',
-    number: '161'
+    alternativeKeywords: ['soil', 'earth', 'ground', 'Turkey'],
+    number: 161
   },
   {
     kanji: '吐',
     keyword: 'spit',
-    number: '162'
+    alternativeKeywords: ['spit', 'vomit', 'belch', 'confess', 'tell (lies)'],
+    number: 162
   },
   {
     kanji: '圧',
     keyword: 'pressure',
-    number: '163'
+    alternativeKeywords: [
+      'pressure',
+      'push',
+      'overwhelm',
+      'oppress',
+      'dominate'
+    ],
+    number: 163
   },
   {
     kanji: '埼',
     keyword: 'cape',
-    number: '164'
+    alternativeKeywords: ['cape', 'spit', 'promontory'],
+    number: 164
   },
   {
     kanji: '垣',
     keyword: 'hedge',
-    number: '165'
+    alternativeKeywords: ['hedge', 'fence', 'wall'],
+    number: 165
   },
   {
     kanji: '塡',
     keyword: 'inlay',
-    number: '166'
+    alternativeKeywords: ['fill in', 'fill up', 'make good'],
+    number: 166
   },
   {
     kanji: '圭',
     keyword: 'squared jewel',
-    number: '167'
+    alternativeKeywords: ['square jewel', 'corner', 'angle', 'edge'],
+    number: 167
   },
   {
     kanji: '封',
     keyword: 'seal',
-    number: '168'
+    alternativeKeywords: ['seal', 'closing'],
+    number: 168
   },
   {
     kanji: '涯',
     keyword: 'horizon',
-    number: '169'
+    alternativeKeywords: ['horizon', 'shore', 'limit', 'bound'],
+    number: 169
   },
   {
     kanji: '寺',
     keyword: 'Buddhist temple',
-    number: '170'
+    alternativeKeywords: ['Buddhist temple'],
+    number: 170
   },
   {
     kanji: '時',
     keyword: 'time',
-    number: '171'
+    alternativeKeywords: ['time', 'hour'],
+    number: 171
   },
   {
     kanji: '均',
     keyword: 'level',
-    number: '172'
+    alternativeKeywords: ['level', 'average'],
+    number: 172
   },
-  {
-    kanji: '火',
-    keyword: 'fire',
-    number: '173'
-  },
+  { kanji: '火', keyword: 'fire', alternativeKeywords: ['fire'], number: 173 },
   {
     kanji: '炎',
     keyword: 'inflammation',
-    number: '174'
+    alternativeKeywords: ['inflammation', 'flame', 'blaze'],
+    number: 174
   },
   {
     kanji: '煩',
     keyword: 'anxiety',
-    number: '175'
+    alternativeKeywords: [
+      'anxiety',
+      'trouble',
+      'worry',
+      'pain',
+      'ill',
+      'annoy',
+      'nuisance',
+      'irksome'
+    ],
+    number: 175
   },
   {
     kanji: '淡',
     keyword: 'thin',
-    number: '176'
+    alternativeKeywords: ['thin', 'faint', 'pale', 'fleeting'],
+    number: 176
   },
   {
     kanji: '灯',
     keyword: 'lamp',
-    number: '177'
+    alternativeKeywords: ['lamp', 'a light', 'light', 'counter for lights'],
+    number: 177
   },
   {
     kanji: '畑',
     keyword: 'farm',
-    number: '178'
+    alternativeKeywords: [
+      'farm',
+      'field',
+      'garden',
+      "one's specialty",
+      '(kokuji)'
+    ],
+    number: 178
   },
   {
     kanji: '災',
     keyword: 'disaster',
-    number: '179'
+    alternativeKeywords: ['disaster', 'calamity', 'woe', 'curse', 'evil'],
+    number: 179
   },
   {
     kanji: '灰',
     keyword: 'ashes',
-    number: '180'
+    alternativeKeywords: ['ashes', 'puckery juice', 'cremate'],
+    number: 180
   },
   {
     kanji: '点',
     keyword: 'spot',
-    number: '181'
+    alternativeKeywords: ['spot', 'point', 'mark', 'speck', 'decimal point'],
+    number: 181
   },
   {
     kanji: '照',
     keyword: 'illuminate',
-    number: '182'
+    alternativeKeywords: ['illuminate', 'shine', 'compare', 'bashful'],
+    number: 182
   },
-  {
-    kanji: '魚',
-    keyword: 'fish',
-    number: '183'
-  },
+  { kanji: '魚', keyword: 'fish', alternativeKeywords: ['fish'], number: 183 },
   {
     kanji: '漁',
     keyword: 'fishing',
-    number: '184'
+    alternativeKeywords: ['fishing', 'fishery'],
+    number: 184
   },
   {
     kanji: '里',
     keyword: 'ri',
-    number: '185'
+    alternativeKeywords: ['ri', 'village', "parent's home", 'league'],
+    number: 185
   },
   {
     kanji: '黒',
     keyword: 'black',
-    number: '186'
+    alternativeKeywords: ['black'],
+    number: 186
   },
   {
     kanji: '墨',
     keyword: 'black ink',
-    number: '187'
+    alternativeKeywords: ['black ink', 'India ink', 'ink stick', 'Mexico'],
+    number: 187
   },
-  {
-    kanji: '鯉',
-    keyword: 'carp',
-    number: '188'
-  },
+  { kanji: '鯉', keyword: 'carp', alternativeKeywords: ['carp'], number: 188 },
   {
     kanji: '量',
     keyword: 'quantity',
-    number: '189'
+    alternativeKeywords: [
+      'quantity',
+      'measure',
+      'weight',
+      'amount',
+      'consider',
+      'estimate',
+      'surmise'
+    ],
+    number: 189
   },
   {
     kanji: '厘',
     keyword: 'rin',
-    number: '190'
+    alternativeKeywords: ['rin', '1/10 sen', '1/10 bu'],
+    number: 190
   },
   {
     kanji: '埋',
     keyword: 'bury',
-    number: '191'
+    alternativeKeywords: ['bury', 'be filled up', 'embedded'],
+    number: 191
   },
   {
     kanji: '同',
     keyword: 'same',
-    number: '192'
+    alternativeKeywords: ['same', 'agree', 'equal'],
+    number: 192
   },
   {
     kanji: '洞',
     keyword: 'den',
-    number: '193'
+    alternativeKeywords: ['den', 'cave', 'excavation'],
+    number: 193
   },
   {
     kanji: '胴',
     keyword: 'trunk',
-    number: '194'
+    alternativeKeywords: ['trunk', 'torso', 'hull (ship)', 'hub of wheel'],
+    number: 194
   },
   {
     kanji: '向',
     keyword: 'yonder',
-    number: '195'
+    alternativeKeywords: [
+      'yonder',
+      'facing',
+      'beyond',
+      'confront',
+      'defy',
+      'tend toward',
+      'approach'
+    ],
+    number: 195
   },
   {
     kanji: '尚',
     keyword: 'esteem',
-    number: '196'
+    alternativeKeywords: ['esteem', 'furthermore', 'still', 'yet'],
+    number: 196
   },
   {
     kanji: '字',
     keyword: 'character',
-    number: '197'
+    alternativeKeywords: ['character', 'letter', 'word', 'section of village'],
+    number: 197
   },
   {
     kanji: '守',
     keyword: 'guard',
-    number: '198'
+    alternativeKeywords: ['guard', 'protect', 'defend', 'obey'],
+    number: 198
   },
   {
     kanji: '完',
     keyword: 'perfect',
-    number: '199'
+    alternativeKeywords: ['perfect', 'completion', 'end'],
+    number: 199
   },
   {
     kanji: '宣',
     keyword: 'proclaim',
-    number: '200'
+    alternativeKeywords: ['proclaim', 'say', 'announce'],
+    number: 200
   },
   {
     kanji: '宵',
     keyword: 'wee hours',
-    number: '201'
+    alternativeKeywords: ['wee hours', 'evening', 'early night'],
+    number: 201
   },
   {
     kanji: '安',
     keyword: 'relax',
-    number: '202'
+    alternativeKeywords: [
+      'relax',
+      'cheap',
+      'low',
+      'quiet',
+      'rested',
+      'contented',
+      'peaceful'
+    ],
+    number: 202
   },
   {
     kanji: '宴',
     keyword: 'banquet',
-    number: '203'
+    alternativeKeywords: ['banquet', 'feast', 'party'],
+    number: 203
   },
   {
     kanji: '寄',
     keyword: 'draw near',
-    number: '204'
+    alternativeKeywords: [
+      'draw near',
+      'stop in',
+      'bring near',
+      'gather',
+      'collect',
+      'send',
+      'forward'
+    ],
+    number: 204
   },
   {
     kanji: '富',
     keyword: 'wealth',
-    number: '205'
+    alternativeKeywords: ['wealth', 'enrich', 'abundant'],
+    number: 205
   },
   {
     kanji: '貯',
     keyword: 'savings',
-    number: '206'
+    alternativeKeywords: [
+      'savings',
+      'store',
+      'lay in',
+      'keep',
+      'wear mustache'
+    ],
+    number: 206
   },
   {
     kanji: '木',
     keyword: 'tree',
-    number: '207'
+    alternativeKeywords: ['tree', 'wood'],
+    number: 207
   },
   {
     kanji: '林',
     keyword: 'grove',
-    number: '208'
+    alternativeKeywords: ['grove', 'forest'],
+    number: 208
   },
   {
     kanji: '森',
     keyword: 'forest',
-    number: '209'
+    alternativeKeywords: ['forest', 'woods'],
+    number: 209
   },
   {
     kanji: '桂',
     keyword: 'Japanese Judas-tree',
-    number: '210'
+    alternativeKeywords: ['Japanese Judas-tree', 'cinnamon tree'],
+    number: 210
   },
   {
     kanji: '柏',
     keyword: 'oak',
-    number: '211'
+    alternativeKeywords: ['oak', 'cypress'],
+    number: 211
   },
   {
     kanji: '枠',
     keyword: 'frame',
-    number: '212'
+    alternativeKeywords: [
+      'frame',
+      'framework',
+      'spindle',
+      'spool',
+      'bounding-box',
+      '(kokuji)'
+    ],
+    number: 212
   },
   {
     kanji: '梢',
     keyword: 'treetops',
-    number: '213'
+    alternativeKeywords: ['treetops', 'twig'],
+    number: 213
   },
   {
     kanji: '棚',
     keyword: 'shelf',
-    number: '214'
+    alternativeKeywords: [
+      'shelf',
+      'ledge',
+      'rack',
+      'mount',
+      'mantle',
+      'trellis'
+    ],
+    number: 214
   },
   {
     kanji: '杏',
     keyword: 'apricot',
-    number: '215'
+    alternativeKeywords: ['apricot'],
+    number: 215
   },
   {
     kanji: '桐',
     keyword: 'paulownia',
-    number: '216'
+    alternativeKeywords: ['paulownia'],
+    number: 216
   },
   {
     kanji: '植',
     keyword: 'plant',
-    number: '217'
+    alternativeKeywords: ['plant'],
+    number: 217
   },
   {
     kanji: '椅',
     keyword: 'chair',
-    number: '218'
+    alternativeKeywords: ['chair'],
+    number: 218
   },
   {
     kanji: '枯',
     keyword: 'wither',
-    number: '219'
+    alternativeKeywords: ['wither', 'die', 'dry up', 'be seasoned'],
+    number: 219
   },
   {
     kanji: '朴',
     keyword: 'crude',
-    number: '220'
+    alternativeKeywords: ['crude', 'simple', 'plain', 'docile'],
+    number: 220
   },
   {
     kanji: '村',
     keyword: 'village',
-    number: '221'
+    alternativeKeywords: ['village', 'town'],
+    number: 221
   },
   {
     kanji: '相',
     keyword: 'inter-',
-    number: '222'
+    alternativeKeywords: [
+      'inter-',
+      'mutual',
+      'together',
+      'each other',
+      'minister of state',
+      'councillor',
+      'aspect',
+      'phase',
+      'physiognomy'
+    ],
+    number: 222
   },
   {
     kanji: '机',
     keyword: 'desk',
-    number: '223'
+    alternativeKeywords: ['desk', 'table'],
+    number: 223
   },
   {
     kanji: '本',
     keyword: 'book',
-    number: '224'
+    alternativeKeywords: [
+      'book',
+      'present',
+      'main',
+      'origin',
+      'true',
+      'real',
+      'counter for long cylindrical things'
+    ],
+    number: 224
   },
   {
     kanji: '札',
     keyword: 'tag',
-    number: '225'
+    alternativeKeywords: [
+      'tag',
+      'paper money',
+      'counter for bonds',
+      'placard',
+      'bid'
+    ],
+    number: 225
   },
   {
     kanji: '暦',
     keyword: 'calendar',
-    number: '226'
+    alternativeKeywords: ['calendar', 'almanac'],
+    number: 226
   },
   {
     kanji: '案',
     keyword: 'plan',
-    number: '227'
+    alternativeKeywords: [
+      'plan',
+      'suggestion',
+      'draft',
+      'ponder',
+      'fear',
+      'proposition',
+      'idea',
+      'expectation',
+      'worry',
+      'table',
+      'bench'
+    ],
+    number: 227
   },
   {
     kanji: '燥',
     keyword: 'parch',
-    number: '228'
+    alternativeKeywords: ['parch', 'dry up'],
+    number: 228
   },
   {
     kanji: '未',
     keyword: 'not yet',
-    number: '229'
+    alternativeKeywords: [
+      'un-',
+      'not yet',
+      'hitherto',
+      'still',
+      'even now',
+      'sign of the ram',
+      '1-3PM',
+      'eighth sign of Chinese zodiac'
+    ],
+    number: 229
   },
   {
     kanji: '末',
     keyword: 'extremity',
-    number: '230'
+    alternativeKeywords: ['end', 'close', 'tip', 'powder', 'posterity'],
+    number: 230
   },
   {
     kanji: '昧',
     keyword: 'obscure',
-    number: '231'
+    alternativeKeywords: ['dark', 'foolish'],
+    number: 231
   },
   {
     kanji: '沫',
     keyword: 'splash',
-    number: '232'
+    alternativeKeywords: ['splash', 'suds'],
+    number: 232
   },
   {
     kanji: '味',
     keyword: 'flavor',
-    number: '233'
+    alternativeKeywords: ['flavor', 'taste'],
+    number: 233
   },
   {
     kanji: '妹',
     keyword: 'younger sister',
-    number: '234'
+    alternativeKeywords: ['younger sister'],
+    number: 234
   },
   {
     kanji: '朱',
     keyword: 'vermilion',
-    number: '235'
+    alternativeKeywords: ['vermilion', 'cinnabar', 'scarlet', 'red', 'bloody'],
+    number: 235
   },
   {
     kanji: '株',
     keyword: 'stocks',
-    number: '236'
+    alternativeKeywords: [
+      'stocks',
+      'stump',
+      'shares',
+      'stock',
+      'counter for small plants'
+    ],
+    number: 236
   },
   {
     kanji: '若',
     keyword: 'young',
-    number: '237'
+    alternativeKeywords: [
+      'young',
+      'if',
+      'perhaps',
+      'possibly',
+      'low number',
+      'immature'
+    ],
+    number: 237
   },
   {
     kanji: '草',
     keyword: 'grass',
-    number: '238'
+    alternativeKeywords: [
+      'grass',
+      'weeds',
+      'herbs',
+      'pasture',
+      'write',
+      'draft'
+    ],
+    number: 238
   },
   {
     kanji: '苦',
     keyword: 'suffering',
-    number: '239'
+    alternativeKeywords: [
+      'suffering',
+      'trial',
+      'worry',
+      'hardship',
+      'feel bitter',
+      'scowl'
+    ],
+    number: 239
   },
   {
     kanji: '苛',
     keyword: 'bullying',
-    number: '240'
+    alternativeKeywords: ['torment', 'scold', 'chastise'],
+    number: 240
   },
   {
     kanji: '寛',
     keyword: 'tolerant',
-    number: '241'
+    alternativeKeywords: [
+      'tolerant',
+      'leniency',
+      'generosity',
+      'relax',
+      'feel at home',
+      'be at ease',
+      'broadminded'
+    ],
+    number: 241
   },
   {
     kanji: '薄',
     keyword: 'dilute',
-    number: '242'
+    alternativeKeywords: ['dilute', 'thin', 'weak (tea)', 'pampas grass'],
+    number: 242
   },
   {
     kanji: '葉',
     keyword: 'leaf',
-    number: '243'
+    alternativeKeywords: [
+      'leaf',
+      'plane',
+      'lobe',
+      'needle',
+      'blade',
+      'spear',
+      'counter for flat things',
+      'fragment',
+      'piece'
+    ],
+    number: 243
   },
   {
     kanji: '模',
     keyword: 'imitation',
-    number: '244'
+    alternativeKeywords: ['imitation', 'copy', 'mock'],
+    number: 244
   },
   {
     kanji: '漠',
     keyword: 'vague',
-    number: '245'
+    alternativeKeywords: ['vague', 'obscure', 'desert', 'wide'],
+    number: 245
   },
   {
     kanji: '墓',
     keyword: 'grave',
-    number: '246'
+    alternativeKeywords: ['grave', 'tomb'],
+    number: 246
   },
   {
     kanji: '暮',
     keyword: 'livelihood',
-    number: '247'
+    alternativeKeywords: [
+      'evening',
+      'twilight',
+      "season's end",
+      'livelihood',
+      'make a living',
+      'spend time'
+    ],
+    number: 247
   },
   {
     kanji: '膜',
     keyword: 'membrane',
-    number: '248'
+    alternativeKeywords: ['membrane'],
+    number: 248
   },
   {
     kanji: '苗',
     keyword: 'seedling',
-    number: '249'
+    alternativeKeywords: ['seedling', 'sapling', 'shoot'],
+    number: 249
   },
   {
     kanji: '兆',
     keyword: 'portent',
-    number: '250'
+    alternativeKeywords: [
+      'portent',
+      '10**12',
+      'trillion',
+      'sign',
+      'omen',
+      'symptoms'
+    ],
+    number: 250
   },
   {
     kanji: '桃',
     keyword: 'peach tree',
-    number: '251'
+    alternativeKeywords: ['peach'],
+    number: 251
   },
   {
     kanji: '眺',
     keyword: 'stare',
-    number: '252'
+    alternativeKeywords: ['stare', 'watch', 'look at', 'see', 'scrutinize'],
+    number: 252
   },
-  {
-    kanji: '犬',
-    keyword: 'dog',
-    number: '253'
-  },
+  { kanji: '犬', keyword: 'dog', alternativeKeywords: ['dog'], number: 253 },
   {
     kanji: '状',
     keyword: 'status quo',
-    number: '254'
+    alternativeKeywords: [
+      'status quo',
+      'conditions',
+      'circumstances',
+      'form',
+      'appearance'
+    ],
+    number: 254
   },
   {
     kanji: '黙',
     keyword: 'silence',
-    number: '255'
+    alternativeKeywords: [
+      'silence',
+      'become silent',
+      'stop speaking',
+      'leave as is'
+    ],
+    number: 255
   },
   {
     kanji: '然',
     keyword: 'sort of thing',
-    number: '256'
+    alternativeKeywords: [
+      'sort of thing',
+      'so',
+      'if so',
+      'in that case',
+      'well'
+    ],
+    number: 256
   },
   {
     kanji: '荻',
     keyword: 'reed',
-    number: '257'
+    alternativeKeywords: ['reed', 'rush'],
+    number: 257
   },
   {
     kanji: '狩',
     keyword: 'hunt',
-    number: '258'
+    alternativeKeywords: ['hunt', 'raid', 'gather'],
+    number: 258
   },
-  {
-    kanji: '猫',
-    keyword: 'cat',
-    number: '259'
-  },
-  {
-    kanji: '牛',
-    keyword: 'cow',
-    number: '260'
-  },
+  { kanji: '猫', keyword: 'cat', alternativeKeywords: ['cat'], number: 259 },
+  { kanji: '牛', keyword: 'cow', alternativeKeywords: ['cow'], number: 260 },
   {
     kanji: '特',
     keyword: 'special',
-    number: '261'
+    alternativeKeywords: ['special'],
+    number: 261
   },
   {
     kanji: '告',
     keyword: 'revelation',
-    number: '262'
+    alternativeKeywords: ['revelation', 'tell', 'inform', 'announce'],
+    number: 262
   },
   {
     kanji: '先',
     keyword: 'before',
-    number: '263'
+    alternativeKeywords: [
+      'before',
+      'ahead',
+      'previous',
+      'future',
+      'precedence'
+    ],
+    number: 263
   },
   {
     kanji: '洗',
     keyword: 'wash',
-    number: '264'
+    alternativeKeywords: ['wash', 'inquire into', 'probe'],
+    number: 264
   },
   {
     kanji: '介',
     keyword: 'jammed in',
-    number: '265'
+    alternativeKeywords: [
+      'jammed in',
+      'shellfish',
+      'mediate',
+      'concern oneself with'
+    ],
+    number: 265
   },
   {
     kanji: '界',
     keyword: 'world',
-    number: '266'
+    alternativeKeywords: ['world', 'boundary'],
+    number: 266
   },
-  {
-    kanji: '茶',
-    keyword: 'tea',
-    number: '267'
-  },
+  { kanji: '茶', keyword: 'tea', alternativeKeywords: ['tea'], number: 267 },
   {
     kanji: '脊',
     keyword: 'spinal column',
-    number: '268'
+    alternativeKeywords: ['stature', 'height'],
+    number: 268
   },
   {
     kanji: '合',
     keyword: 'fit',
-    number: '269'
+    alternativeKeywords: ['fit', 'suit', 'join', '0.1'],
+    number: 269
   },
   {
     kanji: '塔',
     keyword: 'pagoda',
-    number: '270'
+    alternativeKeywords: ['pagoda', 'tower', 'steeple'],
+    number: 270
   },
   {
     kanji: '王',
     keyword: 'king',
-    number: '271'
+    alternativeKeywords: ['king', 'rule', 'magnate'],
+    number: 271
   },
   {
     kanji: '玉',
     keyword: 'jewel',
-    number: '272'
+    alternativeKeywords: ['jewel', 'ball'],
+    number: 272
   },
   {
     kanji: '宝',
     keyword: 'treasure',
-    number: '273'
+    alternativeKeywords: ['treasure', 'wealth', 'valuables'],
+    number: 273
   },
   {
     kanji: '珠',
     keyword: 'pearl',
-    number: '274'
+    alternativeKeywords: ['pearl', 'gem', 'jewel'],
+    number: 274
   },
   {
     kanji: '現',
     keyword: 'present',
-    number: '275'
+    alternativeKeywords: ['present', 'existing', 'actual'],
+    number: 275
   },
   {
     kanji: '玩',
     keyword: 'toy',
-    number: '276'
+    alternativeKeywords: [
+      'play',
+      'take pleasure in',
+      'trifle with',
+      'make sport of'
+    ],
+    number: 276
   },
   {
     kanji: '狂',
     keyword: 'lunatic',
-    number: '277'
+    alternativeKeywords: ['lunatic', 'insane', 'crazy', 'confuse'],
+    number: 277
   },
   {
     kanji: '旺',
     keyword: 'effulgent',
-    number: '278'
+    alternativeKeywords: ['flourishing', 'successful', 'beautiful', 'vigorous'],
+    number: 278
   },
   {
     kanji: '皇',
     keyword: 'emperor',
-    number: '279'
+    alternativeKeywords: ['emperor'],
+    number: 279
   },
   {
     kanji: '呈',
     keyword: 'display',
-    number: '280'
+    alternativeKeywords: ['display', 'offer', 'present', 'send', 'exhibit'],
+    number: 280
   },
   {
     kanji: '全',
     keyword: 'whole',
-    number: '281'
+    alternativeKeywords: ['whole', 'entire', 'all', 'complete', 'fulfill'],
+    number: 281
   },
   {
     kanji: '栓',
     keyword: 'plug',
-    number: '282'
+    alternativeKeywords: ['plug', 'bolt', 'cork', 'bung', 'stopper'],
+    number: 282
   },
   {
     kanji: '理',
     keyword: 'logic',
-    number: '283'
+    alternativeKeywords: ['logic', 'arrangement', 'reason', 'justice', 'truth'],
+    number: 283
   },
   {
     kanji: '主',
     keyword: 'lord',
-    number: '284'
+    alternativeKeywords: ['lord', 'chief', 'master', 'main thing', 'principal'],
+    number: 284
   },
   {
     kanji: '注',
     keyword: 'pour',
-    number: '285'
+    alternativeKeywords: [
+      'pour',
+      'irrigate',
+      'shed (tears)',
+      'flow into',
+      'concentrate on',
+      'notes',
+      'comment',
+      'annotate'
+    ],
+    number: 285
   },
   {
     kanji: '柱',
     keyword: 'pillar',
-    number: '286'
+    alternativeKeywords: ['pillar', 'post', 'cylinder', 'support'],
+    number: 286
   },
-  {
-    kanji: '金',
-    keyword: 'gold',
-    number: '287'
-  },
+  { kanji: '金', keyword: 'gold', alternativeKeywords: ['gold'], number: 287 },
   {
     kanji: '銑',
     keyword: 'pig iron',
-    number: '288'
+    alternativeKeywords: ['pig iron'],
+    number: 288
   },
   {
     kanji: '鉢',
     keyword: 'bowl',
-    number: '289'
+    alternativeKeywords: ['bowl', 'rice tub', 'pot', 'crown'],
+    number: 289
   },
   {
     kanji: '銅',
     keyword: 'copper',
-    number: '290'
+    alternativeKeywords: ['copper'],
+    number: 290
   },
   {
     kanji: '釣',
     keyword: 'angling',
-    number: '291'
+    alternativeKeywords: ['angling', 'fish', 'catch', 'allure', 'ensnare'],
+    number: 291
   },
   {
     kanji: '針',
     keyword: 'needle',
-    number: '292'
+    alternativeKeywords: ['needle', 'pin', 'staple', 'stinger'],
+    number: 292
   },
   {
     kanji: '銘',
     keyword: 'inscription',
-    number: '293'
+    alternativeKeywords: ['inscription', 'signature (of artisan)'],
+    number: 293
   },
   {
     kanji: '鎮',
     keyword: 'tranquilize',
-    number: '294'
+    alternativeKeywords: ['tranquilize', 'ancient peace-preservation centers'],
+    number: 294
   },
   {
     kanji: '道',
     keyword: 'road-way',
-    number: '295'
+    alternativeKeywords: [
+      'road-way',
+      'street',
+      'district',
+      'journey',
+      'course',
+      'moral',
+      'teachings'
+    ],
+    number: 295
   },
   {
     kanji: '導',
     keyword: 'guidance',
-    number: '296'
+    alternativeKeywords: ['guidance', 'leading', 'conduct', 'usher'],
+    number: 296
   },
   {
     kanji: '辻',
     keyword: 'crossing',
-    number: '297'
+    alternativeKeywords: [
+      'crossing',
+      'crossroad',
+      'street corners',
+      '(kokuji)'
+    ],
+    number: 297
   },
   {
     kanji: '迅',
     keyword: 'swift',
-    number: '298'
+    alternativeKeywords: ['swift', 'fast'],
+    number: 298
   },
   {
     kanji: '造',
     keyword: 'create',
-    number: '299'
+    alternativeKeywords: ['create', 'make', 'structure', 'physique'],
+    number: 299
   },
   {
     kanji: '迫',
     keyword: 'urge',
-    number: '300'
+    alternativeKeywords: ['urge', 'force', 'imminent', 'spur on'],
+    number: 300
   },
   {
     kanji: '逃',
     keyword: 'escape',
-    number: '301'
+    alternativeKeywords: ['escape', 'flee', 'shirk', 'evade', 'set free'],
+    number: 301
   },
   {
     kanji: '辺',
     keyword: 'environs',
-    number: '302'
+    alternativeKeywords: ['environs', 'boundary', 'border', 'vicinity'],
+    number: 302
   },
   {
     kanji: '巡',
     keyword: 'patrol',
-    number: '303'
+    alternativeKeywords: ['patrol', 'go around', 'circumference'],
+    number: 303
   },
-  {
-    kanji: '車',
-    keyword: 'car',
-    number: '304'
-  },
+  { kanji: '車', keyword: 'car', alternativeKeywords: ['car'], number: 304 },
   {
     kanji: '連',
     keyword: 'take along',
-    number: '305'
+    alternativeKeywords: [
+      'take along',
+      'lead',
+      'join',
+      'connect',
+      'party',
+      'gang',
+      'clique'
+    ],
+    number: 305
   },
   {
     kanji: '軌',
     keyword: 'rut',
-    number: '306'
+    alternativeKeywords: ['rut', 'wheel', 'track', 'model', 'way of doing'],
+    number: 306
   },
   {
     kanji: '輸',
     keyword: 'transport',
-    number: '307'
+    alternativeKeywords: ['transport', 'send', 'be inferior'],
+    number: 307
   },
   {
     kanji: '喩',
     keyword: 'metaphor',
-    number: '308'
+    alternativeKeywords: ['metaphor', 'compare'],
+    number: 308
   },
   {
     kanji: '前',
     keyword: 'in front',
-    number: '309'
+    alternativeKeywords: ['in front', 'before'],
+    number: 309
   },
   {
     kanji: '煎',
     keyword: 'roast',
-    number: '310'
+    alternativeKeywords: ['broil', 'parch', 'roast', 'boil'],
+    number: 310
   },
   {
     kanji: '各',
     keyword: 'each',
-    number: '311'
+    alternativeKeywords: ['each', 'every', 'either'],
+    number: 311
   },
   {
     kanji: '格',
     keyword: 'status',
-    number: '312'
+    alternativeKeywords: [
+      'status',
+      'rank',
+      'capacity',
+      'character',
+      'case (law',
+      'grammar)'
+    ],
+    number: 312
   },
   {
     kanji: '賂',
     keyword: 'graft',
-    number: '313'
+    alternativeKeywords: ['bribe'],
+    number: 313
   },
   {
     kanji: '略',
     keyword: 'abbreviation',
-    number: '314'
+    alternativeKeywords: [
+      'abbreviation',
+      'omission',
+      'outline',
+      'shorten',
+      'capture',
+      'plunder'
+    ],
+    number: 314
   },
   {
     kanji: '客',
     keyword: 'guest',
-    number: '315'
+    alternativeKeywords: ['guest', 'visitor', 'customer', 'client'],
+    number: 315
   },
   {
     kanji: '額',
     keyword: 'forehead',
-    number: '316'
+    alternativeKeywords: [
+      'forehead',
+      'tablet',
+      'plaque',
+      'framed picture',
+      'sum',
+      'amount',
+      'volume'
+    ],
+    number: 316
   },
   {
     kanji: '夏',
     keyword: 'summer',
-    number: '317'
+    alternativeKeywords: ['summer'],
+    number: 317
   },
   {
     kanji: '処',
     keyword: 'dispose',
-    number: '318'
+    alternativeKeywords: [
+      'dispose',
+      'manage',
+      'deal with',
+      'sentence',
+      'condemn',
+      'act',
+      'behave',
+      'place'
+    ],
+    number: 318
   },
   {
     kanji: '条',
     keyword: 'twig',
-    number: '319'
+    alternativeKeywords: ['article', 'clause', 'item', 'stripe', 'streak'],
+    number: 319
   },
   {
     kanji: '落',
     keyword: 'fall',
-    number: '320'
+    alternativeKeywords: ['fall', 'drop', 'come down', 'village', 'hamlet'],
+    number: 320
   },
   {
     kanji: '冗',
     keyword: 'superfluous',
-    number: '321'
+    alternativeKeywords: ['superfluous', 'uselessness'],
+    number: 321
   },
-  {
-    kanji: '冥',
-    keyword: 'Hades',
-    number: '322'
-  },
+  { kanji: '冥', keyword: 'Hades', alternativeKeywords: ['dark'], number: 322 },
   {
     kanji: '軍',
     keyword: 'army',
-    number: '323'
+    alternativeKeywords: ['army', 'force', 'troops', 'war', 'battle'],
+    number: 323
   },
   {
     kanji: '輝',
     keyword: 'radiance',
-    number: '324'
+    alternativeKeywords: ['radiance', 'shine', 'sparkle', 'gleam', 'twinkle'],
+    number: 324
   },
   {
     kanji: '運',
     keyword: 'carry',
-    number: '325'
+    alternativeKeywords: [
+      'carry',
+      'luck',
+      'destiny',
+      'fate',
+      'lot',
+      'transport',
+      'progress',
+      'advance'
+    ],
+    number: 325
   },
   {
     kanji: '冠',
     keyword: 'crown',
-    number: '326'
+    alternativeKeywords: ['crown', 'best', 'peerless'],
+    number: 326
   },
   {
     kanji: '夢',
     keyword: 'dream',
-    number: '327'
+    alternativeKeywords: ['dream', 'vision', 'illusion'],
+    number: 327
   },
   {
     kanji: '坑',
     keyword: 'pit',
-    number: '328'
+    alternativeKeywords: ['pit', 'hole'],
+    number: 328
   },
   {
     kanji: '高',
     keyword: 'tall',
-    number: '329'
+    alternativeKeywords: ['tall', 'high', 'expensive'],
+    number: 329
   },
   {
     kanji: '享',
     keyword: 'receive',
-    number: '330'
+    alternativeKeywords: [
+      'enjoy',
+      'receive',
+      'undergo',
+      'answer (phone)',
+      'take',
+      'get',
+      'catch'
+    ],
+    number: 330
   },
   {
     kanji: '塾',
     keyword: 'cram school',
-    number: '331'
+    alternativeKeywords: ['cram school', 'private school'],
+    number: 331
   },
   {
     kanji: '熟',
     keyword: 'mellow',
-    number: '332'
+    alternativeKeywords: ['mellow', 'ripen', 'mature', 'acquire skill'],
+    number: 332
   },
   {
     kanji: '亭',
     keyword: 'pavilion',
-    number: '333'
+    alternativeKeywords: [
+      'pavilion',
+      'restaurant',
+      'mansion',
+      'arbor',
+      'cottage',
+      'vaudeville',
+      'music hall',
+      'stage name'
+    ],
+    number: 333
   },
   {
     kanji: '京',
     keyword: 'capital',
-    number: '334'
+    alternativeKeywords: ['capital', '10**16'],
+    number: 334
   },
   {
     kanji: '涼',
     keyword: 'refreshing',
-    number: '335'
+    alternativeKeywords: ['refreshing', 'nice and cool'],
+    number: 335
   },
   {
     kanji: '景',
     keyword: 'scenery',
-    number: '336'
+    alternativeKeywords: ['scenery', 'view'],
+    number: 336
   },
   {
     kanji: '鯨',
     keyword: 'whale',
-    number: '337'
+    alternativeKeywords: ['whale'],
+    number: 337
   },
   {
     kanji: '舎',
     keyword: 'cottage',
-    number: '338'
+    alternativeKeywords: ['cottage', 'inn', 'hut', 'house', 'mansion'],
+    number: 338
   },
   {
     kanji: '周',
     keyword: 'circumference',
-    number: '339'
+    alternativeKeywords: ['circumference', 'circuit', 'lap'],
+    number: 339
   },
-  {
-    kanji: '週',
-    keyword: 'week',
-    number: '340'
-  },
+  { kanji: '週', keyword: 'week', alternativeKeywords: ['week'], number: 340 },
   {
     kanji: '士',
     keyword: 'gentleman',
-    number: '341'
+    alternativeKeywords: [
+      'gentleman',
+      'scholar',
+      'samurai',
+      'samurai radical (no. 33)'
+    ],
+    number: 341
   },
   {
     kanji: '吉',
     keyword: 'good luck',
-    number: '342'
+    alternativeKeywords: ['good luck', 'joy', 'congratulations'],
+    number: 342
   },
   {
     kanji: '壮',
     keyword: 'robust',
-    number: '343'
+    alternativeKeywords: ['robust', 'manhood', 'prosperity'],
+    number: 343
   },
   {
     kanji: '荘',
     keyword: 'villa',
-    number: '344'
+    alternativeKeywords: [
+      'villa',
+      'inn',
+      'cottage',
+      'feudal manor',
+      'solemn',
+      'dignified'
+    ],
+    number: 344
   },
-  {
-    kanji: '売',
-    keyword: 'sell',
-    number: '345'
-  },
+  { kanji: '売', keyword: 'sell', alternativeKeywords: ['sell'], number: 345 },
   {
     kanji: '学',
     keyword: 'study',
-    number: '346'
+    alternativeKeywords: ['study', 'learning', 'science'],
+    number: 346
   },
   {
     kanji: '覚',
     keyword: 'memorize',
-    number: '347'
+    alternativeKeywords: ['memorize', 'learn', 'remember', 'awake', 'sober up'],
+    number: 347
   },
   {
     kanji: '栄',
     keyword: 'flourish',
-    number: '348'
+    alternativeKeywords: [
+      'flourish',
+      'prosperity',
+      'honor',
+      'glory',
+      'splendor'
+    ],
+    number: 348
   },
   {
     kanji: '書',
     keyword: 'write',
-    number: '349'
+    alternativeKeywords: ['write'],
+    number: 349
   },
   {
     kanji: '津',
     keyword: 'haven',
-    number: '350'
+    alternativeKeywords: ['haven', 'port', 'harbor', 'ferry'],
+    number: 350
   },
   {
     kanji: '牧',
     keyword: 'breed',
-    number: '351'
+    alternativeKeywords: ['breed', 'care for', 'shepherd', 'feed', 'pasture'],
+    number: 351
   },
   {
     kanji: '攻',
     keyword: 'aggression',
-    number: '352'
+    alternativeKeywords: ['aggression', 'attack', 'criticize', 'polish'],
+    number: 352
   },
   {
     kanji: '敗',
     keyword: 'failure',
-    number: '353'
+    alternativeKeywords: ['failure', 'defeat', 'reversal'],
+    number: 353
   },
   {
     kanji: '枚',
     keyword: 'a sheet of',
-    number: '354'
+    alternativeKeywords: [
+      'sheet of...',
+      'counter for flat thin objects or sheets'
+    ],
+    number: 354
   },
   {
     kanji: '故',
     keyword: 'happenstance',
-    number: '355'
+    alternativeKeywords: [
+      'happenstance',
+      'especially',
+      'intentionally',
+      'reason',
+      'cause',
+      'circumstances',
+      'the late',
+      'therefore',
+      'consequently'
+    ],
+    number: 355
   },
   {
     kanji: '敬',
     keyword: 'awe',
-    number: '356'
+    alternativeKeywords: ['awe', 'respect', 'honor', 'revere'],
+    number: 356
   },
   {
     kanji: '言',
     keyword: 'say',
-    number: '357'
+    alternativeKeywords: ['say', 'word'],
+    number: 357
   },
   {
     kanji: '警',
     keyword: 'admonish',
-    number: '358'
+    alternativeKeywords: ['admonish', 'commandment'],
+    number: 358
   },
   {
     kanji: '計',
     keyword: 'plot',
-    number: '359'
+    alternativeKeywords: ['plot', 'plan', 'scheme', 'measure'],
+    number: 359
   },
   {
     kanji: '詮',
     keyword: 'elucidate',
-    number: '360'
+    alternativeKeywords: [
+      'discussion',
+      'methods called for',
+      'selection',
+      'result'
+    ],
+    number: 360
   },
   {
     kanji: '獄',
     keyword: 'prison',
-    number: '361'
+    alternativeKeywords: ['prison', 'jail'],
+    number: 361
   },
   {
     kanji: '訂',
     keyword: 'revise',
-    number: '362'
+    alternativeKeywords: ['revise', 'correct', 'decide'],
+    number: 362
   },
   {
     kanji: '訃',
     keyword: 'obituary',
-    number: '363'
+    alternativeKeywords: ['obituary'],
+    number: 363
   },
   {
     kanji: '討',
     keyword: 'chastise',
-    number: '364'
+    alternativeKeywords: ['chastise', 'attack', 'defeat', 'destroy', 'conquer'],
+    number: 364
   },
   {
     kanji: '訓',
     keyword: 'instruction',
-    number: '365'
+    alternativeKeywords: [
+      'instruction',
+      'Japanese character reading',
+      'explanation',
+      'read'
+    ],
+    number: 365
   },
   {
     kanji: '詔',
     keyword: 'imperial edict',
-    number: '366'
+    alternativeKeywords: ['imperial edict'],
+    number: 366
   },
   {
     kanji: '詰',
     keyword: 'packed',
-    number: '367'
+    alternativeKeywords: [
+      'packed',
+      'close',
+      'pressed',
+      'reprove',
+      'rebuke',
+      'blame'
+    ],
+    number: 367
   },
   {
     kanji: '話',
     keyword: 'tale',
-    number: '368'
+    alternativeKeywords: ['tale', 'talk'],
+    number: 368
   },
   {
     kanji: '詠',
     keyword: 'recitation',
-    number: '369'
+    alternativeKeywords: ['recitation', 'poem', 'song', 'composing'],
+    number: 369
   },
   {
     kanji: '詩',
     keyword: 'poem',
-    number: '370'
+    alternativeKeywords: ['poem', 'poetry'],
+    number: 370
   },
   {
     kanji: '語',
     keyword: 'word',
-    number: '371'
+    alternativeKeywords: ['word', 'speech', 'language'],
+    number: 371
   },
-  {
-    kanji: '読',
-    keyword: 'read',
-    number: '372'
-  },
+  { kanji: '読', keyword: 'read', alternativeKeywords: ['read'], number: 372 },
   {
     kanji: '調',
     keyword: 'tune',
-    number: '373'
+    alternativeKeywords: [
+      'tune',
+      'tone',
+      'meter',
+      'key (music)',
+      'writing style',
+      'prepare',
+      'exorcise',
+      'investigate',
+      'harmonize',
+      'mediate'
+    ],
+    number: 373
   },
   {
     kanji: '談',
     keyword: 'discuss',
-    number: '374'
+    alternativeKeywords: ['discuss', 'talk'],
+    number: 374
   },
   {
     kanji: '諾',
     keyword: 'consent',
-    number: '375'
+    alternativeKeywords: ['consent', 'assent', 'agreement'],
+    number: 375
   },
   {
     kanji: '諭',
     keyword: 'rebuke',
-    number: '376'
+    alternativeKeywords: ['rebuke', 'admonish', 'charge', 'warn', 'persuade'],
+    number: 376
   },
   {
     kanji: '式',
     keyword: 'style',
-    number: '377'
+    alternativeKeywords: [
+      'style',
+      'ceremony',
+      'rite',
+      'function',
+      'method',
+      'system',
+      'form',
+      'expression'
+    ],
+    number: 377
   },
   {
     kanji: '試',
     keyword: 'test',
-    number: '378'
+    alternativeKeywords: ['test', 'try', 'attempt', 'experiment', 'ordeal'],
+    number: 378
   },
   {
     kanji: '弐',
     keyword: 'II (two)',
-    number: '379'
+    alternativeKeywords: ['II', 'two', 'second'],
+    number: 379
   },
   {
     kanji: '域',
     keyword: 'range',
-    number: '380'
+    alternativeKeywords: ['range', 'region', 'limits', 'stage', 'level'],
+    number: 380
   },
   {
     kanji: '賊',
     keyword: 'burglar',
-    number: '381'
+    alternativeKeywords: ['burglar', 'rebel', 'traitor', 'robber'],
+    number: 381
   },
   {
     kanji: '栽',
     keyword: 'plantation',
-    number: '382'
+    alternativeKeywords: ['plantation', 'planting'],
+    number: 382
   },
   {
     kanji: '載',
     keyword: 'load',
-    number: '383'
+    alternativeKeywords: [
+      'ride',
+      'board',
+      'get on',
+      'place',
+      'spread',
+      '10**44',
+      'record',
+      'publish'
+    ],
+    number: 383
   },
   {
     kanji: '茂',
     keyword: 'overgrown',
-    number: '384'
+    alternativeKeywords: ['overgrown', 'grow thick', 'be luxuriant'],
+    number: 384
   },
   {
     kanji: '戚',
     keyword: 'relatives',
-    number: '385'
+    alternativeKeywords: ['grieve', 'relatives'],
+    number: 385
   },
   {
     kanji: '成',
     keyword: 'turn into',
-    number: '386'
+    alternativeKeywords: [
+      'turn into',
+      'become',
+      'get',
+      'grow',
+      'elapse',
+      'reach'
+    ],
+    number: 386
   },
   {
     kanji: '城',
     keyword: 'castle',
-    number: '387'
+    alternativeKeywords: ['castle'],
+    number: 387
   },
   {
     kanji: '誠',
     keyword: 'sincerity',
-    number: '388'
+    alternativeKeywords: [
+      'sincerity',
+      'admonish',
+      'warn',
+      'prohibit',
+      'truth',
+      'fidelity'
+    ],
+    number: 388
   },
   {
     kanji: '威',
     keyword: 'intimidate',
-    number: '389'
+    alternativeKeywords: [
+      'intimidate',
+      'dignity',
+      'majesty',
+      'menace',
+      'threaten'
+    ],
+    number: 389
   },
   {
     kanji: '滅',
     keyword: 'destroy',
-    number: '390'
+    alternativeKeywords: ['destroy', 'ruin', 'overthrow', 'perish'],
+    number: 390
   },
   {
     kanji: '減',
     keyword: 'dwindle',
-    number: '391'
+    alternativeKeywords: [
+      'dwindle',
+      'decrease',
+      'reduce',
+      'decline',
+      'curtail',
+      'get hungry'
+    ],
+    number: 391
   },
   {
     kanji: '蔑',
     keyword: 'revile',
-    number: '392'
+    alternativeKeywords: ['ignore', 'despise', 'neglect', 'ridicule'],
+    number: 392
   },
   {
     kanji: '桟',
     keyword: 'scaffold',
-    number: '393'
+    alternativeKeywords: ['scaffold', 'cleat', 'frame', 'jetty', 'bolt (door)'],
+    number: 393
   },
   {
     kanji: '銭',
     keyword: 'coin',
-    number: '394'
+    alternativeKeywords: ['coin', '.01 yen', 'money'],
+    number: 394
   },
   {
     kanji: '浅',
     keyword: 'shallow',
-    number: '395'
+    alternativeKeywords: [
+      'shallow',
+      'superficial',
+      'frivolous',
+      'wretched',
+      'shameful'
+    ],
+    number: 395
   },
   {
     kanji: '止',
     keyword: 'stop',
-    number: '396'
+    alternativeKeywords: ['stop', 'halt'],
+    number: 396
   },
   {
     kanji: '歩',
     keyword: 'walk',
-    number: '397'
+    alternativeKeywords: ['walk', 'counter for steps'],
+    number: 397
   },
   {
     kanji: '渉',
     keyword: 'ford',
-    number: '398'
+    alternativeKeywords: [
+      'ford',
+      'go cross',
+      'transit',
+      'ferry',
+      'import',
+      'involve'
+    ],
+    number: 398
   },
   {
     kanji: '頻',
     keyword: 'repeatedly',
-    number: '399'
+    alternativeKeywords: ['repeatedly', 'recur'],
+    number: 399
   },
   {
     kanji: '肯',
     keyword: 'agreement',
-    number: '400'
+    alternativeKeywords: ['agreement', 'consent', 'comply with'],
+    number: 400
   },
   {
     kanji: '企',
     keyword: 'undertake',
-    number: '401'
+    alternativeKeywords: ['undertake', 'scheme', 'design', 'attempt', 'plan'],
+    number: 401
   },
   {
     kanji: '歴',
     keyword: 'curriculum',
-    number: '402'
+    alternativeKeywords: ['curriculum', 'continuation', 'passage of time'],
+    number: 402
   },
   {
     kanji: '武',
     keyword: 'warrior',
-    number: '403'
+    alternativeKeywords: ['warrior', 'military', 'chivalry', 'arms'],
+    number: 403
   },
   {
     kanji: '賦',
     keyword: 'levy',
-    number: '404'
+    alternativeKeywords: [
+      'levy',
+      'ode',
+      'prose',
+      'poem',
+      'tribute',
+      'installment'
+    ],
+    number: 404
   },
   {
     kanji: '正',
     keyword: 'correct',
-    number: '405'
+    alternativeKeywords: ['correct', 'justice', 'righteous', '10**40'],
+    number: 405
   },
   {
     kanji: '証',
     keyword: 'evidence',
-    number: '406'
+    alternativeKeywords: ['evidence', 'proof', 'certificate'],
+    number: 406
   },
   {
     kanji: '政',
     keyword: 'politics',
-    number: '407'
+    alternativeKeywords: ['politics', 'government'],
+    number: 407
   },
   {
     kanji: '定',
     keyword: 'determine',
-    number: '408'
+    alternativeKeywords: ['determine', 'fix', 'establish', 'decide'],
+    number: 408
   },
   {
     kanji: '錠',
     keyword: 'lock',
-    number: '409'
+    alternativeKeywords: ['lock', 'fetters', 'shackles'],
+    number: 409
   },
-  {
-    kanji: '走',
-    keyword: 'run',
-    number: '410'
-  },
+  { kanji: '走', keyword: 'run', alternativeKeywords: ['run'], number: 410 },
   {
     kanji: '超',
     keyword: 'transcend',
-    number: '411'
+    alternativeKeywords: ['transcend', 'super-', 'ultra-'],
+    number: 411
   },
   {
     kanji: '赴',
     keyword: 'proceed',
-    number: '412'
+    alternativeKeywords: ['proceed', 'get', 'become', 'tend'],
+    number: 412
   },
   {
     kanji: '越',
     keyword: 'surpass',
-    number: '413'
+    alternativeKeywords: [
+      'surpass',
+      'cross over',
+      'move to',
+      'exceed',
+      'Vietnam'
+    ],
+    number: 413
   },
   {
     kanji: '是',
     keyword: 'just so',
-    number: '414'
+    alternativeKeywords: ['just so', 'this', 'right', 'justice'],
+    number: 414
   },
   {
     kanji: '題',
     keyword: 'topic',
-    number: '415'
+    alternativeKeywords: ['topic', 'subject'],
+    number: 415
   },
   {
     kanji: '堤',
     keyword: 'dike',
-    number: '416'
+    alternativeKeywords: ['dike', 'bank', 'embankment'],
+    number: 416
   },
   {
     kanji: '建',
     keyword: 'build',
-    number: '417'
+    alternativeKeywords: ['build'],
+    number: 417
   },
-  {
-    kanji: '鍵',
-    keyword: 'key',
-    number: '418'
-  },
+  { kanji: '鍵', keyword: 'key', alternativeKeywords: ['key'], number: 418 },
   {
     kanji: '延',
     keyword: 'prolong',
-    number: '419'
+    alternativeKeywords: ['prolong', 'stretching'],
+    number: 419
   },
   {
     kanji: '誕',
     keyword: 'nativity',
-    number: '420'
+    alternativeKeywords: [
+      'nativity',
+      'be born',
+      'declension',
+      'lie',
+      'be arbitrary'
+    ],
+    number: 420
   },
   {
     kanji: '礎',
     keyword: 'cornerstone',
-    number: '421'
+    alternativeKeywords: ['cornerstone', 'foundation stone'],
+    number: 421
   },
   {
     kanji: '婿',
     keyword: 'bridegroom',
-    number: '422'
+    alternativeKeywords: ['bridegroom', 'son-in-law'],
+    number: 422
   },
   {
     kanji: '衣',
     keyword: 'garment',
-    number: '423'
+    alternativeKeywords: ['garment', 'clothes', 'dressing'],
+    number: 423
   },
   {
     kanji: '裁',
     keyword: 'tailor',
-    number: '424'
+    alternativeKeywords: ['tailor', 'judge', 'decision', 'cut out (pattern)'],
+    number: 424
   },
   {
     kanji: '装',
     keyword: 'attire',
-    number: '425'
+    alternativeKeywords: ['attire', 'dress', 'pretend', 'disguise', 'profess'],
+    number: 425
   },
   {
     kanji: '裏',
     keyword: 'back',
-    number: '426'
+    alternativeKeywords: [
+      'back',
+      'amidst',
+      'in',
+      'reverse',
+      'inside',
+      'palm',
+      'sole',
+      'rear',
+      'lining',
+      'wrong side'
+    ],
+    number: 426
   },
   {
     kanji: '壊',
     keyword: 'demolition',
-    number: '427'
+    alternativeKeywords: ['demolition', 'break', 'destroy'],
+    number: 427
   },
   {
     kanji: '哀',
     keyword: 'pathetic',
-    number: '428'
+    alternativeKeywords: [
+      'pathetic',
+      'grief',
+      'sorrow',
+      'pathos',
+      'pity',
+      'sympathize'
+    ],
+    number: 428
   },
   {
     kanji: '遠',
     keyword: 'distant',
-    number: '429'
+    alternativeKeywords: ['distant', 'far'],
+    number: 429
   },
   {
     kanji: '猿',
     keyword: 'monkey',
-    number: '430'
+    alternativeKeywords: ['monkey'],
+    number: 430
   },
   {
     kanji: '初',
     keyword: 'first time',
-    number: '431'
+    alternativeKeywords: ['first time', 'beginning'],
+    number: 431
   },
   {
     kanji: '巾',
     keyword: 'towel',
-    number: '432'
+    alternativeKeywords: [
+      'towel',
+      'hanging scroll',
+      'width',
+      'cloth radical (no. 50)'
+    ],
+    number: 432
   },
   {
     kanji: '布',
     keyword: 'linen',
-    number: '433'
+    alternativeKeywords: ['linen', 'cloth', 'spread', 'distribute'],
+    number: 433
   },
-  {
-    kanji: '帆',
-    keyword: 'sail',
-    number: '434'
-  },
+  { kanji: '帆', keyword: 'sail', alternativeKeywords: ['sail'], number: 434 },
   {
     kanji: '幅',
     keyword: 'hanging scroll',
-    number: '435'
+    alternativeKeywords: ['hanging scroll', 'width'],
+    number: 435
   },
   {
     kanji: '帽',
     keyword: 'cap',
-    number: '436'
+    alternativeKeywords: ['cap', 'headgear'],
+    number: 436
   },
   {
     kanji: '幕',
     keyword: 'curtain',
-    number: '437'
+    alternativeKeywords: ['curtain', 'bunting', 'act of play'],
+    number: 437
   },
   {
     kanji: '幌',
     keyword: 'canopy',
-    number: '438'
+    alternativeKeywords: ['canopy', 'awning', 'hood', 'curtain'],
+    number: 438
   },
   {
     kanji: '錦',
     keyword: 'brocade',
-    number: '439'
+    alternativeKeywords: ['brocade', 'fine dress', 'honors'],
+    number: 439
   },
   {
     kanji: '市',
     keyword: 'market',
-    number: '440'
+    alternativeKeywords: ['market', 'city', 'town'],
+    number: 440
   },
   {
     kanji: '柿',
     keyword: 'persimmon',
-    number: '441'
+    alternativeKeywords: ['persimmon'],
+    number: 441
   },
   {
     kanji: '姉',
     keyword: 'elder sister',
-    number: '442'
+    alternativeKeywords: ['elder sister'],
+    number: 442
   },
   {
     kanji: '肺',
     keyword: 'lungs',
-    number: '443'
+    alternativeKeywords: ['lungs'],
+    number: 443
   },
   {
     kanji: '帯',
     keyword: 'sash',
-    number: '444'
+    alternativeKeywords: ['sash', 'belt', 'obi', 'zone', 'region'],
+    number: 444
   },
   {
     kanji: '滞',
     keyword: 'stagnate',
-    number: '445'
+    alternativeKeywords: ['stagnate', 'be delayed', 'overdue', 'arrears'],
+    number: 445
   },
   {
     kanji: '刺',
     keyword: 'thorn',
-    number: '446'
+    alternativeKeywords: [
+      'thorn',
+      'pierce',
+      'stab',
+      'prick',
+      'sting',
+      'calling card'
+    ],
+    number: 446
   },
   {
     kanji: '制',
     keyword: 'system',
-    number: '447'
+    alternativeKeywords: ['system', 'law', 'rule'],
+    number: 447
   },
   {
     kanji: '製',
     keyword: 'made in…',
-    number: '448'
+    alternativeKeywords: ['made in...', 'manufacture'],
+    number: 448
   },
   {
     kanji: '転',
     keyword: 'revolve',
-    number: '449'
+    alternativeKeywords: ['revolve', 'turn around', 'change'],
+    number: 449
   },
   {
     kanji: '芸',
     keyword: 'technique',
-    number: '450'
+    alternativeKeywords: [
+      'technique',
+      'art',
+      'craft',
+      'performance',
+      'acting',
+      'trick',
+      'stunt'
+    ],
+    number: 450
   },
-  {
-    kanji: '雨',
-    keyword: 'rain',
-    number: '451'
-  },
+  { kanji: '雨', keyword: 'rain', alternativeKeywords: ['rain'], number: 451 },
   {
     kanji: '雲',
     keyword: 'cloud',
-    number: '452'
+    alternativeKeywords: ['cloud'],
+    number: 452
   },
   {
     kanji: '曇',
     keyword: 'cloudy weather',
-    number: '453'
+    alternativeKeywords: ['cloudy weather', 'cloud up'],
+    number: 453
   },
   {
     kanji: '雷',
     keyword: 'thunder',
-    number: '454'
+    alternativeKeywords: ['thunder', 'lightning bolt'],
+    number: 454
   },
   {
     kanji: '霜',
     keyword: 'frost',
-    number: '455'
+    alternativeKeywords: ['frost'],
+    number: 455
   },
   {
     kanji: '冬',
     keyword: 'winter',
-    number: '456'
+    alternativeKeywords: ['winter'],
+    number: 456
   },
   {
     kanji: '天',
     keyword: 'heavens',
-    number: '457'
+    alternativeKeywords: ['heavens', 'sky', 'imperial'],
+    number: 457
   },
   {
     kanji: '妖',
     keyword: 'bewitched',
-    number: '458'
+    alternativeKeywords: ['attractive', 'bewitching', 'calamity'],
+    number: 458
   },
   {
     kanji: '沃',
     keyword: 'irrigate',
-    number: '459'
+    alternativeKeywords: ['fertility'],
+    number: 459
   },
   {
     kanji: '橋',
     keyword: 'bridge',
-    number: '460'
+    alternativeKeywords: ['bridge'],
+    number: 460
   },
   {
     kanji: '嬌',
     keyword: 'attractive',
-    number: '461'
+    alternativeKeywords: ['attractive'],
+    number: 461
   },
   {
     kanji: '立',
     keyword: 'stand up',
-    number: '462'
+    alternativeKeywords: ['stand up', 'rise', 'set up', 'erect'],
+    number: 462
   },
   {
     kanji: '泣',
     keyword: 'cry',
-    number: '463'
+    alternativeKeywords: ['cry', 'weep', 'moan'],
+    number: 463
   },
   {
     kanji: '章',
     keyword: 'badge',
-    number: '464'
+    alternativeKeywords: ['badge', 'chapter', 'composition', 'poem', 'design'],
+    number: 464
   },
   {
     kanji: '競',
     keyword: 'vie',
-    number: '465'
+    alternativeKeywords: [
+      'emulate',
+      'compete with',
+      'bid',
+      'sell at auction',
+      'bout',
+      'contest',
+      'race'
+    ],
+    number: 465
   },
   {
     kanji: '帝',
     keyword: 'sovereign',
-    number: '466'
+    alternativeKeywords: ['sovereign', 'the emperor', 'god', 'creator'],
+    number: 466
   },
   {
     kanji: '諦',
     keyword: 'renunciation',
-    number: '467'
+    alternativeKeywords: ['truth', 'clarity', 'abandon', 'give up'],
+    number: 467
   },
   {
     kanji: '童',
     keyword: 'juvenile',
-    number: '468'
+    alternativeKeywords: ['juvenile', 'child'],
+    number: 468
   },
   {
     kanji: '瞳',
     keyword: 'pupil',
-    number: '469'
+    alternativeKeywords: ['pupil (of eye)'],
+    number: 469
   },
   {
     kanji: '鐘',
     keyword: 'bell',
-    number: '470'
+    alternativeKeywords: ['bell', 'gong', 'chimes'],
+    number: 470
   },
   {
     kanji: '商',
     keyword: 'make a deal',
-    number: '471'
+    alternativeKeywords: ['make a deal', 'selling', 'dealing in', 'merchant'],
+    number: 471
   },
   {
     kanji: '嫡',
     keyword: 'legitimate wife',
-    number: '472'
+    alternativeKeywords: ['legitimate wife', 'direct descent (non-bastard)'],
+    number: 472
   },
   {
     kanji: '適',
     keyword: 'suitable',
-    number: '473'
+    alternativeKeywords: [
+      'suitable',
+      'occasional',
+      'rare',
+      'qualified',
+      'capable'
+    ],
+    number: 473
   },
   {
     kanji: '滴',
     keyword: 'drip',
-    number: '474'
+    alternativeKeywords: ['drip', 'drop'],
+    number: 474
   },
   {
     kanji: '敵',
     keyword: 'enemy',
-    number: '475'
+    alternativeKeywords: ['enemy', 'foe', 'opponent'],
+    number: 475
   },
   {
     kanji: '匕',
     keyword: 'spoon',
-    number: '476'
+    alternativeKeywords: ['spoon', 'spoon or katakana hi radical (no. 21)'],
+    number: 476
   },
-  {
-    kanji: '𠮟',
-    keyword: 'scold',
-    number: '477'
-  },
+  { kanji: '𠮟', keyword: 'scold', alternativeKeywords: [''], number: 477 },
   {
     kanji: '匂',
     keyword: 'aroma',
-    number: '478'
+    alternativeKeywords: ['fragrant', 'stink', 'glow', 'insinuate', '(kokuji)'],
+    number: 478
   },
   {
     kanji: '頃',
     keyword: 'about that time',
-    number: '479'
+    alternativeKeywords: ['time', 'about', 'toward'],
+    number: 479
   },
   {
     kanji: '北',
     keyword: 'north',
-    number: '480'
+    alternativeKeywords: ['north'],
+    number: 480
   },
   {
     kanji: '背',
     keyword: 'stature',
-    number: '481'
+    alternativeKeywords: [
+      'stature',
+      'height',
+      'back',
+      'behind',
+      'disobey',
+      'defy',
+      'go back on',
+      'rebel'
+    ],
+    number: 481
   },
   {
     kanji: '比',
     keyword: 'compare',
-    number: '482'
+    alternativeKeywords: ['compare', 'race', 'ratio', 'Philippines'],
+    number: 482
   },
   {
     kanji: '昆',
     keyword: 'descendants',
-    number: '483'
+    alternativeKeywords: ['descendants', 'elder brother', 'insect'],
+    number: 483
   },
   {
     kanji: '皆',
     keyword: 'all',
-    number: '484'
+    alternativeKeywords: ['all', 'everything'],
+    number: 484
   },
   {
     kanji: '楷',
     keyword: 'block letters',
-    number: '485'
+    alternativeKeywords: ['square character style', 'correctness'],
+    number: 485
   },
   {
     kanji: '諧',
     keyword: 'orderliness',
-    number: '486'
+    alternativeKeywords: ['harmony'],
+    number: 486
   },
   {
     kanji: '混',
     keyword: 'mix',
-    number: '487'
+    alternativeKeywords: ['mix', 'blend', 'confuse'],
+    number: 487
   },
   {
     kanji: '渇',
     keyword: 'thirst',
-    number: '488'
+    alternativeKeywords: ['thirst', 'dry up', 'parch'],
+    number: 488
   },
   {
     kanji: '謁',
     keyword: 'audience',
-    number: '489'
+    alternativeKeywords: ['audience', 'audience (with king)'],
+    number: 489
   },
   {
     kanji: '褐',
     keyword: 'brown',
-    number: '490'
+    alternativeKeywords: ['brown', 'woollen kimono'],
+    number: 490
   },
   {
     kanji: '喝',
     keyword: 'hoarse',
-    number: '491'
+    alternativeKeywords: ['hoarse', 'scold'],
+    number: 491
   },
   {
     kanji: '葛',
     keyword: 'kudzu',
-    number: '492'
+    alternativeKeywords: ['arrowroot', 'kudzu'],
+    number: 492
   },
   {
     kanji: '旨',
     keyword: 'delicious',
-    number: '493'
+    alternativeKeywords: [
+      'delicious',
+      'relish',
+      'show a liking for',
+      'purport',
+      'will',
+      'clever',
+      'expert'
+    ],
+    number: 493
   },
   {
     kanji: '脂',
     keyword: 'fat',
-    number: '494'
+    alternativeKeywords: [
+      'fat',
+      'grease',
+      'tallow',
+      'lard',
+      'rosin',
+      'gum',
+      'tar'
+    ],
+    number: 494
   },
   {
     kanji: '詣',
     keyword: 'visit a shrine',
-    number: '495'
+    alternativeKeywords: ['visit a temple', 'arrive', 'attain'],
+    number: 495
   },
   {
     kanji: '壱',
     keyword: 'I (one)',
-    number: '496'
+    alternativeKeywords: ['one (in documents)'],
+    number: 496
   },
   {
     kanji: '毎',
     keyword: 'every',
-    number: '497'
+    alternativeKeywords: ['every'],
+    number: 497
   },
   {
     kanji: '敏',
     keyword: 'cleverness',
-    number: '498'
+    alternativeKeywords: ['cleverness', 'agile', 'alert'],
+    number: 498
   },
-  {
-    kanji: '梅',
-    keyword: 'plum',
-    number: '499'
-  },
+  { kanji: '梅', keyword: 'plum', alternativeKeywords: ['plum'], number: 499 },
   {
     kanji: '海',
     keyword: 'sea',
-    number: '500'
+    alternativeKeywords: ['sea', 'ocean'],
+    number: 500
   },
   {
     kanji: '乞',
     keyword: 'beg',
-    number: '501'
+    alternativeKeywords: ['beg', 'invite', 'ask'],
+    number: 501
   },
   {
     kanji: '乾',
     keyword: 'drought',
-    number: '502'
+    alternativeKeywords: [
+      'drought',
+      'dry',
+      'dessicate',
+      'drink up',
+      'heaven',
+      'emperor'
+    ],
+    number: 502
   },
   {
     kanji: '腹',
     keyword: 'abdomen',
-    number: '503'
+    alternativeKeywords: ['abdomen', 'belly', 'stomach'],
+    number: 503
   },
   {
     kanji: '複',
     keyword: 'duplicate',
-    number: '504'
+    alternativeKeywords: ['duplicate', 'double', 'compound', 'multiple'],
+    number: 504
   },
   {
     kanji: '欠',
     keyword: 'lack',
-    number: '505'
+    alternativeKeywords: ['lack', 'gap', 'fail', 'yawning radical (no. 76)'],
+    number: 505
   },
   {
     kanji: '吹',
     keyword: 'blow',
-    number: '506'
+    alternativeKeywords: ['blow', 'breathe', 'puff', 'emit', 'smoke'],
+    number: 506
   },
   {
     kanji: '炊',
     keyword: 'cook',
-    number: '507'
+    alternativeKeywords: ['cook', 'boil'],
+    number: 507
   },
   {
     kanji: '歌',
     keyword: 'song',
-    number: '508'
+    alternativeKeywords: ['song', 'sing'],
+    number: 508
   },
-  {
-    kanji: '軟',
-    keyword: 'soft',
-    number: '509'
-  },
+  { kanji: '軟', keyword: 'soft', alternativeKeywords: ['soft'], number: 509 },
   {
     kanji: '次',
     keyword: 'next',
-    number: '510'
+    alternativeKeywords: ['next', 'order', 'sequence'],
+    number: 510
   },
   {
     kanji: '茨',
     keyword: 'briar',
-    number: '511'
+    alternativeKeywords: ['briar', 'thorn'],
+    number: 511
   },
   {
     kanji: '資',
     keyword: 'assets',
-    number: '512'
+    alternativeKeywords: [
+      'assets',
+      'resources',
+      'capital',
+      'funds',
+      'data',
+      'be conducive to',
+      'contribute to'
+    ],
+    number: 512
   },
   {
     kanji: '姿',
     keyword: 'figure',
-    number: '513'
+    alternativeKeywords: ['figure', 'form', 'shape'],
+    number: 513
   },
   {
     kanji: '諮',
     keyword: 'consult with',
-    number: '514'
+    alternativeKeywords: ['consult with'],
+    number: 514
   },
   {
     kanji: '賠',
     keyword: 'compensation',
-    number: '515'
+    alternativeKeywords: ['compensation', 'indemnify'],
+    number: 515
   },
   {
     kanji: '培',
     keyword: 'cultivate',
-    number: '516'
+    alternativeKeywords: ['cultivate', 'foster'],
+    number: 516
   },
   {
     kanji: '剖',
     keyword: 'divide',
-    number: '517'
+    alternativeKeywords: ['divide'],
+    number: 517
   },
   {
     kanji: '音',
     keyword: 'sound',
-    number: '518'
+    alternativeKeywords: ['sound', 'noise'],
+    number: 518
   },
   {
     kanji: '暗',
     keyword: 'darkness',
-    number: '519'
+    alternativeKeywords: [
+      'darkness',
+      'disappear',
+      'shade',
+      'informal',
+      'grow dark',
+      'be blinded'
+    ],
+    number: 519
   },
   {
     kanji: '韻',
     keyword: 'rhyme',
-    number: '520'
+    alternativeKeywords: ['rhyme', 'elegance', 'tone'],
+    number: 520
   },
   {
     kanji: '識',
     keyword: 'discriminating',
-    number: '521'
+    alternativeKeywords: ['discriminating', 'know', 'write'],
+    number: 521
   },
   {
     kanji: '鏡',
     keyword: 'mirror',
-    number: '522'
+    alternativeKeywords: [
+      'mirror',
+      'speculum',
+      'barrel-head',
+      'round rice-cake offering'
+    ],
+    number: 522
   },
   {
     kanji: '境',
     keyword: 'boundary',
-    number: '523'
+    alternativeKeywords: ['boundary', 'border', 'region'],
+    number: 523
   },
   {
     kanji: '亡',
     keyword: 'deceased',
-    number: '524'
+    alternativeKeywords: ['deceased', 'the late', 'dying', 'perish'],
+    number: 524
   },
   {
     kanji: '盲',
     keyword: 'blind',
-    number: '525'
+    alternativeKeywords: ['blind', 'blind man', 'ignoramus'],
+    number: 525
   },
   {
     kanji: '妄',
     keyword: 'delusion',
-    number: '526'
+    alternativeKeywords: [
+      'delusion',
+      'unnecessarily',
+      'without authority',
+      'reckless'
+    ],
+    number: 526
   },
   {
     kanji: '荒',
     keyword: 'laid waste',
-    number: '527'
+    alternativeKeywords: ['laid waste', 'rough', 'rude', 'wild'],
+    number: 527
   },
   {
     kanji: '望',
     keyword: 'ambition',
-    number: '528'
+    alternativeKeywords: [
+      'ambition',
+      'full moon',
+      'hope',
+      'desire',
+      'aspire to',
+      'expect'
+    ],
+    number: 528
   },
   {
     kanji: '方',
     keyword: 'direction',
-    number: '529'
+    alternativeKeywords: ['direction', 'person', 'alternative'],
+    number: 529
   },
   {
     kanji: '妨',
     keyword: 'disturb',
-    number: '530'
+    alternativeKeywords: ['disturb', 'prevent', 'hamper', 'obstruct'],
+    number: 530
   },
   {
     kanji: '坊',
     keyword: 'boy',
-    number: '531'
+    alternativeKeywords: ['boy', "priest's residence", 'priest'],
+    number: 531
   },
   {
     kanji: '芳',
     keyword: 'perfumed',
-    number: '532'
+    alternativeKeywords: ['perfume', 'balmy', 'favorable', 'fragrant'],
+    number: 532
   },
   {
     kanji: '肪',
     keyword: 'obese',
-    number: '533'
+    alternativeKeywords: ['obese', 'fat'],
+    number: 533
   },
   {
     kanji: '訪',
     keyword: 'call on',
-    number: '534'
+    alternativeKeywords: ['call on', 'visit', 'look up', 'offer sympathy'],
+    number: 534
   },
   {
     kanji: '放',
     keyword: 'set free',
-    number: '535'
+    alternativeKeywords: [
+      'set free',
+      'release',
+      'fire',
+      'shoot',
+      'emit',
+      'banish',
+      'liberate'
+    ],
+    number: 535
   },
   {
     kanji: '激',
     keyword: 'violent',
-    number: '536'
+    alternativeKeywords: [
+      'violent',
+      'get excited',
+      'enraged',
+      'chafe',
+      'incite'
+    ],
+    number: 536
   },
   {
     kanji: '脱',
     keyword: 'undress',
-    number: '537'
+    alternativeKeywords: [
+      'undress',
+      'removing',
+      'escape from',
+      'get rid of',
+      'be left out',
+      'take off'
+    ],
+    number: 537
   },
   {
     kanji: '説',
     keyword: 'explanation',
-    number: '538'
+    alternativeKeywords: ['opinion', 'theory', 'explanation', 'rumor'],
+    number: 538
   },
   {
     kanji: '鋭',
     keyword: 'pointed',
-    number: '539'
+    alternativeKeywords: [
+      'pointed',
+      'sharpness',
+      'edge',
+      'weapon',
+      'sharp',
+      'violent'
+    ],
+    number: 539
   },
   {
     kanji: '曽',
     keyword: 'formerly',
-    number: '540'
+    alternativeKeywords: ['formerly', 'once', 'before', 'ever', 'never', 'ex-'],
+    number: 540
   },
   {
     kanji: '増',
     keyword: 'increase',
-    number: '541'
+    alternativeKeywords: ['increase', 'add', 'augment', 'gain', 'promote'],
+    number: 541
   },
   {
     kanji: '贈',
     keyword: 'presents',
-    number: '542'
+    alternativeKeywords: [
+      'presents',
+      'send',
+      'give to',
+      'award to',
+      'confer on',
+      'presenting something'
+    ],
+    number: 542
   },
-  {
-    kanji: '東',
-    keyword: 'east',
-    number: '543'
-  },
+  { kanji: '東', keyword: 'east', alternativeKeywords: ['east'], number: 543 },
   {
     kanji: '棟',
     keyword: 'ridgepole',
-    number: '544'
+    alternativeKeywords: ['ridgepole', 'ridge'],
+    number: 544
   },
   {
     kanji: '凍',
     keyword: 'frozen',
-    number: '545'
+    alternativeKeywords: ['frozen', 'congeal', 'refrigerate'],
+    number: 545
   },
   {
     kanji: '妊',
     keyword: 'pregnancy',
-    number: '546'
+    alternativeKeywords: ['pregnancy'],
+    number: 546
   },
   {
     kanji: '廷',
     keyword: 'courts',
-    number: '547'
+    alternativeKeywords: ['courts', 'imperial court', 'government office'],
+    number: 547
   },
   {
     kanji: '染',
     keyword: 'dye',
-    number: '548'
+    alternativeKeywords: ['dye', 'color', 'paint', 'stain', 'print'],
+    number: 548
   },
   {
     kanji: '燃',
     keyword: 'burn',
-    number: '549'
+    alternativeKeywords: ['burn', 'blaze', 'glow'],
+    number: 549
   },
   {
     kanji: '賓',
     keyword: 'V.I.P.',
-    number: '550'
+    alternativeKeywords: ['V.I.P.', 'guest'],
+    number: 550
   },
   {
     kanji: '歳',
     keyword: 'year-end',
-    number: '551'
+    alternativeKeywords: ['year-end', 'age', 'occasion', 'opportunity'],
+    number: 551
   },
   {
     kanji: '県',
     keyword: 'prefecture',
-    number: '552'
+    alternativeKeywords: ['prefecture'],
+    number: 552
   },
   {
     kanji: '栃',
     keyword: 'horse chestnut',
-    number: '553'
+    alternativeKeywords: ['horse chestnut', '(kokuji)'],
+    number: 553
   },
   {
     kanji: '地',
     keyword: 'ground',
-    number: '554'
+    alternativeKeywords: ['ground', 'earth'],
+    number: 554
   },
   {
     kanji: '池',
     keyword: 'pond',
-    number: '555'
+    alternativeKeywords: ['pond', 'cistern', 'pool', 'reservoir'],
+    number: 555
   },
   {
     kanji: '虫',
     keyword: 'insect',
-    number: '556'
+    alternativeKeywords: ['insect', 'bug', 'temper'],
+    number: 556
   },
   {
     kanji: '蛍',
     keyword: 'lightning bug',
-    number: '557'
+    alternativeKeywords: ['lightning-bug', 'firefly'],
+    number: 557
   },
   {
     kanji: '蛇',
     keyword: 'snake',
-    number: '558'
+    alternativeKeywords: ['snake', 'serpent', 'hard drinker'],
+    number: 558
   },
   {
     kanji: '虹',
     keyword: 'rainbow',
-    number: '559'
+    alternativeKeywords: ['rainbow'],
+    number: 559
   },
   {
     kanji: '蝶',
     keyword: 'butterfly',
-    number: '560'
+    alternativeKeywords: ['butterfly'],
+    number: 560
   },
   {
     kanji: '独',
     keyword: 'single',
-    number: '561'
+    alternativeKeywords: ['single', 'alone', 'spontaneously', 'Germany'],
+    number: 561
   },
   {
     kanji: '蚕',
     keyword: 'silkworm',
-    number: '562'
+    alternativeKeywords: ['silkworm'],
+    number: 562
   },
   {
     kanji: '風',
     keyword: 'wind',
-    number: '563'
+    alternativeKeywords: ['wind', 'air', 'style', 'manner'],
+    number: 563
   },
-  {
-    kanji: '己',
-    keyword: 'self',
-    number: '564'
-  },
+  { kanji: '己', keyword: 'self', alternativeKeywords: ['self'], number: 564 },
   {
     kanji: '起',
     keyword: 'rouse',
-    number: '565'
+    alternativeKeywords: ['rouse', 'wake up', 'get up'],
+    number: 565
   },
   {
     kanji: '妃',
     keyword: 'queen',
-    number: '566'
+    alternativeKeywords: ['queen', 'princess'],
+    number: 566
   },
   {
     kanji: '改',
     keyword: 'reformation',
-    number: '567'
+    alternativeKeywords: [
+      'reformation',
+      'change',
+      'modify',
+      'mend',
+      'renew',
+      'examine',
+      'inspect',
+      'search'
+    ],
+    number: 567
   },
   {
     kanji: '記',
     keyword: 'scribe',
-    number: '568'
+    alternativeKeywords: ['scribe', 'account', 'narrative'],
+    number: 568
   },
   {
     kanji: '包',
     keyword: 'wrap',
-    number: '569'
+    alternativeKeywords: ['wrap', 'pack up', 'cover', 'conceal'],
+    number: 569
   },
   {
     kanji: '胞',
     keyword: 'placenta',
-    number: '570'
+    alternativeKeywords: ['placenta', 'sac', 'sheath'],
+    number: 570
   },
   {
     kanji: '砲',
     keyword: 'cannon',
-    number: '571'
+    alternativeKeywords: ['cannon', 'gun'],
+    number: 571
   },
   {
     kanji: '泡',
     keyword: 'bubble',
-    number: '572'
+    alternativeKeywords: ['bubbles', 'foam', 'suds', 'froth'],
+    number: 572
   },
   {
     kanji: '亀',
     keyword: 'tortoise',
-    number: '573'
+    alternativeKeywords: ['tortoise', 'turtle'],
+    number: 573
   },
   {
     kanji: '電',
     keyword: 'electricity',
-    number: '574'
+    alternativeKeywords: ['electricity'],
+    number: 574
   },
   {
     kanji: '竜',
     keyword: 'dragon',
-    number: '575'
+    alternativeKeywords: ['dragon', 'imperial'],
+    number: 575
   },
   {
     kanji: '滝',
     keyword: 'waterfall',
-    number: '576'
+    alternativeKeywords: ['waterfall', 'rapids', 'cascade'],
+    number: 576
   },
   {
     kanji: '豚',
     keyword: 'pork',
-    number: '577'
+    alternativeKeywords: ['pork', 'pig'],
+    number: 577
   },
   {
     kanji: '逐',
     keyword: 'pursue',
-    number: '578'
+    alternativeKeywords: [
+      'pursue',
+      'drive away',
+      'chase',
+      'accomplish',
+      'attain',
+      'commit'
+    ],
+    number: 578
   },
   {
     kanji: '遂',
     keyword: 'consummate',
-    number: '579'
+    alternativeKeywords: [
+      'consummate',
+      'accomplish',
+      'attain',
+      'commit (suicide)'
+    ],
+    number: 579
   },
   {
     kanji: '家',
     keyword: 'house',
-    number: '580'
+    alternativeKeywords: [
+      'house',
+      'home',
+      'family',
+      'professional',
+      'expert',
+      'performer'
+    ],
+    number: 580
   },
   {
     kanji: '嫁',
     keyword: 'marry into',
-    number: '581'
+    alternativeKeywords: ['marry into', 'bride'],
+    number: 581
   },
   {
     kanji: '豪',
     keyword: 'overpowering',
-    number: '582'
+    alternativeKeywords: [
+      'overpowering',
+      'great',
+      'powerful',
+      'excelling',
+      'Australia'
+    ],
+    number: 582
   },
   {
     kanji: '腸',
     keyword: 'intestines',
-    number: '583'
+    alternativeKeywords: ['intestines', 'guts', 'bowels', 'viscera'],
+    number: 583
   },
   {
     kanji: '場',
     keyword: 'location',
-    number: '584'
+    alternativeKeywords: ['location', 'place'],
+    number: 584
   },
   {
     kanji: '湯',
     keyword: 'hot water',
-    number: '585'
+    alternativeKeywords: ['hot water', 'bath', 'hot spring'],
+    number: 585
   },
   {
     kanji: '羊',
     keyword: 'sheep',
-    number: '586'
+    alternativeKeywords: ['sheep'],
+    number: 586
   },
   {
     kanji: '美',
     keyword: 'beauty',
-    number: '587'
+    alternativeKeywords: ['beauty', 'beautiful'],
+    number: 587
   },
   {
     kanji: '洋',
     keyword: 'ocean',
-    number: '588'
+    alternativeKeywords: ['ocean', 'sea', 'foreign', 'Western style'],
+    number: 588
   },
   {
     kanji: '詳',
     keyword: 'detailed',
-    number: '589'
+    alternativeKeywords: [
+      'detailed',
+      'full',
+      'minute',
+      'accurate',
+      'well-informed'
+    ],
+    number: 589
   },
   {
     kanji: '鮮',
     keyword: 'fresh',
-    number: '590'
+    alternativeKeywords: ['fresh', 'vivid', 'clear', 'brilliant', 'Korea'],
+    number: 590
   },
   {
     kanji: '達',
     keyword: 'accomplished',
-    number: '591'
+    alternativeKeywords: ['accomplished', 'reach', 'arrive', 'attain'],
+    number: 591
   },
   {
     kanji: '羨',
     keyword: 'envious',
-    number: '592'
+    alternativeKeywords: ['envious', 'be jealous', 'covet'],
+    number: 592
   },
   {
     kanji: '差',
     keyword: 'distinction',
-    number: '593'
+    alternativeKeywords: [
+      'distinction',
+      'difference',
+      'variation',
+      'discrepancy',
+      'margin',
+      'balance'
+    ],
+    number: 593
   },
   {
     kanji: '着',
     keyword: 'don',
-    number: '594'
+    alternativeKeywords: [
+      'don',
+      'arrive',
+      'wear',
+      'counter for suits of clothing'
+    ],
+    number: 594
   },
   {
     kanji: '唯',
     keyword: 'solely',
-    number: '595'
+    alternativeKeywords: ['solely', 'only', 'merely', 'simply'],
+    number: 595
   },
   {
     kanji: '堆',
     keyword: 'piled high',
-    number: '596'
+    alternativeKeywords: ['piled high'],
+    number: 596
   },
   {
     kanji: '椎',
     keyword: 'sweet oak',
-    number: '597'
+    alternativeKeywords: ['chinquapin', 'mallet', 'spine'],
+    number: 597
   },
   {
     kanji: '誰',
     keyword: 'who',
-    number: '598'
+    alternativeKeywords: ['who', 'someone', 'somebody'],
+    number: 598
   },
   {
     kanji: '焦',
     keyword: 'char',
-    number: '599'
+    alternativeKeywords: [
+      'char',
+      'hurry',
+      'impatient',
+      'irritate',
+      'burn',
+      'scorch',
+      'singe'
+    ],
+    number: 599
   },
   {
     kanji: '礁',
     keyword: 'reef',
-    number: '600'
+    alternativeKeywords: ['reef', 'sunken rock'],
+    number: 600
   },
   {
     kanji: '集',
     keyword: 'gather',
-    number: '601'
+    alternativeKeywords: ['gather', 'meet', 'congregate', 'swarm', 'flock'],
+    number: 601
   },
   {
     kanji: '准',
     keyword: 'quasi-',
-    number: '602'
+    alternativeKeywords: ['quasi-', 'semi-', 'associate'],
+    number: 602
   },
   {
     kanji: '進',
     keyword: 'advance',
-    number: '603'
+    alternativeKeywords: ['advance', 'proceed', 'progress', 'promote'],
+    number: 603
   },
   {
     kanji: '雑',
     keyword: 'miscellaneous',
-    number: '604'
+    alternativeKeywords: ['miscellaneous'],
+    number: 604
   },
   {
     kanji: '雌',
     keyword: 'female',
-    number: '605'
+    alternativeKeywords: ['feminine', 'female'],
+    number: 605
   },
   {
     kanji: '準',
     keyword: 'semi-',
-    number: '606'
+    alternativeKeywords: [
+      'semi-',
+      'correspond to',
+      'proportionate to',
+      'conform',
+      'imitate'
+    ],
+    number: 606
   },
   {
     kanji: '奮',
     keyword: 'stirred up',
-    number: '607'
+    alternativeKeywords: ['stirred up', 'be invigorated', 'flourish'],
+    number: 607
   },
   {
     kanji: '奪',
     keyword: 'rob',
-    number: '608'
+    alternativeKeywords: [
+      'rob',
+      'take by force',
+      'snatch away',
+      'dispossess',
+      'plunder',
+      'usurp'
+    ],
+    number: 608
   },
   {
     kanji: '確',
     keyword: 'assurance',
-    number: '609'
+    alternativeKeywords: [
+      'assurance',
+      'firm',
+      'tight',
+      'hard',
+      'solid',
+      'confirm',
+      'clear',
+      'evident'
+    ],
+    number: 609
   },
   {
     kanji: '午',
     keyword: 'noon',
-    number: '610'
+    alternativeKeywords: [
+      'noon',
+      'sign of the horse',
+      '11AM-1PM',
+      'seventh sign of Chinese zodiac'
+    ],
+    number: 610
   },
   {
     kanji: '許',
     keyword: 'permit',
-    number: '611'
+    alternativeKeywords: ['permit', 'approve'],
+    number: 611
   },
   {
     kanji: '歓',
     keyword: 'delight',
-    number: '612'
+    alternativeKeywords: ['delight', 'joy'],
+    number: 612
   },
   {
     kanji: '権',
     keyword: 'authority',
-    number: '613'
+    alternativeKeywords: ['authority', 'power', 'rights'],
+    number: 613
   },
   {
     kanji: '観',
     keyword: 'outlook',
-    number: '614'
+    alternativeKeywords: ['outlook', 'look', 'appearance', 'condition', 'view'],
+    number: 614
   },
   {
     kanji: '羽',
     keyword: 'feathers',
-    number: '615'
+    alternativeKeywords: ['feathers', 'counter for birds', 'rabbits'],
+    number: 615
   },
   {
     kanji: '習',
     keyword: 'learn',
-    number: '616'
+    alternativeKeywords: ['learn'],
+    number: 616
   },
   {
     kanji: '翌',
     keyword: 'the following',
-    number: '617'
+    alternativeKeywords: ['the following', 'next'],
+    number: 617
   },
   {
     kanji: '曜',
     keyword: 'weekday',
-    number: '618'
+    alternativeKeywords: ['weekday'],
+    number: 618
   },
   {
     kanji: '濯',
     keyword: 'laundry',
-    number: '619'
+    alternativeKeywords: ['laundry', 'wash', 'pour on', 'rinse'],
+    number: 619
   },
   {
     kanji: '曰',
     keyword: 'sayeth',
-    number: '620'
+    alternativeKeywords: [
+      'say',
+      'reason',
+      'pretext',
+      'history',
+      'past',
+      'flat sun radical (no. 73)'
+    ],
+    number: 620
   },
   {
     kanji: '困',
     keyword: 'quandary',
-    number: '621'
+    alternativeKeywords: ['quandary', 'become distressed', 'annoyed'],
+    number: 621
   },
   {
     kanji: '固',
     keyword: 'harden',
-    number: '622'
+    alternativeKeywords: ['harden', 'set', 'clot', 'curdle'],
+    number: 622
   },
   {
     kanji: '錮',
     keyword: 'weld',
-    number: '623'
+    alternativeKeywords: ['confinement', 'to tie'],
+    number: 623
   },
   {
     kanji: '国',
     keyword: 'country',
-    number: '624'
+    alternativeKeywords: ['country'],
+    number: 624
   },
   {
     kanji: '団',
     keyword: 'group',
-    number: '625'
+    alternativeKeywords: ['group', 'association'],
+    number: 625
   },
   {
     kanji: '因',
     keyword: 'cause',
-    number: '626'
+    alternativeKeywords: [
+      'cause',
+      'factor',
+      'be associated with',
+      'depend on',
+      'be limited to'
+    ],
+    number: 626
   },
   {
     kanji: '姻',
     keyword: 'matrimony',
-    number: '627'
+    alternativeKeywords: ['matrimony', 'marry'],
+    number: 627
   },
   {
     kanji: '咽',
     keyword: 'windpipe',
-    number: '628'
+    alternativeKeywords: ['throat', 'choked', 'smothered', 'stuffy'],
+    number: 628
   },
   {
     kanji: '園',
     keyword: 'park',
-    number: '629'
+    alternativeKeywords: ['park', 'garden', 'yard', 'farm'],
+    number: 629
   },
   {
     kanji: '回',
     keyword: '#NAME?',
-    number: '630'
+    alternativeKeywords: [
+      '-times',
+      'round',
+      'game',
+      'revolve',
+      'counter for occurrences'
+    ],
+    number: 630
   },
   {
     kanji: '壇',
     keyword: 'podium',
-    number: '631'
+    alternativeKeywords: ['podium', 'stage', 'rostrum', 'terrace'],
+    number: 631
   },
   {
     kanji: '店',
     keyword: 'store',
-    number: '632'
+    alternativeKeywords: ['store', 'shop'],
+    number: 632
   },
   {
     kanji: '庫',
     keyword: 'warehouse',
-    number: '633'
+    alternativeKeywords: ['warehouse', 'storehouse'],
+    number: 633
   },
   {
     kanji: '庭',
     keyword: 'courtyard',
-    number: '634'
+    alternativeKeywords: ['courtyard', 'garden', 'yard'],
+    number: 634
   },
   {
     kanji: '庁',
     keyword: 'government office',
-    number: '635'
+    alternativeKeywords: ['government office'],
+    number: 635
   },
   {
     kanji: '床',
     keyword: 'bed',
-    number: '636'
+    alternativeKeywords: [
+      'bed',
+      'counter for beds',
+      'floor',
+      'padding',
+      'tatami'
+    ],
+    number: 636
   },
   {
     kanji: '麻',
     keyword: 'hemp',
-    number: '637'
+    alternativeKeywords: ['hemp', 'flax', 'numb'],
+    number: 637
   },
   {
     kanji: '磨',
     keyword: 'grind',
-    number: '638'
+    alternativeKeywords: [
+      'grind',
+      'polish',
+      'scour',
+      'improve',
+      'brush (teeth)'
+    ],
+    number: 638
   },
   {
     kanji: '心',
     keyword: 'heart',
-    number: '639'
+    alternativeKeywords: ['heart', 'mind', 'spirit', 'heart radical (no. 61)'],
+    number: 639
   },
   {
     kanji: '忘',
     keyword: 'forget',
-    number: '640'
+    alternativeKeywords: ['forget'],
+    number: 640
   },
   {
     kanji: '恣',
     keyword: 'selfish',
-    number: '641'
+    alternativeKeywords: ['selfish', 'arbitrary'],
+    number: 641
   },
   {
     kanji: '忍',
     keyword: 'endure',
-    number: '642'
+    alternativeKeywords: [
+      'endure',
+      'bear',
+      'put up with',
+      'conceal',
+      'secrete',
+      'spy',
+      'sneak'
+    ],
+    number: 642
   },
   {
     kanji: '認',
     keyword: 'acknowledge',
-    number: '643'
+    alternativeKeywords: [
+      'acknowledge',
+      'witness',
+      'discern',
+      'recognize',
+      'appreciate',
+      'believe'
+    ],
+    number: 643
   },
   {
     kanji: '忌',
     keyword: 'mourning',
-    number: '644'
+    alternativeKeywords: [
+      'mourning',
+      'abhor',
+      'detestable',
+      'death anniversary'
+    ],
+    number: 644
   },
   {
     kanji: '志',
     keyword: 'intention',
-    number: '645'
+    alternativeKeywords: [
+      'intention',
+      'plan',
+      'resolve',
+      'aspire',
+      'motive',
+      'hopes',
+      'shilling'
+    ],
+    number: 645
   },
   {
     kanji: '誌',
     keyword: 'document',
-    number: '646'
+    alternativeKeywords: ['document', 'records'],
+    number: 646
   },
-  {
-    kanji: '芯',
-    keyword: 'wick',
-    number: '647'
-  },
+  { kanji: '芯', keyword: 'wick', alternativeKeywords: ['wick'], number: 647 },
   {
     kanji: '忠',
     keyword: 'loyalty',
-    number: '648'
+    alternativeKeywords: ['loyalty', 'fidelity', 'faithfulness'],
+    number: 648
   },
   {
     kanji: '串',
     keyword: 'shish kebab',
-    number: '649'
+    alternativeKeywords: ['spit', 'skewer'],
+    number: 649
   },
   {
     kanji: '患',
     keyword: 'afflicted',
-    number: '650'
+    alternativeKeywords: ['afflicted', 'disease', 'suffer from', 'be ill'],
+    number: 650
   },
   {
     kanji: '思',
     keyword: 'think',
-    number: '651'
+    alternativeKeywords: ['think'],
+    number: 651
   },
   {
     kanji: '恩',
     keyword: 'grace',
-    number: '652'
+    alternativeKeywords: [
+      'grace',
+      'kindness',
+      'goodness',
+      'favor',
+      'mercy',
+      'blessing',
+      'benefit'
+    ],
+    number: 652
   },
   {
     kanji: '応',
     keyword: 'apply',
-    number: '653'
+    alternativeKeywords: ['apply', 'answer', 'yes', 'OK', 'reply', 'accept'],
+    number: 653
   },
   {
     kanji: '意',
     keyword: 'idea',
-    number: '654'
+    alternativeKeywords: [
+      'idea',
+      'mind',
+      'heart',
+      'taste',
+      'thought',
+      'desire',
+      'care',
+      'liking'
+    ],
+    number: 654
   },
   {
     kanji: '臆',
     keyword: 'cowardice',
-    number: '655'
+    alternativeKeywords: ['timidity', 'heart', 'mind', 'fear', 'cowardly'],
+    number: 655
   },
   {
     kanji: '想',
     keyword: 'concept',
-    number: '656'
+    alternativeKeywords: ['concept', 'think', 'idea', 'thought'],
+    number: 656
   },
   {
     kanji: '息',
     keyword: 'breath',
-    number: '657'
+    alternativeKeywords: [
+      'breath',
+      'respiration',
+      'son',
+      'interest (on money)'
+    ],
+    number: 657
   },
   {
     kanji: '憩',
     keyword: 'recess',
-    number: '658'
+    alternativeKeywords: ['recess', 'rest', 'relax', 'repose'],
+    number: 658
   },
   {
     kanji: '恵',
     keyword: 'favor',
-    number: '659'
+    alternativeKeywords: ['favor', 'blessing', 'grace', 'kindness'],
+    number: 659
   },
   {
     kanji: '恐',
     keyword: 'fear',
-    number: '660'
+    alternativeKeywords: ['fear', 'dread', 'awe'],
+    number: 660
   },
   {
     kanji: '惑',
     keyword: 'beguile',
-    number: '661'
+    alternativeKeywords: ['beguile', 'delusion', 'perplexity'],
+    number: 661
   },
   {
     kanji: '感',
     keyword: 'emotion',
-    number: '662'
+    alternativeKeywords: ['emotion', 'feeling', 'sensation'],
+    number: 662
   },
   {
     kanji: '憂',
     keyword: 'melancholy',
-    number: '663'
+    alternativeKeywords: [
+      'melancholy',
+      'grieve',
+      'lament',
+      'be anxious',
+      'sad',
+      'unhappy'
+    ],
+    number: 663
   },
   {
     kanji: '寡',
     keyword: 'widow',
-    number: '664'
+    alternativeKeywords: ['widow', 'minority', 'few'],
+    number: 664
   },
   {
     kanji: '忙',
     keyword: 'busy',
-    number: '665'
+    alternativeKeywords: ['busy', 'occupied', 'restless'],
+    number: 665
   },
   {
     kanji: '悦',
     keyword: 'ecstasy',
-    number: '666'
+    alternativeKeywords: ['ecstasy', 'joy', 'rapture'],
+    number: 666
   },
   {
     kanji: '恒',
     keyword: 'constancy',
-    number: '667'
+    alternativeKeywords: ['constancy', 'always'],
+    number: 667
   },
   {
     kanji: '悼',
     keyword: 'lament',
-    number: '668'
+    alternativeKeywords: ['lament', 'grieve over'],
+    number: 668
   },
   {
     kanji: '悟',
     keyword: 'enlightenment',
-    number: '669'
+    alternativeKeywords: [
+      'enlightenment',
+      'perceive',
+      'discern',
+      'realize',
+      'understand'
+    ],
+    number: 669
   },
   {
     kanji: '怖',
     keyword: 'dreadful',
-    number: '670'
+    alternativeKeywords: ['dreadful', 'be frightened', 'fearful'],
+    number: 670
   },
   {
     kanji: '慌',
     keyword: 'disconcerted',
-    number: '671'
+    alternativeKeywords: ['disconcerted', 'be confused', "lose one's head"],
+    number: 671
   },
   {
     kanji: '悔',
     keyword: 'repent',
-    number: '672'
+    alternativeKeywords: ['repent', 'regret'],
+    number: 672
   },
   {
     kanji: '憎',
     keyword: 'hate',
-    number: '673'
+    alternativeKeywords: ['hate', 'detest'],
+    number: 673
   },
   {
     kanji: '慣',
     keyword: 'accustomed',
-    number: '674'
+    alternativeKeywords: ['accustomed', 'get used to', 'become experienced'],
+    number: 674
   },
   {
     kanji: '愉',
     keyword: 'pleasure',
-    number: '675'
+    alternativeKeywords: ['pleasure', 'happy', 'rejoice'],
+    number: 675
   },
   {
     kanji: '惰',
     keyword: 'lazy',
-    number: '676'
+    alternativeKeywords: ['lazy', 'laziness'],
+    number: 676
   },
   {
     kanji: '慎',
     keyword: 'humility',
-    number: '677'
+    alternativeKeywords: ['humility', 'be careful', 'discreet', 'prudent'],
+    number: 677
   },
   {
     kanji: '憾',
     keyword: 'remorse',
-    number: '678'
+    alternativeKeywords: ['remorse', 'regret', 'be sorry'],
+    number: 678
   },
   {
     kanji: '憶',
     keyword: 'recollection',
-    number: '679'
+    alternativeKeywords: ['recollection', 'think', 'remember'],
+    number: 679
   },
   {
     kanji: '惧',
     keyword: 'disquieting',
-    number: '680'
+    alternativeKeywords: ['fear', 'be afraid of', 'dread'],
+    number: 680
   },
   {
     kanji: '憧',
     keyword: 'yearn',
-    number: '681'
+    alternativeKeywords: [
+      'yearn after',
+      'long for',
+      'aspire to',
+      'admire',
+      'adore'
+    ],
+    number: 681
   },
   {
     kanji: '憬',
     keyword: 'hanker',
-    number: '682'
+    alternativeKeywords: ['yearn for', 'aspire to', 'admire'],
+    number: 682
   },
   {
     kanji: '慕',
     keyword: 'pining',
-    number: '683'
+    alternativeKeywords: ['pining', 'yearn for', 'love dearly', 'adore'],
+    number: 683
   },
   {
     kanji: '添',
     keyword: 'annexed',
-    number: '684'
+    alternativeKeywords: [
+      'annexed',
+      'accompany',
+      'marry',
+      'suit',
+      'meet',
+      'satisfy',
+      'attach',
+      'append',
+      'garnish',
+      'imitate'
+    ],
+    number: 684
   },
   {
     kanji: '必',
     keyword: 'invariably',
-    number: '685'
+    alternativeKeywords: ['invariably', 'certain', 'inevitable'],
+    number: 685
   },
   {
     kanji: '泌',
     keyword: 'ooze',
-    number: '686'
+    alternativeKeywords: ['ooze', 'flow', 'soak in', 'penetrate', 'secrete'],
+    number: 686
   },
-  {
-    kanji: '手',
-    keyword: 'hand',
-    number: '687'
-  },
+  { kanji: '手', keyword: 'hand', alternativeKeywords: ['hand'], number: 687 },
   {
     kanji: '看',
     keyword: 'watch over',
-    number: '688'
+    alternativeKeywords: ['watch over', 'see'],
+    number: 688
   },
   {
     kanji: '摩',
     keyword: 'chafe',
-    number: '689'
+    alternativeKeywords: ['chafe', 'rub', 'polish', 'grind', 'scrape'],
+    number: 689
   },
   {
     kanji: '我',
     keyword: 'ego',
-    number: '690'
+    alternativeKeywords: ['ego', 'I', 'selfish', 'our', 'oneself'],
+    number: 690
   },
   {
     kanji: '義',
     keyword: 'righteousness',
-    number: '691'
+    alternativeKeywords: [
+      'righteousness',
+      'justice',
+      'morality',
+      'honor',
+      'loyalty',
+      'meaning'
+    ],
+    number: 691
   },
   {
     kanji: '議',
     keyword: 'deliberation',
-    number: '692'
+    alternativeKeywords: [
+      'deliberation',
+      'consultation',
+      'debate',
+      'consideration'
+    ],
+    number: 692
   },
   {
     kanji: '犠',
     keyword: 'sacrifice',
-    number: '693'
+    alternativeKeywords: ['sacrifice'],
+    number: 693
   },
   {
     kanji: '抹',
     keyword: 'rub',
-    number: '694'
+    alternativeKeywords: ['rub', 'paint', 'erase'],
+    number: 694
   },
   {
     kanji: '拭',
     keyword: 'wipe',
-    number: '695'
+    alternativeKeywords: ['wipe', 'mop', 'swab'],
+    number: 695
   },
   {
     kanji: '拉',
     keyword: 'yank',
-    number: '696'
+    alternativeKeywords: ['Latin', 'kidnap', 'crush'],
+    number: 696
   },
   {
     kanji: '抱',
     keyword: 'embrace',
-    number: '697'
+    alternativeKeywords: ['embrace', 'hug', 'hold in arms'],
+    number: 697
   },
   {
     kanji: '搭',
     keyword: 'board',
-    number: '698'
+    alternativeKeywords: ['board', 'load (a vehicle)', 'ride'],
+    number: 698
   },
   {
     kanji: '抄',
     keyword: 'extract',
-    number: '699'
+    alternativeKeywords: [
+      'extract',
+      'selection',
+      'summary',
+      'copy',
+      'spread thin'
+    ],
+    number: 699
   },
   {
     kanji: '抗',
     keyword: 'confront',
-    number: '700'
+    alternativeKeywords: ['confront', 'resist', 'defy', 'oppose'],
+    number: 700
   },
   {
     kanji: '批',
     keyword: 'criticism',
-    number: '701'
+    alternativeKeywords: ['criticism', 'strike'],
+    number: 701
   },
   {
     kanji: '招',
     keyword: 'beckon',
-    number: '702'
+    alternativeKeywords: ['beckon', 'invite', 'summon', 'engage'],
+    number: 702
   },
   {
     kanji: '拓',
     keyword: 'clear the land',
-    number: '703'
+    alternativeKeywords: ['clear (the land)', 'open', 'break up (land)'],
+    number: 703
   },
   {
     kanji: '拍',
     keyword: 'clap',
-    number: '704'
+    alternativeKeywords: ['clap', 'beat (music)'],
+    number: 704
   },
   {
     kanji: '打',
     keyword: 'strike',
-    number: '705'
+    alternativeKeywords: ['strike', 'hit', 'knock', 'pound', 'dozen'],
+    number: 705
   },
   {
     kanji: '拘',
     keyword: 'arrest',
-    number: '706'
+    alternativeKeywords: [
+      'arrest',
+      'seize',
+      'concerned',
+      'adhere to',
+      'despite'
+    ],
+    number: 706
   },
   {
     kanji: '捨',
     keyword: 'discard',
-    number: '707'
+    alternativeKeywords: [
+      'discard',
+      'throw away',
+      'abandon',
+      'resign',
+      'reject',
+      'sacrifice'
+    ],
+    number: 707
   },
   {
     kanji: '拐',
     keyword: 'kidnap',
-    number: '708'
+    alternativeKeywords: ['kidnap', 'falsify'],
+    number: 708
   },
   {
     kanji: '摘',
     keyword: 'pinch',
-    number: '709'
+    alternativeKeywords: [
+      'pinch',
+      'pick',
+      'pluck',
+      'trim',
+      'clip',
+      'summarize'
+    ],
+    number: 709
   },
   {
     kanji: '挑',
     keyword: 'challenge',
-    number: '710'
+    alternativeKeywords: ['challenge', 'contend for', 'make love to'],
+    number: 710
   },
   {
     kanji: '指',
     keyword: 'finger',
-    number: '711'
+    alternativeKeywords: [
+      'finger',
+      'point to',
+      'indicate',
+      'put into',
+      'play (chess)',
+      'measure (ruler)'
+    ],
+    number: 711
   },
   {
     kanji: '持',
     keyword: 'hold',
-    number: '712'
+    alternativeKeywords: ['hold', 'have'],
+    number: 712
   },
   {
     kanji: '拶',
     keyword: 'imminent',
-    number: '713'
+    alternativeKeywords: ['be imminent', 'draw close'],
+    number: 713
   },
   {
     kanji: '括',
     keyword: 'fasten',
-    number: '714'
+    alternativeKeywords: ['fasten', 'tie up', 'arrest', 'constrict'],
+    number: 714
   },
   {
     kanji: '揮',
     keyword: 'brandish',
-    number: '715'
+    alternativeKeywords: ['brandish', 'wave', 'wag', 'swing', 'shake'],
+    number: 715
   },
   {
     kanji: '推',
     keyword: 'conjecture',
-    number: '716'
+    alternativeKeywords: [
+      'conjecture',
+      'infer',
+      'guess',
+      'suppose',
+      'support',
+      'push (for)'
+    ],
+    number: 716
   },
   {
     kanji: '揚',
     keyword: 'hoist',
-    number: '717'
+    alternativeKeywords: [
+      'raise',
+      'elevate',
+      'hoist',
+      'praise',
+      'extol',
+      'fry in deep fat'
+    ],
+    number: 717
   },
   {
     kanji: '提',
     keyword: 'propose',
-    number: '718'
+    alternativeKeywords: ['propose', 'take along', 'carry in hand'],
+    number: 718
   },
   {
     kanji: '損',
     keyword: 'damage',
-    number: '719'
+    alternativeKeywords: ['damage', 'loss', 'disadvantage', 'hurt', 'injure'],
+    number: 719
   },
   {
     kanji: '拾',
     keyword: 'pick up',
-    number: '720'
+    alternativeKeywords: ['pick up', 'gather', 'find', 'go on foot', 'ten'],
+    number: 720
   },
   {
     kanji: '担',
     keyword: 'shouldering',
-    number: '721'
+    alternativeKeywords: ['shouldering', 'carry', 'raise', 'bear'],
+    number: 721
   },
   {
     kanji: '拠',
     keyword: 'foothold',
-    number: '722'
+    alternativeKeywords: ['foothold', 'based on', 'follow', 'therefore'],
+    number: 722
   },
   {
     kanji: '描',
     keyword: 'sketch',
-    number: '723'
+    alternativeKeywords: ['sketch', 'compose', 'write', 'draw', 'paint'],
+    number: 723
   },
   {
     kanji: '操',
     keyword: 'maneuver',
-    number: '724'
+    alternativeKeywords: [
+      'maneuver',
+      'manipulate',
+      'operate',
+      'steer',
+      'chastity',
+      'virginity',
+      'fidelity'
+    ],
+    number: 724
   },
   {
     kanji: '接',
     keyword: 'touch',
-    number: '725'
+    alternativeKeywords: ['touch', 'contact', 'adjoin', 'piece together'],
+    number: 725
   },
   {
     kanji: '掲',
     keyword: 'put up a notice',
-    number: '726'
+    alternativeKeywords: [
+      'put up (a notice)',
+      'put up',
+      'hoist',
+      'display',
+      'hang out',
+      'publish',
+      'describe'
+    ],
+    number: 726
   },
   {
     kanji: '掛',
     keyword: 'hang',
-    number: '727'
+    alternativeKeywords: [
+      'hang',
+      'suspend',
+      'depend',
+      'arrive at',
+      'tax',
+      'pour'
+    ],
+    number: 727
   },
   {
     kanji: '捗',
     keyword: 'make headway',
-    number: '728'
+    alternativeKeywords: ['make progress'],
+    number: 728
   },
   {
     kanji: '研',
     keyword: 'polish',
-    number: '729'
+    alternativeKeywords: ['polish', 'study of', 'sharpen'],
+    number: 729
   },
   {
     kanji: '戒',
     keyword: 'commandment',
-    number: '730'
+    alternativeKeywords: ['commandment'],
+    number: 730
   },
   {
     kanji: '弄',
     keyword: 'tinker with',
-    number: '731'
+    alternativeKeywords: ['play with', 'tamper', 'trifle with'],
+    number: 731
   },
   {
     kanji: '械',
     keyword: 'contraption',
-    number: '732'
+    alternativeKeywords: ['contraption', 'fetter', 'machine', 'instrument'],
+    number: 732
   },
   {
     kanji: '鼻',
     keyword: 'nose',
-    number: '733'
+    alternativeKeywords: ['nose', 'snout'],
+    number: 733
   },
   {
     kanji: '刑',
     keyword: 'punish',
-    number: '734'
+    alternativeKeywords: ['punish', 'penalty', 'sentence', 'punishment'],
+    number: 734
   },
   {
     kanji: '型',
     keyword: 'mould',
-    number: '735'
+    alternativeKeywords: ['mould', 'type', 'model'],
+    number: 735
   },
   {
     kanji: '才',
     keyword: 'genius',
-    number: '736'
+    alternativeKeywords: ['genius', 'years old', 'cubic shaku'],
+    number: 736
   },
   {
     kanji: '財',
     keyword: 'property',
-    number: '737'
+    alternativeKeywords: ['property', 'money', 'wealth', 'assets'],
+    number: 737
   },
   {
     kanji: '材',
     keyword: 'lumber',
-    number: '738'
+    alternativeKeywords: [
+      'lumber',
+      'log',
+      'timber',
+      'wood',
+      'materials',
+      'ingredients',
+      'talent'
+    ],
+    number: 738
   },
   {
     kanji: '存',
     keyword: 'suppose',
-    number: '739'
+    alternativeKeywords: ['exist', 'suppose', 'be aware of', 'believe', 'feel'],
+    number: 739
   },
   {
     kanji: '在',
     keyword: 'exist',
-    number: '740'
+    alternativeKeywords: ['exist', 'outskirts', 'suburbs', 'located in'],
+    number: 740
   },
   {
     kanji: '乃',
     keyword: 'from',
-    number: '741'
+    alternativeKeywords: [
+      'from',
+      'possessive particle',
+      'whereupon',
+      'accordingly'
+    ],
+    number: 741
   },
   {
     kanji: '携',
     keyword: 'portable',
-    number: '742'
+    alternativeKeywords: [
+      'portable',
+      'carry (in hand)',
+      'armed with',
+      'bring along'
+    ],
+    number: 742
   },
   {
     kanji: '及',
     keyword: 'reach out',
-    number: '743'
+    alternativeKeywords: ['reach out', 'exert', 'exercise', 'cause'],
+    number: 743
   },
   {
     kanji: '吸',
     keyword: 'suck',
-    number: '744'
+    alternativeKeywords: ['suck', 'imbibe', 'inhale', 'sip'],
+    number: 744
   },
   {
     kanji: '扱',
     keyword: 'handle',
-    number: '745'
+    alternativeKeywords: ['handle', 'entertain', 'thresh', 'strip'],
+    number: 745
   },
   {
     kanji: '丈',
     keyword: 'length',
-    number: '746'
+    alternativeKeywords: [
+      'length',
+      'ten shaku',
+      'measure',
+      'Mr.',
+      'Ms.',
+      'height',
+      'stature',
+      'all (one has)',
+      'only',
+      "that's all",
+      'merely'
+    ],
+    number: 746
   },
   {
     kanji: '史',
     keyword: 'history',
-    number: '747'
+    alternativeKeywords: ['history', 'chronicle'],
+    number: 747
   },
   {
     kanji: '吏',
     keyword: 'officer',
-    number: '748'
+    alternativeKeywords: ['officer', 'an official'],
+    number: 748
   },
   {
     kanji: '更',
     keyword: 'grow late',
-    number: '749'
+    alternativeKeywords: [
+      'grow late',
+      'night watch',
+      'sit up late',
+      'of course',
+      'renew',
+      'renovate',
+      'again',
+      'more and more',
+      'further'
+    ],
+    number: 749
   },
   {
     kanji: '硬',
     keyword: 'stiff',
-    number: '750'
+    alternativeKeywords: ['stiff', 'hard'],
+    number: 750
   },
   {
     kanji: '梗',
     keyword: 'spiny',
-    number: '751'
+    alternativeKeywords: ['for the most part', 'close up', 'flower stem'],
+    number: 751
   },
   {
     kanji: '又',
     keyword: 'or again',
-    number: '752'
+    alternativeKeywords: ['or again', 'furthermore', 'on the other hand'],
+    number: 752
   },
   {
     kanji: '双',
     keyword: 'pair',
-    number: '753'
+    alternativeKeywords: ['pair', 'set', 'comparison', 'counter for pairs'],
+    number: 753
   },
   {
     kanji: '桑',
     keyword: 'mulberry',
-    number: '754'
+    alternativeKeywords: ['mulberry'],
+    number: 754
   },
   {
     kanji: '隻',
     keyword: 'vessels',
-    number: '755'
+    alternativeKeywords: [
+      'vessels',
+      'counter for ships',
+      'fish',
+      'birds',
+      'arrows',
+      'one of a pair'
+    ],
+    number: 755
   },
   {
     kanji: '護',
     keyword: 'safeguard',
-    number: '756'
+    alternativeKeywords: ['safeguard', 'protect'],
+    number: 756
   },
   {
     kanji: '獲',
     keyword: 'seize',
-    number: '757'
+    alternativeKeywords: [
+      'seize',
+      'get',
+      'find',
+      'earn',
+      'acquire',
+      'can',
+      'may',
+      'able to'
+    ],
+    number: 757
   },
   {
     kanji: '奴',
     keyword: 'guy',
-    number: '758'
+    alternativeKeywords: ['guy', 'slave', 'manservant', 'fellow'],
+    number: 758
   },
   {
     kanji: '怒',
     keyword: 'angry',
-    number: '759'
+    alternativeKeywords: ['angry', 'be offended'],
+    number: 759
   },
   {
     kanji: '友',
     keyword: 'friend',
-    number: '760'
+    alternativeKeywords: ['friend'],
+    number: 760
   },
   {
     kanji: '抜',
     keyword: 'slip out',
-    number: '761'
+    alternativeKeywords: [
+      'slip out',
+      'extract',
+      'pull out',
+      'pilfer',
+      'quote',
+      'remove',
+      'omit'
+    ],
+    number: 761
   },
   {
     kanji: '投',
     keyword: 'throw',
-    number: '762'
+    alternativeKeywords: [
+      'throw',
+      'discard',
+      'abandon',
+      'launch into',
+      'join',
+      'invest in',
+      'hurl',
+      'give up',
+      'sell at a loss'
+    ],
+    number: 762
   },
   {
     kanji: '没',
     keyword: 'drown',
-    number: '763'
+    alternativeKeywords: [
+      'drown',
+      'sink',
+      'hide',
+      'fall into',
+      'disappear',
+      'die'
+    ],
+    number: 763
   },
   {
     kanji: '股',
     keyword: 'thigh',
-    number: '764'
+    alternativeKeywords: ['thigh', 'crotch'],
+    number: 764
   },
   {
     kanji: '設',
     keyword: 'establishment',
-    number: '765'
+    alternativeKeywords: ['establishment', 'provision', 'prepare'],
+    number: 765
   },
   {
     kanji: '撃',
     keyword: 'beat',
-    number: '766'
+    alternativeKeywords: ['beat', 'attack', 'defeat', 'conquer'],
+    number: 766
   },
   {
     kanji: '殻',
     keyword: 'husk',
-    number: '767'
+    alternativeKeywords: ['husk', 'nut shell'],
+    number: 767
   },
   {
     kanji: '支',
     keyword: 'branch',
-    number: '768'
+    alternativeKeywords: [
+      'branch',
+      'support',
+      'sustain',
+      'branch radical (no. 65)'
+    ],
+    number: 768
   },
   {
     kanji: '技',
     keyword: 'skill',
-    number: '769'
+    alternativeKeywords: [
+      'skill',
+      'art',
+      'craft',
+      'ability',
+      'feat',
+      'performance',
+      'vocation',
+      'arts'
+    ],
+    number: 769
   },
   {
     kanji: '枝',
     keyword: 'bough',
-    number: '770'
+    alternativeKeywords: [
+      'bough',
+      'branch',
+      'twig',
+      'limb',
+      'counter for branches'
+    ],
+    number: 770
   },
   {
     kanji: '肢',
     keyword: 'limb',
-    number: '771'
+    alternativeKeywords: ['limb', 'arms & legs'],
+    number: 771
   },
   {
     kanji: '茎',
     keyword: 'stalk',
-    number: '772'
+    alternativeKeywords: ['stalk', 'stem'],
+    number: 772
   },
   {
     kanji: '怪',
     keyword: 'suspicious',
-    number: '773'
+    alternativeKeywords: ['suspicious', 'mystery', 'apparition'],
+    number: 773
   },
   {
     kanji: '軽',
     keyword: 'lightly',
-    number: '774'
+    alternativeKeywords: ['lightly', 'trifling', 'unimportant'],
+    number: 774
   },
   {
     kanji: '叔',
     keyword: 'uncle',
-    number: '775'
+    alternativeKeywords: ['uncle', 'youth'],
+    number: 775
   },
   {
     kanji: '督',
     keyword: 'coach',
-    number: '776'
+    alternativeKeywords: ['coach', 'command', 'urge', 'lead', 'supervise'],
+    number: 776
   },
   {
     kanji: '寂',
     keyword: 'loneliness',
-    number: '777'
+    alternativeKeywords: [
+      'loneliness',
+      'quietly',
+      'mellow',
+      'mature',
+      'death of a priest'
+    ],
+    number: 777
   },
   {
     kanji: '淑',
     keyword: 'graceful',
-    number: '778'
+    alternativeKeywords: ['graceful', 'gentle', 'pure'],
+    number: 778
   },
   {
     kanji: '反',
     keyword: 'anti-',
-    number: '779'
+    alternativeKeywords: ['anti-'],
+    number: 779
   },
   {
     kanji: '坂',
     keyword: 'slope',
-    number: '780'
+    alternativeKeywords: ['slope', 'incline', 'hill'],
+    number: 780
   },
   {
     kanji: '板',
     keyword: 'plank',
-    number: '781'
+    alternativeKeywords: ['plank', 'board', 'plate', 'stage'],
+    number: 781
   },
   {
     kanji: '返',
     keyword: 'return',
-    number: '782'
+    alternativeKeywords: ['return', 'answer', 'fade', 'repay'],
+    number: 782
   },
   {
     kanji: '販',
     keyword: 'marketing',
-    number: '783'
+    alternativeKeywords: ['marketing', 'sell', 'trade'],
+    number: 783
   },
   {
     kanji: '爪',
     keyword: 'claw',
-    number: '784'
+    alternativeKeywords: ['claw', 'nail', 'talon'],
+    number: 784
   },
   {
     kanji: '妥',
     keyword: 'gentle',
-    number: '785'
+    alternativeKeywords: ['gentle', 'peace', 'depravity'],
+    number: 785
   },
   {
     kanji: '乳',
     keyword: 'milk',
-    number: '786'
+    alternativeKeywords: ['milk', 'breasts'],
+    number: 786
   },
   {
     kanji: '浮',
     keyword: 'floating',
-    number: '787'
+    alternativeKeywords: ['floating', 'float', 'rise to surface'],
+    number: 787
   },
   {
     kanji: '淫',
     keyword: 'lewd',
-    number: '788'
+    alternativeKeywords: ['lewdness', 'licentiousness'],
+    number: 788
   },
   {
     kanji: '将',
     keyword: 'leader',
-    number: '789'
+    alternativeKeywords: [
+      'leader',
+      'commander',
+      'general',
+      'admiral',
+      'or',
+      'and again',
+      'soon',
+      'from now on',
+      'just about'
+    ],
+    number: 789
   },
   {
     kanji: '奨',
     keyword: 'exhort',
-    number: '790'
+    alternativeKeywords: ['exhort', 'urge', 'encourage'],
+    number: 790
   },
   {
     kanji: '采',
     keyword: 'grab',
-    number: '791'
+    alternativeKeywords: [
+      'dice',
+      'form',
+      'appearance',
+      'take',
+      'gather',
+      'coloring'
+    ],
+    number: 791
   },
   {
     kanji: '採',
     keyword: 'pick',
-    number: '792'
+    alternativeKeywords: ['pick', 'take', 'fetch', 'take up'],
+    number: 792
   },
   {
     kanji: '菜',
     keyword: 'vegetable',
-    number: '793'
+    alternativeKeywords: ['vegetable', 'side dish', 'greens'],
+    number: 793
   },
   {
     kanji: '受',
     keyword: 'accept',
-    number: '794'
+    alternativeKeywords: [
+      'accept',
+      'undergo',
+      'answer (phone)',
+      'take',
+      'get',
+      'catch',
+      'receive'
+    ],
+    number: 794
   },
   {
     kanji: '授',
     keyword: 'impart',
-    number: '795'
+    alternativeKeywords: ['impart', 'instruct', 'grant', 'confer'],
+    number: 795
   },
   {
     kanji: '愛',
     keyword: 'love',
-    number: '796'
+    alternativeKeywords: ['love', 'affection', 'favourite'],
+    number: 796
   },
   {
     kanji: '曖',
     keyword: 'unclear',
-    number: '797'
+    alternativeKeywords: ['dark', 'not clear'],
+    number: 797
   },
   {
     kanji: '払',
     keyword: 'pay',
-    number: '798'
+    alternativeKeywords: ['pay', 'clear out', 'prune', 'banish', 'dispose of'],
+    number: 798
   },
   {
     kanji: '広',
     keyword: 'wide',
-    number: '799'
+    alternativeKeywords: ['wide', 'broad', 'spacious'],
+    number: 799
   },
   {
     kanji: '勾',
     keyword: 'hooked',
-    number: '800'
+    alternativeKeywords: ['be bent', 'slope', 'capture'],
+    number: 800
   },
   {
     kanji: '拡',
     keyword: 'broaden',
-    number: '801'
+    alternativeKeywords: ['broaden', 'extend', 'expand', 'enlarge'],
+    number: 801
   },
   {
     kanji: '鉱',
     keyword: 'mineral',
-    number: '802'
+    alternativeKeywords: ['mineral', 'ore'],
+    number: 802
   },
   {
     kanji: '弁',
     keyword: 'valve',
-    number: '803'
+    alternativeKeywords: [
+      'valve',
+      'petal',
+      'braid',
+      'speech',
+      'dialect',
+      'discrimination',
+      'dispose of',
+      'distinguish',
+      'conical cap'
+    ],
+    number: 803
   },
   {
     kanji: '雄',
     keyword: 'male',
-    number: '804'
+    alternativeKeywords: [
+      'masculine',
+      'male',
+      'hero',
+      'leader',
+      'superiority',
+      'excellence'
+    ],
+    number: 804
   },
   {
     kanji: '台',
     keyword: 'pedestal',
-    number: '805'
+    alternativeKeywords: [
+      'pedestal',
+      'a stand',
+      'counter for machines and vehicles'
+    ],
+    number: 805
   },
   {
     kanji: '怠',
     keyword: 'neglect',
-    number: '806'
+    alternativeKeywords: ['neglect', 'laziness'],
+    number: 806
   },
   {
     kanji: '治',
     keyword: 'reign',
-    number: '807'
+    alternativeKeywords: [
+      'reign',
+      'be at peace',
+      'calm down',
+      'subdue',
+      'quell',
+      'govt',
+      'cure',
+      'heal',
+      'rule',
+      'conserve'
+    ],
+    number: 807
   },
   {
     kanji: '冶',
     keyword: 'metallurgy',
-    number: '808'
+    alternativeKeywords: ['melting', 'smelting'],
+    number: 808
   },
   {
     kanji: '始',
     keyword: 'commence',
-    number: '809'
+    alternativeKeywords: ['commence', 'begin'],
+    number: 809
   },
   {
     kanji: '胎',
     keyword: 'womb',
-    number: '810'
+    alternativeKeywords: ['womb', 'uterus'],
+    number: 810
   },
   {
     kanji: '窓',
     keyword: 'window',
-    number: '811'
+    alternativeKeywords: ['window', 'pane'],
+    number: 811
   },
   {
     kanji: '去',
     keyword: 'gone',
-    number: '812'
+    alternativeKeywords: [
+      'gone',
+      'past',
+      'quit',
+      'leave',
+      'elapse',
+      'eliminate',
+      'divorce'
+    ],
+    number: 812
   },
   {
     kanji: '法',
     keyword: 'method',
-    number: '813'
+    alternativeKeywords: [
+      'method',
+      'law',
+      'rule',
+      'principle',
+      'model',
+      'system'
+    ],
+    number: 813
   },
   {
     kanji: '会',
     keyword: 'meeting',
-    number: '814'
+    alternativeKeywords: [
+      'meeting',
+      'meet',
+      'party',
+      'association',
+      'interview',
+      'join'
+    ],
+    number: 814
   },
   {
     kanji: '至',
     keyword: 'climax',
-    number: '815'
+    alternativeKeywords: [
+      'climax',
+      'arrive',
+      'proceed',
+      'reach',
+      'attain',
+      'result in'
+    ],
+    number: 815
   },
   {
     kanji: '室',
     keyword: 'room',
-    number: '816'
+    alternativeKeywords: [
+      'room',
+      'apartment',
+      'chamber',
+      'greenhouse',
+      'cellar'
+    ],
+    number: 816
   },
   {
     kanji: '到',
     keyword: 'arrival',
-    number: '817'
+    alternativeKeywords: ['arrival', 'proceed', 'reach', 'attain', 'result in'],
+    number: 817
   },
   {
     kanji: '致',
     keyword: 'doth',
-    number: '818'
+    alternativeKeywords: [
+      'doth',
+      'do',
+      'send',
+      'forward',
+      'cause',
+      'exert',
+      'incur',
+      'engage'
+    ],
+    number: 818
   },
   {
     kanji: '互',
     keyword: 'mutually',
-    number: '819'
+    alternativeKeywords: ['mutually', 'reciprocally', 'together'],
+    number: 819
   },
   {
     kanji: '棄',
     keyword: 'abandon',
-    number: '820'
+    alternativeKeywords: [
+      'abandon',
+      'throw away',
+      'discard',
+      'resign',
+      'reject',
+      'sacrifice'
+    ],
+    number: 820
   },
   {
     kanji: '育',
     keyword: 'bring up',
-    number: '821'
+    alternativeKeywords: ['bring up', 'grow up', 'raise', 'rear'],
+    number: 821
   },
   {
     kanji: '撤',
     keyword: 'remove',
-    number: '822'
+    alternativeKeywords: [
+      'remove',
+      'withdraw',
+      'disarm',
+      'dismantle',
+      'reject',
+      'exclude'
+    ],
+    number: 822
   },
   {
     kanji: '充',
     keyword: 'allot',
-    number: '823'
+    alternativeKeywords: ['allot', 'fill'],
+    number: 823
   },
   {
     kanji: '銃',
     keyword: 'gun',
-    number: '824'
+    alternativeKeywords: ['gun', 'arms'],
+    number: 824
   },
   {
     kanji: '硫',
     keyword: 'sulfur',
-    number: '825'
+    alternativeKeywords: ['sulphur'],
+    number: 825
   },
   {
     kanji: '流',
     keyword: 'current',
-    number: '826'
+    alternativeKeywords: ['current', 'a sink', 'flow', 'forfeit'],
+    number: 826
   },
   {
     kanji: '允',
     keyword: 'license',
-    number: '827'
+    alternativeKeywords: ['license', 'sincerity', 'permit'],
+    number: 827
   },
   {
     kanji: '唆',
     keyword: 'tempt',
-    number: '828'
+    alternativeKeywords: ['tempt', 'seduce', 'instigate', 'promote'],
+    number: 828
   },
   {
     kanji: '出',
     keyword: 'exit',
-    number: '829'
+    alternativeKeywords: [
+      'exit',
+      'leave',
+      'go out',
+      'come out',
+      'put out',
+      'protrude'
+    ],
+    number: 829
   },
   {
     kanji: '山',
     keyword: 'mountain',
-    number: '830'
+    alternativeKeywords: ['mountain'],
+    number: 830
   },
   {
     kanji: '拙',
     keyword: 'bungling',
-    number: '831'
+    alternativeKeywords: ['bungling', 'clumsy', 'unskillful'],
+    number: 831
   },
   {
     kanji: '岩',
     keyword: 'boulder',
-    number: '832'
+    alternativeKeywords: ['boulder', 'rock', 'cliff'],
+    number: 832
   },
   {
     kanji: '炭',
     keyword: 'charcoal',
-    number: '833'
+    alternativeKeywords: ['charcoal', 'coal'],
+    number: 833
   },
   {
     kanji: '岐',
     keyword: 'branch off',
-    number: '834'
+    alternativeKeywords: [
+      'branch off',
+      'fork in road',
+      'scene',
+      'arena',
+      'theater'
+    ],
+    number: 834
   },
   {
     kanji: '峠',
     keyword: 'mountain pass',
-    number: '835'
+    alternativeKeywords: [
+      'mountain peak',
+      'mountain pass',
+      'climax',
+      'crest',
+      '(kokuji)'
+    ],
+    number: 835
   },
   {
     kanji: '崩',
     keyword: 'crumble',
-    number: '836'
+    alternativeKeywords: ['crumble', 'die', 'demolish', 'level'],
+    number: 836
   },
   {
     kanji: '密',
     keyword: 'secrecy',
-    number: '837'
+    alternativeKeywords: [
+      'secrecy',
+      'density (pop)',
+      'minuteness',
+      'carefulness'
+    ],
+    number: 837
   },
   {
     kanji: '蜜',
     keyword: 'honey',
-    number: '838'
+    alternativeKeywords: ['honey', 'nectar', 'molasses'],
+    number: 838
   },
   {
     kanji: '嵐',
     keyword: 'storm',
-    number: '839'
+    alternativeKeywords: ['storm', 'tempest'],
+    number: 839
   },
   {
     kanji: '崎',
     keyword: 'promontory',
-    number: '840'
+    alternativeKeywords: ['promontory', 'cape', 'spit'],
+    number: 840
   },
   {
     kanji: '崖',
     keyword: 'bluffs',
-    number: '841'
+    alternativeKeywords: ['cliff', 'bluff', 'precipice'],
+    number: 841
   },
   {
     kanji: '入',
     keyword: 'enter',
-    number: '842'
+    alternativeKeywords: ['enter', 'insert'],
+    number: 842
   },
   {
     kanji: '込',
     keyword: 'crowded',
-    number: '843'
+    alternativeKeywords: [
+      'crowded',
+      'mixture',
+      'in bulk',
+      'included',
+      '(kokuji)'
+    ],
+    number: 843
   },
   {
     kanji: '分',
     keyword: 'part',
-    number: '844'
+    alternativeKeywords: [
+      'part',
+      'minute of time',
+      'segment',
+      'share',
+      'degree',
+      "one's lot",
+      'duty',
+      'understand',
+      'know',
+      'rate',
+      '1%',
+      'chances',
+      'shaku/100'
+    ],
+    number: 844
   },
   {
     kanji: '貧',
     keyword: 'poverty',
-    number: '845'
+    alternativeKeywords: ['poverty', 'poor'],
+    number: 845
   },
   {
     kanji: '頒',
     keyword: 'partition',
-    number: '846'
+    alternativeKeywords: [
+      'distribute',
+      'disseminate',
+      'partition',
+      'understand'
+    ],
+    number: 846
   },
   {
     kanji: '公',
     keyword: 'public',
-    number: '847'
+    alternativeKeywords: ['public', 'prince', 'official', 'governmental'],
+    number: 847
   },
   {
     kanji: '松',
     keyword: 'pine tree',
-    number: '848'
+    alternativeKeywords: ['pine tree'],
+    number: 848
   },
   {
     kanji: '翁',
     keyword: 'venerable old man',
-    number: '849'
+    alternativeKeywords: ['venerable old man'],
+    number: 849
   },
   {
     kanji: '訟',
     keyword: 'sue',
-    number: '850'
+    alternativeKeywords: ['sue', 'accuse'],
+    number: 850
   },
   {
     kanji: '谷',
     keyword: 'valley',
-    number: '851'
+    alternativeKeywords: ['valley'],
+    number: 851
   },
   {
     kanji: '浴',
     keyword: 'bathe',
-    number: '852'
+    alternativeKeywords: ['bathe', 'be favored with', 'bask in'],
+    number: 852
   },
   {
     kanji: '容',
     keyword: 'contain',
-    number: '853'
+    alternativeKeywords: ['contain', 'form', 'looks'],
+    number: 853
   },
   {
     kanji: '溶',
     keyword: 'melt',
-    number: '854'
+    alternativeKeywords: ['melt', 'dissolve', 'thaw'],
+    number: 854
   },
   {
     kanji: '欲',
     keyword: 'longing',
-    number: '855'
+    alternativeKeywords: [
+      'longing',
+      'covetousness',
+      'greed',
+      'passion',
+      'desire',
+      'craving'
+    ],
+    number: 855
   },
   {
     kanji: '裕',
     keyword: 'abundant',
-    number: '856'
+    alternativeKeywords: ['abundant', 'rich', 'fertile'],
+    number: 856
   },
   {
     kanji: '鉛',
     keyword: 'lead (metal)',
-    number: '857'
+    alternativeKeywords: ['lead'],
+    number: 857
   },
   {
     kanji: '沿',
     keyword: 'run alongside',
-    number: '858'
+    alternativeKeywords: [
+      'run alongside',
+      'follow along',
+      'run along',
+      'lie along'
+    ],
+    number: 858
   },
   {
     kanji: '賞',
     keyword: 'prize',
-    number: '859'
+    alternativeKeywords: ['prize', 'reward', 'praise'],
+    number: 859
   },
   {
     kanji: '党',
     keyword: 'party',
-    number: '860'
+    alternativeKeywords: ['party', 'faction', 'clique'],
+    number: 860
   },
   {
     kanji: '堂',
     keyword: 'hall',
-    number: '861'
+    alternativeKeywords: ['public chamber', 'hall'],
+    number: 861
   },
   {
     kanji: '常',
     keyword: 'usual',
-    number: '862'
+    alternativeKeywords: [
+      'usual',
+      'ordinary',
+      'normal',
+      'common',
+      'regular',
+      'continually',
+      'always',
+      'long-lasting'
+    ],
+    number: 862
   },
   {
     kanji: '裳',
     keyword: 'skirt',
-    number: '863'
+    alternativeKeywords: ['skirt'],
+    number: 863
   },
   {
     kanji: '掌',
     keyword: 'manipulate',
-    number: '864'
+    alternativeKeywords: [
+      'manipulate',
+      'rule',
+      'administer',
+      'conduct',
+      'palm of hand'
+    ],
+    number: 864
   },
   {
     kanji: '皮',
     keyword: 'pelt',
-    number: '865'
+    alternativeKeywords: [
+      'pelt',
+      'skin',
+      'hide',
+      'leather',
+      'skin radical (no. 107)'
+    ],
+    number: 865
   },
   {
     kanji: '波',
     keyword: 'waves',
-    number: '866'
+    alternativeKeywords: ['waves', 'billows', 'Poland'],
+    number: 866
   },
   {
     kanji: '婆',
     keyword: 'old woman',
-    number: '867'
+    alternativeKeywords: ['old woman', 'grandma', 'wet nurse'],
+    number: 867
   },
   {
     kanji: '披',
     keyword: 'expose',
-    number: '868'
+    alternativeKeywords: ['expose', 'open'],
+    number: 868
   },
   {
     kanji: '破',
     keyword: 'rend',
-    number: '869'
+    alternativeKeywords: [
+      'rend',
+      'rip',
+      'tear',
+      'break',
+      'destroy',
+      'defeat',
+      'frustrate'
+    ],
+    number: 869
   },
   {
     kanji: '被',
     keyword: 'incur',
-    number: '870'
+    alternativeKeywords: [
+      'incur',
+      'cover',
+      'veil',
+      'brood over',
+      'shelter',
+      'wear',
+      'put on',
+      'be exposed (film)',
+      'receiving'
+    ],
+    number: 870
   },
   {
     kanji: '残',
     keyword: 'remainder',
-    number: '871'
+    alternativeKeywords: ['remainder', 'leftover', 'balance'],
+    number: 871
   },
   {
     kanji: '殉',
     keyword: 'martyrdom',
-    number: '872'
+    alternativeKeywords: ['martyrdom', 'follow by resigning'],
+    number: 872
   },
   {
     kanji: '殊',
     keyword: 'particularly',
-    number: '873'
+    alternativeKeywords: ['particularly', 'especially', 'exceptionally'],
+    number: 873
   },
   {
     kanji: '殖',
     keyword: 'augment',
-    number: '874'
+    alternativeKeywords: ['augment', 'increase', 'multiply', 'raise'],
+    number: 874
   },
   {
     kanji: '列',
     keyword: 'file',
-    number: '875'
+    alternativeKeywords: ['file', 'row', 'rank', 'tier', 'column'],
+    number: 875
   },
   {
     kanji: '裂',
     keyword: 'split',
-    number: '876'
+    alternativeKeywords: ['split', 'rend', 'tear'],
+    number: 876
   },
   {
     kanji: '烈',
     keyword: 'ardent',
-    number: '877'
+    alternativeKeywords: [
+      'ardent',
+      'violent',
+      'vehement',
+      'furious',
+      'severe',
+      'extreme'
+    ],
+    number: 877
   },
   {
     kanji: '死',
     keyword: 'death',
-    number: '878'
+    alternativeKeywords: ['death', 'die'],
+    number: 878
   },
   {
     kanji: '葬',
     keyword: 'interment',
-    number: '879'
+    alternativeKeywords: ['interment', 'bury', 'shelve'],
+    number: 879
   },
   {
     kanji: '瞬',
     keyword: 'wink',
-    number: '880'
+    alternativeKeywords: ['wink', 'blink', 'twinkle'],
+    number: 880
   },
-  {
-    kanji: '耳',
-    keyword: 'ear',
-    number: '881'
-  },
+  { kanji: '耳', keyword: 'ear', alternativeKeywords: ['ear'], number: 881 },
   {
     kanji: '取',
     keyword: 'take',
-    number: '882'
+    alternativeKeywords: ['take', 'fetch', 'take up'],
+    number: 882
   },
   {
     kanji: '趣',
     keyword: 'gist',
-    number: '883'
+    alternativeKeywords: [
+      'purport',
+      'gist',
+      'elegance',
+      'interest',
+      'proceed to',
+      'tend',
+      'become'
+    ],
+    number: 883
   },
   {
     kanji: '最',
     keyword: 'utmost',
-    number: '884'
+    alternativeKeywords: ['utmost', 'most', 'extreme'],
+    number: 884
   },
   {
     kanji: '撮',
     keyword: 'snapshot',
-    number: '885'
+    alternativeKeywords: ['snapshot', 'take pictures'],
+    number: 885
   },
   {
     kanji: '恥',
     keyword: 'shame',
-    number: '886'
+    alternativeKeywords: ['shame', 'dishonor'],
+    number: 886
   },
   {
     kanji: '職',
     keyword: 'post',
-    number: '887'
+    alternativeKeywords: ['post', 'employment', 'work'],
+    number: 887
   },
   {
     kanji: '聖',
     keyword: 'holy',
-    number: '888'
+    alternativeKeywords: ['holy', 'saint', 'sage', 'master', 'priest'],
+    number: 888
   },
   {
     kanji: '敢',
     keyword: 'daring',
-    number: '889'
+    alternativeKeywords: [
+      'daring',
+      'brave',
+      'bold',
+      'sad',
+      'tragic',
+      'pitiful'
+    ],
+    number: 889
   },
   {
     kanji: '聴',
     keyword: 'listen',
-    number: '890'
+    alternativeKeywords: ['listen', 'headstrong', 'naughty', 'careful inquiry'],
+    number: 890
   },
   {
     kanji: '懐',
     keyword: 'pocket',
-    number: '891'
+    alternativeKeywords: [
+      'pocket',
+      'feelings',
+      'heart',
+      'yearn',
+      'miss someone',
+      'become attached to',
+      'bosom',
+      'breast'
+    ],
+    number: 891
   },
   {
     kanji: '慢',
     keyword: 'ridicule',
-    number: '892'
+    alternativeKeywords: ['ridicule', 'laziness'],
+    number: 892
   },
   {
     kanji: '漫',
     keyword: 'loose',
-    number: '893'
+    alternativeKeywords: [
+      'cartoon',
+      'involuntarily',
+      'unrestrained',
+      'in spite of oneself',
+      'corrupt'
+    ],
+    number: 893
   },
-  {
-    kanji: '買',
-    keyword: 'buy',
-    number: '894'
-  },
+  { kanji: '買', keyword: 'buy', alternativeKeywords: ['buy'], number: 894 },
   {
     kanji: '置',
     keyword: 'placement',
-    number: '895'
+    alternativeKeywords: [
+      'placement',
+      'put',
+      'set',
+      'deposit',
+      'leave behind',
+      'keep',
+      'employ',
+      'pawn'
+    ],
+    number: 895
   },
   {
     kanji: '罰',
     keyword: 'penalty',
-    number: '896'
+    alternativeKeywords: ['penalty', 'punishment'],
+    number: 896
   },
   {
     kanji: '寧',
     keyword: 'rather',
-    number: '897'
+    alternativeKeywords: [
+      'rather',
+      'preferably',
+      'peaceful',
+      'quiet',
+      'tranquility'
+    ],
+    number: 897
   },
   {
     kanji: '濁',
     keyword: 'voiced',
-    number: '898'
+    alternativeKeywords: [
+      'voiced',
+      'uncleanness',
+      'wrong',
+      'nigori',
+      'impurity'
+    ],
+    number: 898
   },
   {
     kanji: '環',
     keyword: 'ring',
-    number: '899'
+    alternativeKeywords: ['ring', 'circle', 'link', 'wheel'],
+    number: 899
   },
   {
     kanji: '還',
     keyword: 'send back',
-    number: '900'
+    alternativeKeywords: ['send back', 'return'],
+    number: 900
   },
   {
     kanji: '夫',
     keyword: 'husband',
-    number: '901'
+    alternativeKeywords: ['husband', 'man'],
+    number: 901
   },
   {
     kanji: '扶',
     keyword: 'aid',
-    number: '902'
+    alternativeKeywords: ['aid', 'help', 'assist'],
+    number: 902
   },
   {
     kanji: '渓',
     keyword: 'mountain stream',
-    number: '903'
+    alternativeKeywords: ['mountain stream', 'valley'],
+    number: 903
   },
   {
     kanji: '規',
     keyword: 'standard',
-    number: '904'
+    alternativeKeywords: ['standard', 'measure'],
+    number: 904
   },
   {
     kanji: '替',
     keyword: 'exchange',
-    number: '905'
+    alternativeKeywords: ['exchange', 'spare', 'substitute', 'per-'],
+    number: 905
   },
   {
     kanji: '賛',
     keyword: 'approve',
-    number: '906'
+    alternativeKeywords: [
+      'approve',
+      'praise',
+      'title or inscription on picture',
+      'assist',
+      'agree with'
+    ],
+    number: 906
   },
   {
     kanji: '潜',
     keyword: 'submerge',
-    number: '907'
+    alternativeKeywords: [
+      'submerge',
+      'conceal',
+      'hide',
+      'lower (voice)',
+      'hush'
+    ],
+    number: 907
   },
   {
     kanji: '失',
     keyword: 'lose',
-    number: '908'
+    alternativeKeywords: ['lose', 'error', 'fault', 'disadvantage', 'loss'],
+    number: 908
   },
-  {
-    kanji: '鉄',
-    keyword: 'iron',
-    number: '909'
-  },
+  { kanji: '鉄', keyword: 'iron', alternativeKeywords: ['iron'], number: 909 },
   {
     kanji: '迭',
     keyword: 'alternate',
-    number: '910'
+    alternativeKeywords: ['transfer', 'alternation'],
+    number: 910
   },
   {
     kanji: '臣',
     keyword: 'retainer',
-    number: '911'
+    alternativeKeywords: ['retainer', 'subject'],
+    number: 911
   },
   {
     kanji: '姫',
     keyword: 'princess',
-    number: '912'
+    alternativeKeywords: ['princess'],
+    number: 912
   },
   {
     kanji: '蔵',
     keyword: 'storehouse',
-    number: '913'
+    alternativeKeywords: ['storehouse', 'hide', 'own', 'have', 'possess'],
+    number: 913
   },
   {
     kanji: '臓',
     keyword: 'entrails',
-    number: '914'
+    alternativeKeywords: ['entrails', 'viscera', 'bowels'],
+    number: 914
   },
   {
     kanji: '賢',
     keyword: 'intelligent',
-    number: '915'
+    alternativeKeywords: ['intelligent', 'wise', 'wisdom', 'cleverness'],
+    number: 915
   },
   {
     kanji: '腎',
     keyword: 'kidney',
-    number: '916'
+    alternativeKeywords: ['kidney'],
+    number: 916
   },
   {
     kanji: '堅',
     keyword: 'strict',
-    number: '917'
+    alternativeKeywords: [
+      'strict',
+      'hard',
+      'solid',
+      'tough',
+      'tight',
+      'reliable'
+    ],
+    number: 917
   },
   {
     kanji: '臨',
     keyword: 'look to',
-    number: '918'
+    alternativeKeywords: [
+      'look to',
+      'face',
+      'meet',
+      'confront',
+      'attend',
+      'call on'
+    ],
+    number: 918
   },
   {
     kanji: '覧',
     keyword: 'perusal',
-    number: '919'
+    alternativeKeywords: ['perusal', 'see'],
+    number: 919
   },
   {
     kanji: '巨',
     keyword: 'gigantic',
-    number: '920'
+    alternativeKeywords: ['gigantic', 'big', 'large', 'great'],
+    number: 920
   },
   {
     kanji: '拒',
     keyword: 'repel',
-    number: '921'
+    alternativeKeywords: ['repel', 'refuse', 'reject', 'decline'],
+    number: 921
   },
   {
     kanji: '力',
     keyword: 'power',
-    number: '922'
+    alternativeKeywords: [
+      'power',
+      'strength',
+      'strong',
+      'strain',
+      'bear up',
+      'exert'
+    ],
+    number: 922
   },
-  {
-    kanji: '男',
-    keyword: 'man',
-    number: '923'
-  },
+  { kanji: '男', keyword: 'man', alternativeKeywords: ['male'], number: 923 },
   {
     kanji: '労',
     keyword: 'labor',
-    number: '924'
+    alternativeKeywords: [
+      'labor',
+      'thank for',
+      'reward for',
+      'toil',
+      'trouble'
+    ],
+    number: 924
   },
   {
     kanji: '募',
     keyword: 'recruit',
-    number: '925'
+    alternativeKeywords: [
+      'recruit',
+      'campaign',
+      'gather (contributions)',
+      'enlist',
+      'grow violent'
+    ],
+    number: 925
   },
   {
     kanji: '劣',
     keyword: 'inferiority',
-    number: '926'
+    alternativeKeywords: ['inferiority', 'be inferior to', 'be worse'],
+    number: 926
   },
   {
     kanji: '功',
     keyword: 'achievement',
-    number: '927'
+    alternativeKeywords: [
+      'achievement',
+      'merits',
+      'success',
+      'honor',
+      'credit'
+    ],
+    number: 927
   },
   {
     kanji: '勧',
     keyword: 'persuade',
-    number: '928'
+    alternativeKeywords: [
+      'persuade',
+      'recommend',
+      'advise',
+      'encourage',
+      'offer'
+    ],
+    number: 928
   },
   {
     kanji: '努',
     keyword: 'toil',
-    number: '929'
+    alternativeKeywords: ['toil', 'diligent', 'as much as possible'],
+    number: 929
   },
   {
     kanji: '勃',
     keyword: 'uprising',
-    number: '930'
+    alternativeKeywords: ['suddenness', 'rise'],
+    number: 930
   },
   {
     kanji: '励',
     keyword: 'encourage',
-    number: '931'
+    alternativeKeywords: ['encourage', 'be diligent', 'inspire'],
+    number: 931
   },
   {
     kanji: '加',
     keyword: 'add',
-    number: '932'
+    alternativeKeywords: [
+      'add',
+      'addition',
+      'increase',
+      'join',
+      'include',
+      'Canada'
+    ],
+    number: 932
   },
   {
     kanji: '賀',
     keyword: 'congratulations',
-    number: '933'
+    alternativeKeywords: ['congratulations', 'joy'],
+    number: 933
   },
   {
     kanji: '架',
     keyword: 'erect',
-    number: '934'
+    alternativeKeywords: [
+      'erect',
+      'frame',
+      'mount',
+      'support',
+      'shelf',
+      'construct'
+    ],
+    number: 934
   },
   {
     kanji: '脇',
     keyword: 'armpit',
-    number: '935'
+    alternativeKeywords: [
+      'armpit',
+      'the other way',
+      'another place',
+      'flank',
+      'supporting role'
+    ],
+    number: 935
   },
   {
     kanji: '脅',
     keyword: 'threaten',
-    number: '936'
+    alternativeKeywords: ['threaten', 'coerce'],
+    number: 936
   },
   {
     kanji: '協',
     keyword: 'co-',
-    number: '937'
+    alternativeKeywords: ['co-', 'cooperation'],
+    number: 937
   },
   {
     kanji: '行',
     keyword: 'going',
-    number: '938'
+    alternativeKeywords: [
+      'going',
+      'journey',
+      'carry out',
+      'conduct',
+      'act',
+      'line',
+      'row',
+      'bank'
+    ],
+    number: 938
   },
   {
     kanji: '律',
     keyword: 'rhythm',
-    number: '939'
+    alternativeKeywords: ['rhythm', 'law', 'regulation', 'gauge', 'control'],
+    number: 939
   },
   {
     kanji: '復',
     keyword: 'restore',
-    number: '940'
+    alternativeKeywords: ['restore', 'return to', 'revert', 'resume'],
+    number: 940
   },
   {
     kanji: '得',
     keyword: 'gain',
-    number: '941'
+    alternativeKeywords: [
+      'gain',
+      'get',
+      'find',
+      'earn',
+      'acquire',
+      'can',
+      'may',
+      'able to',
+      'profit',
+      'advantage',
+      'benefit'
+    ],
+    number: 941
   },
   {
     kanji: '従',
     keyword: 'accompany',
-    number: '942'
+    alternativeKeywords: [
+      'accompany',
+      'obey',
+      'submit to',
+      'comply',
+      'follow',
+      'secondary',
+      'incidental',
+      'subordinate'
+    ],
+    number: 942
   },
   {
     kanji: '徒',
     keyword: 'junior',
-    number: '943'
+    alternativeKeywords: [
+      'on foot',
+      'junior',
+      'emptiness',
+      'vanity',
+      'futility',
+      'uselessness',
+      'ephemeral thing',
+      'gang',
+      'set',
+      'party',
+      'people'
+    ],
+    number: 943
   },
   {
     kanji: '待',
     keyword: 'wait',
-    number: '944'
+    alternativeKeywords: ['wait', 'depend on'],
+    number: 944
   },
   {
     kanji: '往',
     keyword: 'journey',
-    number: '945'
+    alternativeKeywords: [
+      'journey',
+      'travel',
+      'chase away',
+      'let go',
+      'going',
+      'before',
+      'formerly'
+    ],
+    number: 945
   },
   {
     kanji: '征',
     keyword: 'subjugate',
-    number: '946'
+    alternativeKeywords: [
+      'subjugate',
+      'attack the rebellious',
+      'collect taxes'
+    ],
+    number: 946
   },
   {
     kanji: '径',
     keyword: 'diameter',
-    number: '947'
+    alternativeKeywords: ['diameter', 'path', 'method'],
+    number: 947
   },
   {
     kanji: '彼',
     keyword: 'he',
-    number: '948'
+    alternativeKeywords: ['he', 'that', 'the'],
+    number: 948
   },
   {
     kanji: '役',
     keyword: 'duty',
-    number: '949'
+    alternativeKeywords: [
+      'duty',
+      'war',
+      'campaign',
+      'drafted labor',
+      'office',
+      'service',
+      'role'
+    ],
+    number: 949
   },
   {
     kanji: '徳',
     keyword: 'benevolence',
-    number: '950'
+    alternativeKeywords: [
+      'benevolence',
+      'virtue',
+      'goodness',
+      'commanding respect'
+    ],
+    number: 950
   },
   {
     kanji: '徹',
     keyword: 'penetrate',
-    number: '951'
+    alternativeKeywords: [
+      'penetrate',
+      'clear',
+      'pierce',
+      'strike home',
+      'sit up (all night)'
+    ],
+    number: 951
   },
   {
     kanji: '徴',
     keyword: 'indications',
-    number: '952'
+    alternativeKeywords: [
+      'indications',
+      'sign',
+      'omen',
+      'symptom',
+      'collect',
+      'seek',
+      'refer to',
+      'question'
+    ],
+    number: 952
   },
   {
     kanji: '懲',
     keyword: 'penal',
-    number: '953'
+    alternativeKeywords: ['penal', 'chastise', 'punish', 'discipline'],
+    number: 953
   },
   {
     kanji: '微',
     keyword: 'delicate',
-    number: '954'
+    alternativeKeywords: ['delicate', 'minuteness', 'insignificance'],
+    number: 954
   },
   {
     kanji: '街',
     keyword: 'boulevard',
-    number: '955'
+    alternativeKeywords: ['boulevard', 'street', 'town'],
+    number: 955
   },
   {
     kanji: '桁',
     keyword: 'girder',
-    number: '956'
+    alternativeKeywords: [
+      'beam',
+      'girder',
+      'spar',
+      'unit or column (accounting)'
+    ],
+    number: 956
   },
   {
     kanji: '衡',
     keyword: 'equilibrium',
-    number: '957'
+    alternativeKeywords: ['equilibrium', 'measuring rod', 'scale'],
+    number: 957
   },
   {
     kanji: '稿',
     keyword: 'draft',
-    number: '958'
+    alternativeKeywords: ['draft', 'copy', 'manuscript', 'straw'],
+    number: 958
   },
   {
     kanji: '稼',
     keyword: 'earnings',
-    number: '959'
+    alternativeKeywords: ['earnings', 'work', 'earn money'],
+    number: 959
   },
   {
     kanji: '程',
     keyword: 'extent',
-    number: '960'
+    alternativeKeywords: [
+      'extent',
+      'degree',
+      'law',
+      'formula',
+      'distance',
+      'limits',
+      'amount'
+    ],
+    number: 960
   },
   {
     kanji: '税',
     keyword: 'tax',
-    number: '961'
+    alternativeKeywords: ['tax', 'duty'],
+    number: 961
   },
   {
     kanji: '稚',
     keyword: 'immature',
-    number: '962'
+    alternativeKeywords: ['immature', 'young'],
+    number: 962
   },
   {
     kanji: '和',
     keyword: 'harmony',
-    number: '963'
+    alternativeKeywords: [
+      'harmony',
+      'Japanese style',
+      'peace',
+      'soften',
+      'Japan'
+    ],
+    number: 963
   },
   {
     kanji: '移',
     keyword: 'shift',
-    number: '964'
+    alternativeKeywords: [
+      'shift',
+      'move',
+      'change',
+      'drift',
+      'catch (cold',
+      'fire)',
+      'pass into'
+    ],
+    number: 964
   },
   {
     kanji: '秒',
     keyword: 'second',
-    number: '965'
+    alternativeKeywords: ['second (1/60 minute)'],
+    number: 965
   },
   {
     kanji: '秋',
     keyword: 'autumn',
-    number: '966'
+    alternativeKeywords: ['autumn'],
+    number: 966
   },
   {
     kanji: '愁',
     keyword: 'distress',
-    number: '967'
+    alternativeKeywords: ['distress', 'grieve', 'lament', 'be anxious'],
+    number: 967
   },
   {
     kanji: '私',
     keyword: 'private',
-    number: '968'
+    alternativeKeywords: ['private', 'I', 'me'],
+    number: 968
   },
   {
     kanji: '秩',
     keyword: 'regularity',
-    number: '969'
+    alternativeKeywords: ['regularity', 'salary', 'order'],
+    number: 969
   },
   {
     kanji: '秘',
     keyword: 'secret',
-    number: '970'
+    alternativeKeywords: ['secret', 'conceal'],
+    number: 970
   },
   {
     kanji: '称',
     keyword: 'appellation',
-    number: '971'
+    alternativeKeywords: [
+      'appellation',
+      'praise',
+      'admire',
+      'name',
+      'title',
+      'fame'
+    ],
+    number: 971
   },
   {
     kanji: '利',
     keyword: 'profit',
-    number: '972'
+    alternativeKeywords: ['profit', 'advantage', 'benefit'],
+    number: 972
   },
   {
     kanji: '梨',
     keyword: 'pear tree',
-    number: '973'
+    alternativeKeywords: ['pear tree'],
+    number: 973
   },
   {
     kanji: '穫',
     keyword: 'harvest',
-    number: '974'
+    alternativeKeywords: ['harvest', 'reap'],
+    number: 974
   },
   {
     kanji: '穂',
     keyword: 'ear of a plant',
-    number: '975'
+    alternativeKeywords: ['ear', 'ear (grain)', 'head', 'crest (wave)'],
+    number: 975
   },
   {
     kanji: '稲',
     keyword: 'rice plant',
-    number: '976'
+    alternativeKeywords: ['rice plant'],
+    number: 976
   },
   {
     kanji: '香',
     keyword: 'incense',
-    number: '977'
+    alternativeKeywords: ['incense', 'smell', 'perfume'],
+    number: 977
   },
   {
     kanji: '季',
     keyword: 'seasons',
-    number: '978'
+    alternativeKeywords: ['seasons'],
+    number: 978
   },
   {
     kanji: '委',
     keyword: 'committee',
-    number: '979'
+    alternativeKeywords: [
+      'committee',
+      'entrust to',
+      'leave to',
+      'devote',
+      'discard'
+    ],
+    number: 979
   },
   {
     kanji: '秀',
     keyword: 'excel',
-    number: '980'
+    alternativeKeywords: ['excel', 'excellence', 'beauty', 'surpass'],
+    number: 980
   },
   {
     kanji: '透',
     keyword: 'transparent',
-    number: '981'
+    alternativeKeywords: ['transparent', 'permeate', 'filter', 'penetrate'],
+    number: 981
   },
   {
     kanji: '誘',
     keyword: 'entice',
-    number: '982'
+    alternativeKeywords: [
+      'entice',
+      'lead',
+      'tempt',
+      'invite',
+      'ask',
+      'call for',
+      'seduce',
+      'allure'
+    ],
+    number: 982
   },
   {
     kanji: '稽',
     keyword: 'training',
-    number: '983'
+    alternativeKeywords: ['think', 'consider'],
+    number: 983
   },
   {
     kanji: '穀',
     keyword: 'cereals',
-    number: '984'
+    alternativeKeywords: ['cereals', 'grain'],
+    number: 984
   },
   {
     kanji: '菌',
     keyword: 'germ',
-    number: '985'
+    alternativeKeywords: ['germ', 'fungus', 'bacteria'],
+    number: 985
   },
   {
     kanji: '萎',
     keyword: 'numb',
-    number: '986'
+    alternativeKeywords: ['wither', 'droop', 'lame'],
+    number: 986
   },
   {
     kanji: '米',
     keyword: 'rice',
-    number: '987'
+    alternativeKeywords: ['rice', 'USA', 'metre'],
+    number: 987
   },
   {
     kanji: '粉',
     keyword: 'flour',
-    number: '988'
+    alternativeKeywords: ['flour', 'powder', 'dust'],
+    number: 988
   },
   {
     kanji: '粘',
     keyword: 'sticky',
-    number: '989'
+    alternativeKeywords: ['sticky', 'glutinous', 'greasy', 'persevere'],
+    number: 989
   },
   {
     kanji: '粒',
     keyword: 'grains',
-    number: '990'
+    alternativeKeywords: ['grains', 'drop', 'counter for tiny particles'],
+    number: 990
   },
   {
     kanji: '粧',
     keyword: 'cosmetics',
-    number: '991'
+    alternativeKeywords: ['cosmetics', "adorn (one's person)"],
+    number: 991
   },
   {
     kanji: '迷',
     keyword: 'astray',
-    number: '992'
+    alternativeKeywords: [
+      'astray',
+      'be perplexed',
+      'in doubt',
+      'lost',
+      'err',
+      'illusion'
+    ],
+    number: 992
   },
   {
     kanji: '粋',
     keyword: 'chic',
-    number: '993'
+    alternativeKeywords: [
+      'chic',
+      'style',
+      'purity',
+      'essence',
+      'pith',
+      'cream',
+      'elite',
+      'choice'
+    ],
+    number: 993
   },
   {
     kanji: '謎',
     keyword: 'riddle',
-    number: '994'
+    alternativeKeywords: ['riddle', 'puzzle', 'enigma', 'hint', 'tip'],
+    number: 994
   },
   {
     kanji: '糧',
     keyword: 'provisions',
-    number: '995'
+    alternativeKeywords: ['provisions', 'food', 'bread'],
+    number: 995
   },
   {
     kanji: '菊',
     keyword: 'chrysanthemum',
-    number: '996'
+    alternativeKeywords: ['chrysanthemum'],
+    number: 996
   },
   {
     kanji: '奥',
     keyword: 'core',
-    number: '997'
+    alternativeKeywords: ['heart', 'interior'],
+    number: 997
   },
   {
     kanji: '数',
     keyword: 'number',
-    number: '998'
+    alternativeKeywords: ['number', 'strength', 'fate', 'law', 'figures'],
+    number: 998
   },
   {
     kanji: '楼',
     keyword: 'watchtower',
-    number: '999'
+    alternativeKeywords: ['watchtower', 'lookout', 'high building'],
+    number: 999
   },
   {
     kanji: '類',
     keyword: 'sort',
-    number: '1000'
+    alternativeKeywords: ['sort', 'kind', 'variety', 'class', 'genus'],
+    number: 1000
   },
   {
     kanji: '漆',
     keyword: 'lacquer',
-    number: '1001'
+    alternativeKeywords: ['lacquer', 'varnish', 'seven'],
+    number: 1001
   },
   {
     kanji: '膝',
     keyword: 'knee',
-    number: '1002'
+    alternativeKeywords: ['knee', 'lap'],
+    number: 1002
   },
   {
     kanji: '様',
     keyword: 'Esq.',
-    number: '1003'
+    alternativeKeywords: [
+      'Esq.',
+      'way',
+      'manner',
+      'situation',
+      'polite suffix'
+    ],
+    number: 1003
   },
   {
     kanji: '求',
     keyword: 'request',
-    number: '1004'
+    alternativeKeywords: ['request', 'want', 'wish for', 'require', 'demand'],
+    number: 1004
   },
   {
     kanji: '球',
     keyword: 'ball',
-    number: '1005'
+    alternativeKeywords: ['ball', 'sphere'],
+    number: 1005
   },
   {
     kanji: '救',
     keyword: 'salvation',
-    number: '1006'
+    alternativeKeywords: ['salvation', 'save', 'help', 'rescue', 'reclaim'],
+    number: 1006
   },
   {
     kanji: '竹',
     keyword: 'bamboo',
-    number: '1007'
+    alternativeKeywords: ['bamboo'],
+    number: 1007
   },
   {
     kanji: '笑',
     keyword: 'laugh',
-    number: '1008'
+    alternativeKeywords: ['laugh'],
+    number: 1008
   },
   {
     kanji: '笠',
     keyword: 'bamboo hat',
-    number: '1009'
+    alternativeKeywords: ['bamboo hat', "one's influence"],
+    number: 1009
   },
   {
     kanji: '笹',
     keyword: 'bamboo grass',
-    number: '1010'
+    alternativeKeywords: ['bamboo grass', '(kokuji)'],
+    number: 1010
   },
   {
     kanji: '箋',
     keyword: 'stationery',
-    number: '1011'
+    alternativeKeywords: ['paper', 'label', 'letter', 'composition'],
+    number: 1011
   },
   {
     kanji: '筋',
     keyword: 'muscle',
-    number: '1012'
+    alternativeKeywords: [
+      'muscle',
+      'sinew',
+      'tendon',
+      'fiber',
+      'plot',
+      'plan',
+      'descent'
+    ],
+    number: 1012
   },
   {
     kanji: '箱',
     keyword: 'box',
-    number: '1013'
+    alternativeKeywords: ['box', 'chest', 'case', 'bin', 'railway car'],
+    number: 1013
   },
   {
     kanji: '筆',
     keyword: 'writing brush',
-    number: '1014'
+    alternativeKeywords: [
+      'writing brush',
+      'writing',
+      'painting brush',
+      'handwriting'
+    ],
+    number: 1014
   },
   {
     kanji: '筒',
     keyword: 'cylinder',
-    number: '1015'
+    alternativeKeywords: ['cylinder', 'pipe', 'tube', 'gun barrel', 'sleeve'],
+    number: 1015
   },
   {
     kanji: '等',
     keyword: 'etc.',
-    number: '1016'
+    alternativeKeywords: [
+      'etc.',
+      'and so forth',
+      'class (first)',
+      'quality',
+      'equal',
+      'similar'
+    ],
+    number: 1016
   },
   {
     kanji: '算',
     keyword: 'calculate',
-    number: '1017'
+    alternativeKeywords: [
+      'calculate',
+      'divining',
+      'number',
+      'abacus',
+      'probability'
+    ],
+    number: 1017
   },
   {
     kanji: '答',
     keyword: 'solution',
-    number: '1018'
+    alternativeKeywords: ['solution', 'answer'],
+    number: 1018
   },
   {
     kanji: '策',
     keyword: 'scheme',
-    number: '1019'
+    alternativeKeywords: ['scheme', 'plan', 'policy', 'step', 'means'],
+    number: 1019
   },
   {
     kanji: '簿',
     keyword: 'register',
-    number: '1020'
+    alternativeKeywords: ['register', 'record book'],
+    number: 1020
   },
   {
     kanji: '築',
     keyword: 'fabricate',
-    number: '1021'
+    alternativeKeywords: ['fabricate', 'build', 'construct'],
+    number: 1021
   },
   {
     kanji: '籠',
     keyword: 'basket',
-    number: '1022'
+    alternativeKeywords: [
+      'basket',
+      'devote oneself',
+      'seclude oneself',
+      'cage',
+      'coop',
+      'implied'
+    ],
+    number: 1022
   },
   {
     kanji: '人',
     keyword: 'person',
-    number: '1023'
+    alternativeKeywords: ['person'],
+    number: 1023
   },
   {
     kanji: '佐',
     keyword: 'assistant',
-    number: '1024'
+    alternativeKeywords: ['assistant', 'help'],
+    number: 1024
   },
   {
     kanji: '侶',
     keyword: 'partner',
-    number: '1025'
+    alternativeKeywords: ['companion', 'follower'],
+    number: 1025
   },
   {
     kanji: '但',
     keyword: 'however',
-    number: '1026'
+    alternativeKeywords: ['however', 'but'],
+    number: 1026
   },
   {
     kanji: '住',
     keyword: 'dwell',
-    number: '1027'
+    alternativeKeywords: ['dwell', 'reside', 'live', 'inhabit'],
+    number: 1027
   },
   {
     kanji: '位',
     keyword: 'rank',
-    number: '1028'
+    alternativeKeywords: ['rank', 'grade', 'throne', 'crown', 'about', 'some'],
+    number: 1028
   },
   {
     kanji: '仲',
     keyword: 'go-between',
-    number: '1029'
+    alternativeKeywords: ['go-between', 'relationship'],
+    number: 1029
   },
   {
     kanji: '体',
     keyword: 'body',
-    number: '1030'
+    alternativeKeywords: [
+      'body',
+      'substance',
+      'object',
+      'reality',
+      'counter for images'
+    ],
+    number: 1030
   },
   {
     kanji: '悠',
     keyword: 'remote',
-    number: '1031'
+    alternativeKeywords: ['permanence', 'distant', 'long time', 'leisure'],
+    number: 1031
   },
   {
     kanji: '件',
     keyword: 'affair',
-    number: '1032'
+    alternativeKeywords: ['affair', 'case', 'matter', 'item'],
+    number: 1032
   },
   {
     kanji: '仕',
     keyword: 'attend',
-    number: '1033'
+    alternativeKeywords: ['attend', 'doing', 'official', 'serve'],
+    number: 1033
   },
   {
     kanji: '他',
     keyword: 'other',
-    number: '1034'
+    alternativeKeywords: ['other', 'another', 'the others'],
+    number: 1034
   },
   {
     kanji: '伏',
     keyword: 'prostrated',
-    number: '1035'
+    alternativeKeywords: [
+      'prostrated',
+      'bend down',
+      'bow',
+      'cover',
+      'lay (pipes)'
+    ],
+    number: 1035
   },
   {
     kanji: '伝',
     keyword: 'transmit',
-    number: '1036'
+    alternativeKeywords: [
+      'transmit',
+      'go along',
+      'walk along',
+      'follow',
+      'report',
+      'communicate',
+      'legend',
+      'tradition'
+    ],
+    number: 1036
   },
   {
     kanji: '仏',
     keyword: 'Buddha',
-    number: '1037'
+    alternativeKeywords: ['Buddha', 'the dead', 'France'],
+    number: 1037
   },
   {
     kanji: '休',
     keyword: 'rest',
-    number: '1038'
+    alternativeKeywords: ['rest', 'day off', 'retire', 'sleep'],
+    number: 1038
   },
   {
     kanji: '仮',
     keyword: 'provisional',
-    number: '1039'
+    alternativeKeywords: [
+      'sham',
+      'temporary',
+      'interim',
+      'assumed (name)',
+      'informal'
+    ],
+    number: 1039
   },
   {
     kanji: '伎',
     keyword: 'performing artist',
-    number: '1040'
+    alternativeKeywords: ['deed', 'skill'],
+    number: 1040
   },
   {
     kanji: '伯',
     keyword: 'chief',
-    number: '1041'
+    alternativeKeywords: ['chief', 'count', 'earl', 'uncle', 'Brazil'],
+    number: 1041
   },
   {
     kanji: '俗',
     keyword: 'vulgar',
-    number: '1042'
+    alternativeKeywords: [
+      'vulgar',
+      'customs',
+      'manners',
+      'worldliness',
+      'mundane things'
+    ],
+    number: 1042
   },
   {
     kanji: '信',
     keyword: 'faith',
-    number: '1043'
+    alternativeKeywords: ['faith', 'truth', 'fidelity', 'trust'],
+    number: 1043
   },
   {
     kanji: '佳',
     keyword: 'excellent',
-    number: '1044'
+    alternativeKeywords: [
+      'excellent',
+      'beautiful',
+      'good',
+      'pleasing',
+      'skilled'
+    ],
+    number: 1044
   },
   {
     kanji: '依',
     keyword: 'reliant',
-    number: '1045'
+    alternativeKeywords: [
+      'reliant',
+      'depend on',
+      'consequently',
+      'therefore',
+      'due to'
+    ],
+    number: 1045
   },
   {
     kanji: '例',
     keyword: 'example',
-    number: '1046'
+    alternativeKeywords: ['example', 'custom', 'usage', 'precedent'],
+    number: 1046
   },
   {
     kanji: '個',
     keyword: 'individual',
-    number: '1047'
+    alternativeKeywords: ['individual', 'counter for articles'],
+    number: 1047
   },
   {
     kanji: '健',
     keyword: 'healthy',
-    number: '1048'
+    alternativeKeywords: ['healthy', 'health', 'strength', 'persistence'],
+    number: 1048
   },
   {
     kanji: '側',
     keyword: 'side',
-    number: '1049'
+    alternativeKeywords: ['side', 'lean', 'oppose', 'regret'],
+    number: 1049
   },
   {
     kanji: '侍',
     keyword: 'waiter',
-    number: '1050'
+    alternativeKeywords: ['waiter', 'samurai', 'wait upon', 'serve'],
+    number: 1050
   },
   {
     kanji: '停',
     keyword: 'halt',
-    number: '1051'
+    alternativeKeywords: ['halt', 'stopping'],
+    number: 1051
   },
   {
     kanji: '値',
     keyword: 'price',
-    number: '1052'
+    alternativeKeywords: ['price', 'cost', 'value'],
+    number: 1052
   },
   {
     kanji: '倣',
     keyword: 'emulate',
-    number: '1053'
+    alternativeKeywords: ['emulate', 'imitate'],
+    number: 1053
   },
   {
     kanji: '傲',
     keyword: 'arrogance',
-    number: '1054'
+    alternativeKeywords: ['be proud'],
+    number: 1054
   },
   {
     kanji: '倒',
     keyword: 'overthrow',
-    number: '1055'
+    alternativeKeywords: [
+      'overthrow',
+      'fall',
+      'collapse',
+      'drop',
+      'break down'
+    ],
+    number: 1055
   },
-  {
-    kanji: '偵',
-    keyword: 'spy',
-    number: '1056'
-  },
+  { kanji: '偵', keyword: 'spy', alternativeKeywords: ['spy'], number: 1056 },
   {
     kanji: '僧',
     keyword: 'Buddhist priest',
-    number: '1057'
+    alternativeKeywords: ['Buddhist priest', 'monk'],
+    number: 1057
   },
   {
     kanji: '億',
     keyword: 'hundred million',
-    number: '1058'
+    alternativeKeywords: ['hundred million', '10**8'],
+    number: 1058
   },
   {
     kanji: '儀',
     keyword: 'ceremony',
-    number: '1059'
+    alternativeKeywords: ['ceremony', 'rule', 'affair', 'case', 'a matter'],
+    number: 1059
   },
   {
     kanji: '償',
     keyword: 'reparation',
-    number: '1060'
+    alternativeKeywords: ['reparation', 'make up for', 'recompense', 'redeem'],
+    number: 1060
   },
   {
     kanji: '仙',
     keyword: 'hermit',
-    number: '1061'
+    alternativeKeywords: ['hermit', 'wizard', 'cent'],
+    number: 1061
   },
   {
     kanji: '催',
     keyword: 'sponsor',
-    number: '1062'
+    alternativeKeywords: ['sponsor', 'hold (a meeting)', 'give (a dinner)'],
+    number: 1062
   },
   {
     kanji: '仁',
     keyword: 'humanity',
-    number: '1063'
+    alternativeKeywords: [
+      'humanity',
+      'virtue',
+      'benevolence',
+      'charity',
+      'man',
+      'kernel'
+    ],
+    number: 1063
   },
   {
     kanji: '侮',
     keyword: 'scorn',
-    number: '1064'
+    alternativeKeywords: ['scorn', 'despise', 'make light of', 'contempt'],
+    number: 1064
   },
   {
     kanji: '使',
     keyword: 'use',
-    number: '1065'
+    alternativeKeywords: [
+      'use',
+      'send on a mission',
+      'order',
+      'messenger',
+      'envoy',
+      'ambassador',
+      'cause'
+    ],
+    number: 1065
   },
   {
     kanji: '便',
     keyword: 'convenience',
-    number: '1066'
+    alternativeKeywords: [
+      'convenience',
+      'facility',
+      'excrement',
+      'feces',
+      'letter',
+      'chance'
+    ],
+    number: 1066
   },
   {
     kanji: '倍',
     keyword: 'double',
-    number: '1067'
+    alternativeKeywords: ['double', 'twice', 'times', 'fold'],
+    number: 1067
   },
   {
     kanji: '優',
     keyword: 'tenderness',
-    number: '1068'
+    alternativeKeywords: [
+      'tenderness',
+      'excel',
+      'surpass',
+      'actor',
+      'superiority',
+      'gentleness'
+    ],
+    number: 1068
   },
   {
     kanji: '伐',
     keyword: 'fell',
-    number: '1069'
+    alternativeKeywords: ['fell', 'strike', 'attack', 'punish'],
+    number: 1069
   },
   {
     kanji: '宿',
     keyword: 'inn',
-    number: '1070'
+    alternativeKeywords: [
+      'inn',
+      'lodging',
+      'relay station',
+      'dwell',
+      'lodge',
+      'be pregnant',
+      'home',
+      'dwelling'
+    ],
+    number: 1070
   },
   {
     kanji: '傷',
     keyword: 'wound',
-    number: '1071'
+    alternativeKeywords: [
+      'wound',
+      'hurt',
+      'injure',
+      'impair',
+      'pain',
+      'injury',
+      'cut',
+      'gash',
+      'scar',
+      'weak point'
+    ],
+    number: 1071
   },
   {
     kanji: '保',
     keyword: 'protect',
-    number: '1072'
+    alternativeKeywords: [
+      'protect',
+      'guarantee',
+      'keep',
+      'preserve',
+      'sustain',
+      'support'
+    ],
+    number: 1072
   },
   {
     kanji: '褒',
     keyword: 'praise',
-    number: '1073'
+    alternativeKeywords: ['praise', 'extol'],
+    number: 1073
   },
   {
     kanji: '傑',
     keyword: 'greatness',
-    number: '1074'
+    alternativeKeywords: ['greatness', 'excellence'],
+    number: 1074
   },
   {
     kanji: '付',
     keyword: 'adhere',
-    number: '1075'
+    alternativeKeywords: ['adhere', 'attach', 'refer to', 'append'],
+    number: 1075
   },
   {
     kanji: '符',
     keyword: 'token',
-    number: '1076'
+    alternativeKeywords: ['token', 'sign', 'mark', 'tally', 'charm'],
+    number: 1076
   },
   {
     kanji: '府',
     keyword: 'municipality',
-    number: '1077'
+    alternativeKeywords: [
+      'borough',
+      'urban prefecture',
+      'govt office',
+      'representative body',
+      'storehouse'
+    ],
+    number: 1077
   },
   {
     kanji: '任',
     keyword: 'responsibility',
-    number: '1078'
+    alternativeKeywords: [
+      'responsibility',
+      'duty',
+      'term',
+      'entrust to',
+      'appoint'
+    ],
+    number: 1078
   },
   {
     kanji: '賃',
     keyword: 'fare',
-    number: '1079'
+    alternativeKeywords: ['fare', 'fee', 'hire', 'rent', 'wages', 'charge'],
+    number: 1079
   },
   {
     kanji: '代',
     keyword: 'substitute',
-    number: '1080'
+    alternativeKeywords: [
+      'substitute',
+      'change',
+      'convert',
+      'replace',
+      'period',
+      'age',
+      'counter for decades of ages',
+      'eras',
+      'etc.',
+      'generation',
+      'charge',
+      'rate',
+      'fee'
+    ],
+    number: 1080
   },
   {
     kanji: '袋',
     keyword: 'sack',
-    number: '1081'
+    alternativeKeywords: ['sack', 'bag', 'pouch'],
+    number: 1081
   },
-  {
-    kanji: '貸',
-    keyword: 'lend',
-    number: '1082'
-  },
+  { kanji: '貸', keyword: 'lend', alternativeKeywords: ['lend'], number: 1082 },
   {
     kanji: '化',
     keyword: 'change',
-    number: '1083'
+    alternativeKeywords: [
+      'change',
+      'take the form of',
+      'influence',
+      'enchant',
+      'delude',
+      '-ization'
+    ],
+    number: 1083
   },
   {
     kanji: '花',
     keyword: 'flower',
-    number: '1084'
+    alternativeKeywords: ['flower'],
+    number: 1084
   },
   {
     kanji: '貨',
     keyword: 'freight',
-    number: '1085'
+    alternativeKeywords: ['freight', 'goods', 'property'],
+    number: 1085
   },
   {
     kanji: '傾',
     keyword: 'lean',
-    number: '1086'
+    alternativeKeywords: [
+      'lean',
+      'incline',
+      'tilt',
+      'trend',
+      'wane',
+      'sink',
+      'ruin',
+      'bias'
+    ],
+    number: 1086
   },
-  {
-    kanji: '何',
-    keyword: 'what',
-    number: '1087'
-  },
+  { kanji: '何', keyword: 'what', alternativeKeywords: ['what'], number: 1087 },
   {
     kanji: '荷',
     keyword: 'baggage',
-    number: '1088'
+    alternativeKeywords: [
+      'baggage',
+      'shoulder-pole load',
+      'bear (a burden)',
+      'shoulder (a gun)',
+      'load',
+      'cargo',
+      'freight'
+    ],
+    number: 1088
   },
   {
     kanji: '俊',
     keyword: 'sagacious',
-    number: '1089'
+    alternativeKeywords: ['sagacious', 'genius', 'excellence'],
+    number: 1089
   },
   {
     kanji: '傍',
     keyword: 'bystander',
-    number: '1090'
+    alternativeKeywords: [
+      'bystander',
+      'side',
+      'besides',
+      'while',
+      'nearby',
+      'third person'
+    ],
+    number: 1090
   },
   {
     kanji: '俺',
     keyword: 'myself',
-    number: '1091'
+    alternativeKeywords: ['I', 'myself'],
+    number: 1091
   },
   {
     kanji: '久',
     keyword: 'long time',
-    number: '1092'
+    alternativeKeywords: ['long time', 'old story'],
+    number: 1092
   },
   {
     kanji: '畝',
     keyword: 'furrow',
-    number: '1093'
+    alternativeKeywords: ['furrow', 'thirty tsubo', 'ridge', 'rib'],
+    number: 1093
   },
   {
     kanji: '囚',
     keyword: 'captured',
-    number: '1094'
+    alternativeKeywords: ['captured', 'criminal', 'arrest', 'catch'],
+    number: 1094
   },
   {
     kanji: '内',
     keyword: 'inside',
-    number: '1095'
+    alternativeKeywords: [
+      'inside',
+      'within',
+      'between',
+      'among',
+      'house',
+      'home'
+    ],
+    number: 1095
   },
   {
     kanji: '丙',
     keyword: 'third class',
-    number: '1096'
+    alternativeKeywords: ['third class', '3rd', '3rd calendar sign'],
+    number: 1096
   },
   {
     kanji: '柄',
     keyword: 'design',
-    number: '1097'
+    alternativeKeywords: [
+      'design',
+      'pattern',
+      'build',
+      'nature',
+      'character',
+      'handle',
+      'crank',
+      'grip',
+      'knob',
+      'shaft'
+    ],
+    number: 1097
   },
-  {
-    kanji: '肉',
-    keyword: 'meat',
-    number: '1098'
-  },
+  { kanji: '肉', keyword: 'meat', alternativeKeywords: ['meat'], number: 1098 },
   {
     kanji: '腐',
     keyword: 'rot',
-    number: '1099'
+    alternativeKeywords: ['rot', 'decay', 'sour'],
+    number: 1099
   },
   {
     kanji: '座',
     keyword: 'sit',
-    number: '1100'
+    alternativeKeywords: ['squat', 'seat', 'cushion', 'gathering', 'sit'],
+    number: 1100
   },
   {
     kanji: '挫',
     keyword: 'sprain',
-    number: '1101'
+    alternativeKeywords: ['crush', 'break', 'sprain', 'discourage'],
+    number: 1101
   },
   {
     kanji: '卒',
     keyword: 'graduate',
-    number: '1102'
+    alternativeKeywords: ['graduate', 'soldier', 'private', 'die'],
+    number: 1102
   },
   {
     kanji: '傘',
     keyword: 'umbrella',
-    number: '1103'
+    alternativeKeywords: ['umbrella'],
+    number: 1103
   },
   {
     kanji: '匁',
     keyword: 'monme',
-    number: '1104'
+    alternativeKeywords: ['monme', '3.75 grams', '(kokuji)'],
+    number: 1104
   },
   {
     kanji: '以',
     keyword: 'by means of',
-    number: '1105'
+    alternativeKeywords: [
+      'by means of',
+      'because',
+      'in view of',
+      'compared with'
+    ],
+    number: 1105
   },
   {
     kanji: '似',
     keyword: 'similar',
-    number: '1106'
+    alternativeKeywords: [
+      'becoming',
+      'resemble',
+      'counterfeit',
+      'imitate',
+      'suitable'
+    ],
+    number: 1106
   },
   {
     kanji: '併',
     keyword: 'join',
-    number: '1107'
+    alternativeKeywords: ['join', 'get together', 'unite', 'collective'],
+    number: 1107
   },
   {
     kanji: '瓦',
     keyword: 'tile',
-    number: '1108'
+    alternativeKeywords: ['tile', 'gram'],
+    number: 1108
   },
   {
     kanji: '瓶',
     keyword: 'flower pot',
-    number: '1109'
+    alternativeKeywords: ['bottle', 'vial', 'jar', 'jug', 'vat', 'urn'],
+    number: 1109
   },
   {
     kanji: '宮',
     keyword: 'Shinto shrine',
-    number: '1110'
+    alternativeKeywords: [
+      'Shinto shrine',
+      'constellations',
+      'palace',
+      'princess'
+    ],
+    number: 1110
   },
   {
     kanji: '営',
     keyword: 'occupation',
-    number: '1111'
+    alternativeKeywords: [
+      'occupation',
+      'camp',
+      'perform',
+      'build',
+      'conduct (business)'
+    ],
+    number: 1111
   },
   {
     kanji: '善',
     keyword: 'virtuous',
-    number: '1112'
+    alternativeKeywords: ['virtuous', 'good', 'goodness'],
+    number: 1112
   },
   {
     kanji: '膳',
     keyword: 'dining tray',
-    number: '1113'
+    alternativeKeywords: ['small low table', 'tray'],
+    number: 1113
   },
   {
     kanji: '年',
     keyword: 'year',
-    number: '1114'
+    alternativeKeywords: ['year', 'counter for years'],
+    number: 1114
   },
   {
     kanji: '夜',
     keyword: 'night',
-    number: '1115'
+    alternativeKeywords: ['night', 'evening'],
+    number: 1115
   },
   {
     kanji: '液',
     keyword: 'fluid',
-    number: '1116'
+    alternativeKeywords: ['fluid', 'liquid', 'juice', 'sap', 'secretion'],
+    number: 1116
   },
   {
     kanji: '塚',
     keyword: 'hillock',
-    number: '1117'
+    alternativeKeywords: ['hillock', 'mound'],
+    number: 1117
   },
   {
     kanji: '幣',
     keyword: 'cash',
-    number: '1118'
+    alternativeKeywords: [
+      'cash',
+      'bad habit',
+      'humble prefix',
+      'gift',
+      'Shinto offerings of cloth',
+      'rope',
+      'cut paper'
+    ],
+    number: 1118
   },
   {
     kanji: '蔽',
     keyword: 'cover over',
-    number: '1119'
+    alternativeKeywords: ['cover', 'shade', 'mantle', 'capsize', 'be ruined'],
+    number: 1119
   },
   {
     kanji: '弊',
     keyword: 'abuse',
-    number: '1120'
+    alternativeKeywords: ['abuse', 'evil', 'vice', 'breakage'],
+    number: 1120
   },
   {
     kanji: '喚',
     keyword: 'yell',
-    number: '1121'
+    alternativeKeywords: ['yell', 'cry', 'call', 'scream', 'summon'],
+    number: 1121
   },
   {
     kanji: '換',
     keyword: 'interchange',
-    number: '1122'
+    alternativeKeywords: [
+      'interchange',
+      'period',
+      'change',
+      'convert',
+      'replace',
+      'renew'
+    ],
+    number: 1122
   },
   {
     kanji: '融',
     keyword: 'dissolve',
-    number: '1123'
+    alternativeKeywords: ['dissolve', 'melt'],
+    number: 1123
   },
   {
     kanji: '施',
     keyword: 'alms',
-    number: '1124'
+    alternativeKeywords: ['give', 'bestow', 'perform', 'alms'],
+    number: 1124
   },
   {
     kanji: '旋',
     keyword: 'rotation',
-    number: '1125'
+    alternativeKeywords: ['rotation', 'go around'],
+    number: 1125
   },
-  {
-    kanji: '遊',
-    keyword: 'play',
-    number: '1126'
-  },
+  { kanji: '遊', keyword: 'play', alternativeKeywords: ['play'], number: 1126 },
   {
     kanji: '旅',
     keyword: 'trip',
-    number: '1127'
+    alternativeKeywords: ['trip', 'travel'],
+    number: 1127
   },
   {
     kanji: '勿',
     keyword: 'not',
-    number: '1128'
+    alternativeKeywords: ['not', 'must not', 'do not', 'be not'],
+    number: 1128
   },
   {
     kanji: '物',
     keyword: 'thing',
-    number: '1129'
+    alternativeKeywords: ['thing', 'object', 'matter'],
+    number: 1129
   },
   {
     kanji: '易',
     keyword: 'easy',
-    number: '1130'
+    alternativeKeywords: [
+      'easy',
+      'ready to',
+      'simple',
+      'fortune-telling',
+      'divination'
+    ],
+    number: 1130
   },
   {
     kanji: '賜',
     keyword: 'grant',
-    number: '1131'
+    alternativeKeywords: ['grant', 'gift', 'boon', 'results'],
+    number: 1131
   },
   {
     kanji: '尿',
     keyword: 'urine',
-    number: '1132'
+    alternativeKeywords: ['urine'],
+    number: 1132
   },
-  {
-    kanji: '尼',
-    keyword: 'nun',
-    number: '1133'
-  },
+  { kanji: '尼', keyword: 'nun', alternativeKeywords: ['nun'], number: 1133 },
   {
     kanji: '尻',
     keyword: 'buttocks',
-    number: '1134'
+    alternativeKeywords: ['buttocks', 'hips', 'butt', 'rear'],
+    number: 1134
   },
   {
     kanji: '泥',
     keyword: 'mud',
-    number: '1135'
+    alternativeKeywords: ['mud', 'mire', 'adhere to', 'be attached to'],
+    number: 1135
   },
   {
     kanji: '塀',
     keyword: 'fence',
-    number: '1136'
+    alternativeKeywords: ['fence', 'wall', '(kokuji)'],
+    number: 1136
   },
   {
     kanji: '履',
     keyword: 'footgear',
-    number: '1137'
+    alternativeKeywords: [
+      'perform',
+      'complete',
+      'footgear',
+      'shoes',
+      'boots',
+      'put on (the feet)'
+    ],
+    number: 1137
   },
   {
     kanji: '屋',
     keyword: 'roof',
-    number: '1138'
+    alternativeKeywords: ['roof', 'house', 'shop', 'dealer', 'seller'],
+    number: 1138
   },
   {
     kanji: '握',
     keyword: 'grip',
-    number: '1139'
+    alternativeKeywords: ['grip', 'hold', 'mould sushi', 'bribe'],
+    number: 1139
   },
   {
     kanji: '屈',
     keyword: 'yield',
-    number: '1140'
+    alternativeKeywords: ['yield', 'bend', 'flinch', 'submit'],
+    number: 1140
   },
   {
     kanji: '掘',
     keyword: 'dig',
-    number: '1141'
+    alternativeKeywords: ['dig', 'delve', 'excavate'],
+    number: 1141
   },
   {
     kanji: '堀',
     keyword: 'ditch',
-    number: '1142'
+    alternativeKeywords: ['ditch', 'moat', 'canal'],
+    number: 1142
   },
   {
     kanji: '居',
     keyword: 'reside',
-    number: '1143'
+    alternativeKeywords: ['reside', 'to be', 'exist', 'live with'],
+    number: 1143
   },
   {
     kanji: '据',
     keyword: 'set',
-    number: '1144'
+    alternativeKeywords: [
+      'set',
+      'lay a foundation',
+      'install',
+      'equip',
+      'squat down',
+      'sit down'
+    ],
+    number: 1144
   },
   {
     kanji: '裾',
     keyword: 'hem',
-    number: '1145'
+    alternativeKeywords: ['cuff', 'hem', 'foot of mountain'],
+    number: 1145
   },
   {
     kanji: '層',
     keyword: 'stratum',
-    number: '1146'
+    alternativeKeywords: ['stratum', 'social class', 'layer', 'story', 'floor'],
+    number: 1146
   },
   {
     kanji: '局',
     keyword: 'bureau',
-    number: '1147'
+    alternativeKeywords: [
+      'bureau',
+      'board',
+      'office',
+      'affair',
+      'conclusion',
+      'court lady',
+      'lady-in-waiting',
+      'her apartment'
+    ],
+    number: 1147
   },
   {
     kanji: '遅',
     keyword: 'slow',
-    number: '1148'
+    alternativeKeywords: ['slow', 'late', 'back', 'later'],
+    number: 1148
   },
   {
     kanji: '漏',
     keyword: 'leak',
-    number: '1149'
+    alternativeKeywords: ['leak', 'escape', 'time'],
+    number: 1149
   },
   {
     kanji: '刷',
     keyword: 'printing',
-    number: '1150'
+    alternativeKeywords: ['printing', 'print', 'brush'],
+    number: 1150
   },
   {
     kanji: '尺',
     keyword: 'shaku',
-    number: '1151'
+    alternativeKeywords: ['shaku', 'Japanese foot', 'measure', 'scale', 'rule'],
+    number: 1151
   },
   {
     kanji: '尽',
     keyword: 'exhaust',
-    number: '1152'
+    alternativeKeywords: [
+      'exhaust',
+      'use up',
+      'run out of',
+      'deplete',
+      'befriend',
+      'serve'
+    ],
+    number: 1152
   },
   {
     kanji: '沢',
     keyword: 'swamp',
-    number: '1153'
+    alternativeKeywords: ['swamp', 'marsh', 'brilliance', 'grace'],
+    number: 1153
   },
   {
     kanji: '訳',
     keyword: 'translate',
-    number: '1154'
+    alternativeKeywords: ['translate', 'reason', 'circumstance', 'case'],
+    number: 1154
   },
   {
     kanji: '択',
     keyword: 'choose',
-    number: '1155'
+    alternativeKeywords: ['choose', 'select', 'elect', 'prefer'],
+    number: 1155
   },
   {
     kanji: '昼',
     keyword: 'daytime',
-    number: '1156'
+    alternativeKeywords: ['daytime', 'noon'],
+    number: 1156
   },
   {
     kanji: '戸',
     keyword: 'door',
-    number: '1157'
+    alternativeKeywords: [
+      'door',
+      'counter for houses',
+      'door radical (no. 63)'
+    ],
+    number: 1157
   },
   {
     kanji: '肩',
     keyword: 'shoulder',
-    number: '1158'
+    alternativeKeywords: ['shoulder'],
+    number: 1158
   },
   {
     kanji: '房',
     keyword: 'tassel',
-    number: '1159'
+    alternativeKeywords: [
+      'tassel',
+      'tuft',
+      'fringe',
+      'bunch',
+      'lock (hair)',
+      'segment (orange)',
+      'house',
+      'room'
+    ],
+    number: 1159
   },
   {
     kanji: '扇',
     keyword: 'fan',
-    number: '1160'
+    alternativeKeywords: ['fan', 'folding fan'],
+    number: 1160
   },
   {
     kanji: '炉',
     keyword: 'hearth',
-    number: '1161'
+    alternativeKeywords: ['hearth', 'furnace', 'kiln', 'reactor'],
+    number: 1161
   },
   {
     kanji: '戻',
     keyword: 're-',
-    number: '1162'
+    alternativeKeywords: [
+      're-',
+      'return',
+      'revert',
+      'resume',
+      'restore',
+      'go backwards'
+    ],
+    number: 1162
   },
   {
     kanji: '涙',
     keyword: 'tears',
-    number: '1163'
+    alternativeKeywords: ['tears', 'sympathy'],
+    number: 1163
   },
   {
     kanji: '雇',
     keyword: 'employ',
-    number: '1164'
+    alternativeKeywords: ['employ', 'hire'],
+    number: 1164
   },
   {
     kanji: '顧',
     keyword: 'look back',
-    number: '1165'
+    alternativeKeywords: [
+      'look back',
+      'review',
+      'examine oneself',
+      'turn around'
+    ],
+    number: 1165
   },
   {
     kanji: '啓',
     keyword: 'disclose',
-    number: '1166'
+    alternativeKeywords: ['disclose', 'open', 'say'],
+    number: 1166
   },
   {
     kanji: '示',
     keyword: 'show',
-    number: '1167'
+    alternativeKeywords: [
+      'show',
+      'indicate',
+      'point out',
+      'express',
+      'display'
+    ],
+    number: 1167
   },
   {
     kanji: '礼',
     keyword: 'salutation',
-    number: '1168'
+    alternativeKeywords: [
+      'salute',
+      'bow',
+      'ceremony',
+      'thanks',
+      'remuneration'
+    ],
+    number: 1168
   },
   {
     kanji: '祥',
     keyword: 'auspicious',
-    number: '1169'
+    alternativeKeywords: [
+      'auspicious',
+      'happiness',
+      'blessedness',
+      'good omen',
+      'good fortune'
+    ],
+    number: 1169
   },
   {
     kanji: '祝',
     keyword: 'celebrate',
-    number: '1170'
+    alternativeKeywords: ['celebrate', 'congratulate'],
+    number: 1170
   },
   {
     kanji: '福',
     keyword: 'blessing',
-    number: '1171'
+    alternativeKeywords: ['blessing', 'fortune', 'luck', 'wealth'],
+    number: 1171
   },
   {
     kanji: '祉',
     keyword: 'welfare',
-    number: '1172'
+    alternativeKeywords: ['welfare', 'happiness'],
+    number: 1172
   },
   {
     kanji: '社',
     keyword: 'company',
-    number: '1173'
+    alternativeKeywords: ['company', 'firm', 'office', 'association', 'shrine'],
+    number: 1173
   },
   {
     kanji: '視',
     keyword: 'inspection',
-    number: '1174'
+    alternativeKeywords: ['inspection', 'regard as', 'see', 'look at'],
+    number: 1174
   },
   {
     kanji: '奈',
     keyword: 'Nara',
-    number: '1175'
+    alternativeKeywords: ['Nara', 'what?'],
+    number: 1175
   },
   {
     kanji: '尉',
     keyword: 'military officer',
-    number: '1176'
+    alternativeKeywords: ['military officer', 'jailer', 'old man', 'rank'],
+    number: 1176
   },
   {
     kanji: '慰',
     keyword: 'consolation',
-    number: '1177'
+    alternativeKeywords: [
+      'consolation',
+      'amusement',
+      'seduce',
+      'cheer',
+      'make sport of',
+      'comfort',
+      'console'
+    ],
+    number: 1177
   },
   {
     kanji: '款',
     keyword: 'goodwill',
-    number: '1178'
+    alternativeKeywords: [
+      'goodwill',
+      'article',
+      'section',
+      'friendship',
+      'collusion'
+    ],
+    number: 1178
   },
   {
     kanji: '禁',
     keyword: 'prohibition',
-    number: '1179'
+    alternativeKeywords: ['prohibition', 'ban', 'forbid'],
+    number: 1179
   },
   {
     kanji: '襟',
     keyword: 'collar',
-    number: '1180'
+    alternativeKeywords: ['collar', 'neck', 'lapel', "one's inner feelings"],
+    number: 1180
   },
   {
     kanji: '宗',
     keyword: 'religion',
-    number: '1181'
+    alternativeKeywords: [
+      'religion',
+      'sect',
+      'denomination',
+      'main point',
+      'origin',
+      'essence'
+    ],
+    number: 1181
   },
   {
     kanji: '崇',
     keyword: 'adore',
-    number: '1182'
+    alternativeKeywords: ['adore', 'respect', 'revere', 'worship'],
+    number: 1182
   },
   {
     kanji: '祭',
     keyword: 'ritual',
-    number: '1183'
+    alternativeKeywords: [
+      'ritual',
+      'offer prayers',
+      'celebrate',
+      'deify',
+      'enshrine',
+      'worship'
+    ],
+    number: 1183
   },
   {
     kanji: '察',
     keyword: 'guess',
-    number: '1184'
+    alternativeKeywords: ['guess', 'presume', 'surmise', 'judge', 'understand'],
+    number: 1184
   },
   {
     kanji: '擦',
     keyword: 'grate',
-    number: '1185'
+    alternativeKeywords: [
+      'grate',
+      'rub',
+      'scratch',
+      'scrape',
+      'chafe',
+      'scour'
+    ],
+    number: 1185
   },
   {
     kanji: '由',
     keyword: 'wherefore',
-    number: '1186'
+    alternativeKeywords: ['wherefore', 'a reason'],
+    number: 1186
   },
   {
     kanji: '抽',
     keyword: 'pluck',
-    number: '1187'
+    alternativeKeywords: ['pluck', 'pull', 'extract', 'excel'],
+    number: 1187
   },
   {
     kanji: '油',
     keyword: 'oil',
-    number: '1188'
+    alternativeKeywords: ['oil', 'fat'],
+    number: 1188
   },
   {
     kanji: '袖',
     keyword: 'sleeve',
-    number: '1189'
+    alternativeKeywords: [
+      'sleeve',
+      'wing (building)',
+      'extension',
+      'give cold shoulder'
+    ],
+    number: 1189
   },
   {
     kanji: '宙',
     keyword: 'mid-air',
-    number: '1190'
+    alternativeKeywords: [
+      'mid-air',
+      'air',
+      'space',
+      'sky',
+      'memorization',
+      'interval of time'
+    ],
+    number: 1190
   },
   {
     kanji: '届',
     keyword: 'deliver',
-    number: '1191'
+    alternativeKeywords: [
+      'deliver',
+      'reach',
+      'arrive',
+      'report',
+      'notify',
+      'forward'
+    ],
+    number: 1191
   },
   {
     kanji: '笛',
     keyword: 'flute',
-    number: '1192'
+    alternativeKeywords: [
+      'flute',
+      'clarinet',
+      'pipe',
+      'whistle',
+      'bagpipe',
+      'piccolo'
+    ],
+    number: 1192
   },
   {
     kanji: '軸',
     keyword: 'axis',
-    number: '1193'
+    alternativeKeywords: [
+      'axis',
+      'pivot',
+      'stem',
+      'stalk',
+      'counter for book scrolls'
+    ],
+    number: 1193
   },
   {
     kanji: '甲',
     keyword: 'armor',
-    number: '1194'
+    alternativeKeywords: [
+      'armor',
+      'high (voice)',
+      'A grade',
+      'first class',
+      'former',
+      'instep',
+      'carapace'
+    ],
+    number: 1194
   },
   {
     kanji: '押',
     keyword: 'push',
-    number: '1195'
+    alternativeKeywords: [
+      'push',
+      'stop',
+      'check',
+      'subdue',
+      'attach',
+      'seize',
+      'weight',
+      'shove',
+      'press',
+      'seal',
+      'do in spite of'
+    ],
+    number: 1195
   },
   {
     kanji: '岬',
     keyword: 'headland',
-    number: '1196'
+    alternativeKeywords: ['headland', 'cape', 'spit', 'promontory'],
+    number: 1196
   },
   {
     kanji: '挿',
     keyword: 'insert',
-    number: '1197'
+    alternativeKeywords: ['insert', 'put in', 'graft', 'wear (sword)'],
+    number: 1197
   },
   {
     kanji: '申',
     keyword: 'speaketh',
-    number: '1198'
+    alternativeKeywords: [
+      'have the honor to',
+      'sign of the monkey',
+      '3-5PM',
+      'ninth sign of Chinese zodiac'
+    ],
+    number: 1198
   },
   {
     kanji: '伸',
     keyword: 'expand',
-    number: '1199'
+    alternativeKeywords: [
+      'expand',
+      'stretch',
+      'extend',
+      'lengthen',
+      'increase'
+    ],
+    number: 1199
   },
   {
     kanji: '神',
     keyword: 'gods',
-    number: '1200'
+    alternativeKeywords: ['gods', 'mind', 'soul'],
+    number: 1200
   },
   {
     kanji: '捜',
     keyword: 'search',
-    number: '1201'
+    alternativeKeywords: ['search', 'look for', 'locate'],
+    number: 1201
   },
   {
     kanji: '果',
     keyword: 'fruit',
-    number: '1202'
+    alternativeKeywords: [
+      'fruit',
+      'reward',
+      'carry out',
+      'achieve',
+      'complete',
+      'end',
+      'finish',
+      'succeed'
+    ],
+    number: 1202
   },
   {
     kanji: '菓',
     keyword: 'confectionary',
-    number: '1203'
+    alternativeKeywords: ['candy', 'cakes', 'fruit'],
+    number: 1203
   },
   {
     kanji: '課',
     keyword: 'chapter',
-    number: '1204'
+    alternativeKeywords: [
+      'chapter',
+      'lesson',
+      'section',
+      'department',
+      'division',
+      'counter for chapters (of a book)'
+    ],
+    number: 1204
   },
   {
     kanji: '裸',
     keyword: 'naked',
-    number: '1205'
+    alternativeKeywords: ['naked', 'nude', 'uncovered', 'partially clothed'],
+    number: 1205
   },
   {
     kanji: '斤',
     keyword: 'ax',
-    number: '1206'
+    alternativeKeywords: [
+      'axe',
+      '1.32 lb',
+      'catty',
+      'counter for loaves of bread',
+      'axe radical (no. 69)'
+    ],
+    number: 1206
   },
   {
     kanji: '析',
     keyword: 'chop',
-    number: '1207'
+    alternativeKeywords: ['chop', 'divide', 'tear', 'analyze'],
+    number: 1207
   },
   {
     kanji: '所',
     keyword: 'place',
-    number: '1208'
+    alternativeKeywords: ['place', 'extent'],
+    number: 1208
   },
   {
     kanji: '祈',
     keyword: 'pray',
-    number: '1209'
+    alternativeKeywords: ['pray', 'wish'],
+    number: 1209
   },
   {
     kanji: '近',
     keyword: 'near',
-    number: '1210'
+    alternativeKeywords: ['near', 'early', 'akin', 'tantamount'],
+    number: 1210
   },
   {
     kanji: '折',
     keyword: 'fold',
-    number: '1211'
+    alternativeKeywords: [
+      'fold',
+      'break',
+      'fracture',
+      'bend',
+      'yield',
+      'submit'
+    ],
+    number: 1211
   },
   {
     kanji: '哲',
     keyword: 'philosophy',
-    number: '1212'
+    alternativeKeywords: ['philosophy', 'clear'],
+    number: 1212
   },
   {
     kanji: '逝',
     keyword: 'departed',
-    number: '1213'
+    alternativeKeywords: ['departed', 'die'],
+    number: 1213
   },
   {
     kanji: '誓',
     keyword: 'vow',
-    number: '1214'
+    alternativeKeywords: ['vow', 'swear', 'pledge'],
+    number: 1214
   },
   {
     kanji: '斬',
     keyword: 'chop off',
-    number: '1215'
+    alternativeKeywords: ['beheading', 'kill', 'murder'],
+    number: 1215
   },
   {
     kanji: '暫',
     keyword: 'temporarily',
-    number: '1216'
+    alternativeKeywords: ['temporarily', 'a while', 'moment', 'long time'],
+    number: 1216
   },
   {
     kanji: '漸',
     keyword: 'steadily',
-    number: '1217'
+    alternativeKeywords: [
+      'steadily',
+      'gradually advancing',
+      'finally',
+      'barely'
+    ],
+    number: 1217
   },
   {
     kanji: '断',
     keyword: 'severance',
-    number: '1218'
+    alternativeKeywords: [
+      'severance',
+      'decline',
+      'refuse',
+      'apologize',
+      'warn',
+      'dismiss',
+      'prohibit',
+      'decision',
+      'judgement',
+      'cutting'
+    ],
+    number: 1218
   },
   {
     kanji: '質',
     keyword: 'substance',
-    number: '1219'
+    alternativeKeywords: ['substance', 'quality', 'matter', 'temperament'],
+    number: 1219
   },
   {
     kanji: '斥',
     keyword: 'reject',
-    number: '1220'
+    alternativeKeywords: [
+      'reject',
+      'retreat',
+      'recede',
+      'withdraw',
+      'repel',
+      'repulse'
+    ],
+    number: 1220
   },
   {
     kanji: '訴',
     keyword: 'accusation',
-    number: '1221'
+    alternativeKeywords: ['accusation', 'sue', 'complain of pain', 'appeal to'],
+    number: 1221
   },
   {
     kanji: '昨',
     keyword: 'yesterday',
-    number: '1222'
+    alternativeKeywords: ['yesterday', 'previous'],
+    number: 1222
   },
   {
     kanji: '詐',
     keyword: 'lie',
-    number: '1223'
+    alternativeKeywords: ['lie', 'falsehood', 'deceive', 'pretend'],
+    number: 1223
   },
   {
     kanji: '作',
     keyword: 'make',
-    number: '1224'
+    alternativeKeywords: ['make', 'production', 'prepare', 'build'],
+    number: 1224
   },
-  {
-    kanji: '雪',
-    keyword: 'snow',
-    number: '1225'
-  },
+  { kanji: '雪', keyword: 'snow', alternativeKeywords: ['snow'], number: 1225 },
   {
     kanji: '録',
     keyword: 'record',
-    number: '1226'
+    alternativeKeywords: ['record'],
+    number: 1226
   },
-  {
-    kanji: '剝',
-    keyword: 'peel off',
-    number: '1227'
-  },
+  { kanji: '剝', keyword: 'peel off', alternativeKeywords: [''], number: 1227 },
   {
     kanji: '尋',
     keyword: 'inquire',
-    number: '1228'
+    alternativeKeywords: ['inquire', 'fathom', 'look for'],
+    number: 1228
   },
   {
     kanji: '急',
     keyword: 'hurry',
-    number: '1229'
+    alternativeKeywords: ['hurry', 'emergency', 'sudden', 'steep'],
+    number: 1229
   },
   {
     kanji: '穏',
     keyword: 'calm',
-    number: '1230'
+    alternativeKeywords: ['calm', 'quiet', 'moderation'],
+    number: 1230
   },
   {
     kanji: '侵',
     keyword: 'encroach',
-    number: '1231'
+    alternativeKeywords: ['encroach', 'invade', 'raid', 'trespass', 'violate'],
+    number: 1231
   },
   {
     kanji: '浸',
     keyword: 'immersed',
-    number: '1232'
+    alternativeKeywords: [
+      'immersed',
+      'soak',
+      'dip',
+      'steep',
+      'moisten',
+      'wet',
+      'dunk'
+    ],
+    number: 1232
   },
   {
     kanji: '寝',
     keyword: 'lie down',
-    number: '1233'
+    alternativeKeywords: ['lie down', 'sleep', 'rest', 'bed', 'remain unsold'],
+    number: 1233
   },
   {
     kanji: '婦',
     keyword: 'lady',
-    number: '1234'
+    alternativeKeywords: ['lady', 'woman', 'wife', 'bride'],
+    number: 1234
   },
   {
     kanji: '掃',
     keyword: 'sweep',
-    number: '1235'
+    alternativeKeywords: ['sweep', 'brush'],
+    number: 1235
   },
   {
     kanji: '当',
     keyword: 'hit',
-    number: '1236'
+    alternativeKeywords: ['hit', 'right', 'appropriate', 'himself'],
+    number: 1236
   },
   {
     kanji: '彙',
     keyword: 'glossary',
-    number: '1237'
+    alternativeKeywords: [
+      'same kind',
+      'collect',
+      'classify',
+      'category',
+      'hedgehog'
+    ],
+    number: 1237
   },
   {
     kanji: '争',
     keyword: 'contend',
-    number: '1238'
+    alternativeKeywords: ['contend', 'dispute', 'argue'],
+    number: 1238
   },
   {
     kanji: '浄',
     keyword: 'clean',
-    number: '1239'
+    alternativeKeywords: [
+      'clean',
+      'purify',
+      'cleanse',
+      'exorcise',
+      'Manchu Dynasty'
+    ],
+    number: 1239
   },
   {
     kanji: '事',
     keyword: 'matter',
-    number: '1240'
+    alternativeKeywords: [
+      'matter',
+      'thing',
+      'fact',
+      'business',
+      'reason',
+      'possibly'
+    ],
+    number: 1240
   },
   {
     kanji: '唐',
     keyword: 'T’ang',
-    number: '1241'
+    alternativeKeywords: ["T'ang", 'China', 'foreign'],
+    number: 1241
   },
   {
     kanji: '糖',
     keyword: 'sugar',
-    number: '1242'
+    alternativeKeywords: ['sugar'],
+    number: 1242
   },
   {
     kanji: '康',
     keyword: 'sane',
-    number: '1243'
+    alternativeKeywords: ['ease', 'peace'],
+    number: 1243
   },
   {
     kanji: '逮',
     keyword: 'apprehend',
-    number: '1244'
+    alternativeKeywords: ['apprehend', 'chase'],
+    number: 1244
   },
   {
     kanji: '伊',
     keyword: 'Italy',
-    number: '1245'
+    alternativeKeywords: ['Italy', 'that one'],
+    number: 1245
   },
   {
     kanji: '君',
     keyword: 'old boy',
-    number: '1246'
+    alternativeKeywords: ['mister', 'you', 'ruler', 'male name suffix'],
+    number: 1246
   },
   {
     kanji: '群',
     keyword: 'flock',
-    number: '1247'
+    alternativeKeywords: [
+      'flock',
+      'group',
+      'crowd',
+      'herd',
+      'swarm',
+      'cluster'
+    ],
+    number: 1247
   },
   {
     kanji: '耐',
     keyword: '#NAME?',
-    number: '1248'
+    alternativeKeywords: ['-proof', 'enduring'],
+    number: 1248
   },
   {
     kanji: '需',
     keyword: 'demand',
-    number: '1249'
+    alternativeKeywords: ['demand', 'request', 'need'],
+    number: 1249
   },
   {
     kanji: '儒',
     keyword: 'Confucian',
-    number: '1250'
+    alternativeKeywords: ['Confucian'],
+    number: 1250
   },
   {
     kanji: '端',
     keyword: 'edge',
-    number: '1251'
+    alternativeKeywords: [
+      'edge',
+      'origin',
+      'end',
+      'point',
+      'border',
+      'verge',
+      'cape'
+    ],
+    number: 1251
   },
   {
     kanji: '両',
     keyword: 'both',
-    number: '1252'
+    alternativeKeywords: [
+      'both',
+      'old Japanese coin',
+      'counter for carriages (e.g.',
+      'in a train)',
+      'two'
+    ],
+    number: 1252
   },
   {
     kanji: '満',
     keyword: 'full',
-    number: '1253'
+    alternativeKeywords: ['full', 'fullness', 'enough', 'satisfy'],
+    number: 1253
   },
   {
     kanji: '画',
     keyword: 'brush-stroke',
-    number: '1254'
+    alternativeKeywords: ['brush-stroke', 'picture'],
+    number: 1254
   },
   {
     kanji: '歯',
     keyword: 'tooth',
-    number: '1255'
+    alternativeKeywords: ['tooth', 'cog'],
+    number: 1255
   },
   {
     kanji: '曲',
     keyword: 'bend',
-    number: '1256'
+    alternativeKeywords: [
+      'bend',
+      'music',
+      'melody',
+      'composition',
+      'pleasure',
+      'injustice',
+      'fault',
+      'curve',
+      'crooked',
+      'perverse',
+      'lean'
+    ],
+    number: 1256
   },
   {
     kanji: '曹',
     keyword: 'cadet',
-    number: '1257'
+    alternativeKeywords: ['office', 'official', 'comrade', 'fellow'],
+    number: 1257
   },
   {
     kanji: '遭',
     keyword: 'encounter',
-    number: '1258'
+    alternativeKeywords: [
+      'encounter',
+      'meet',
+      'party',
+      'association',
+      'interview',
+      'join'
+    ],
+    number: 1258
   },
   {
     kanji: '漕',
     keyword: 'rowing',
-    number: '1259'
+    alternativeKeywords: ['rowing', 'scull', 'paddle'],
+    number: 1259
   },
   {
     kanji: '槽',
     keyword: 'vat',
-    number: '1260'
+    alternativeKeywords: ['vat', 'tub', 'tank'],
+    number: 1260
   },
   {
     kanji: '斗',
     keyword: 'Big Dipper',
-    number: '1261'
+    alternativeKeywords: [
+      'Big Dipper',
+      'ten sho (vol)',
+      'sake dipper',
+      'dots and cross radical (no. 68)'
+    ],
+    number: 1261
   },
   {
     kanji: '料',
     keyword: 'fee',
-    number: '1262'
+    alternativeKeywords: ['fee', 'materials'],
+    number: 1262
   },
   {
     kanji: '科',
     keyword: 'department',
-    number: '1263'
+    alternativeKeywords: ['department', 'course', 'section'],
+    number: 1263
   },
   {
     kanji: '図',
     keyword: 'map',
-    number: '1264'
+    alternativeKeywords: [
+      'map',
+      'drawing',
+      'plan',
+      'extraordinary',
+      'audacious'
+    ],
+    number: 1264
   },
   {
     kanji: '用',
     keyword: 'utilize',
-    number: '1265'
+    alternativeKeywords: ['utilize', 'business', 'service', 'use', 'employ'],
+    number: 1265
   },
   {
     kanji: '庸',
     keyword: 'comfortable',
-    number: '1266'
+    alternativeKeywords: ['commonplace', 'ordinary', 'employment'],
+    number: 1266
   },
   {
     kanji: '備',
     keyword: 'equip',
-    number: '1267'
+    alternativeKeywords: ['equip', 'provision', 'preparation'],
+    number: 1267
   },
   {
     kanji: '昔',
     keyword: 'once upon a time',
-    number: '1268'
+    alternativeKeywords: ['once upon a time', 'antiquity', 'old times'],
+    number: 1268
   },
   {
     kanji: '錯',
     keyword: 'confused',
-    number: '1269'
+    alternativeKeywords: ['confused', 'mix', 'be in disorder'],
+    number: 1269
   },
   {
     kanji: '借',
     keyword: 'borrow',
-    number: '1270'
+    alternativeKeywords: ['borrow', 'rent'],
+    number: 1270
   },
   {
     kanji: '惜',
     keyword: 'pity',
-    number: '1271'
+    alternativeKeywords: [
+      'pity',
+      'be sparing of',
+      'frugal',
+      'stingy',
+      'regret'
+    ],
+    number: 1271
   },
   {
     kanji: '措',
     keyword: 'set aside',
-    number: '1272'
+    alternativeKeywords: [
+      'set aside',
+      'give up',
+      'suspend',
+      'discontinue',
+      'lay aside',
+      'except'
+    ],
+    number: 1272
   },
   {
     kanji: '散',
     keyword: 'scatter',
-    number: '1273'
+    alternativeKeywords: ['scatter', 'disperse', 'spend', 'squander'],
+    number: 1273
   },
   {
     kanji: '廿',
     keyword: 'twenty',
-    number: '1274'
+    alternativeKeywords: ['twenty'],
+    number: 1274
   },
   {
     kanji: '庶',
     keyword: 'commoner',
-    number: '1275'
+    alternativeKeywords: ['commoner', 'all', 'bastard'],
+    number: 1275
   },
   {
     kanji: '遮',
     keyword: 'intercept',
-    number: '1276'
+    alternativeKeywords: ['intercept', 'interrupt', 'obstruct'],
+    number: 1276
   },
   {
     kanji: '席',
     keyword: 'seat',
-    number: '1277'
+    alternativeKeywords: ['seat', 'mat', 'occasion', 'place'],
+    number: 1277
   },
   {
     kanji: '度',
     keyword: 'degrees',
-    number: '1278'
+    alternativeKeywords: [
+      'degrees',
+      'occurrence',
+      'time',
+      'counter for occurrences',
+      'consider',
+      'attitude'
+    ],
+    number: 1278
   },
   {
     kanji: '渡',
     keyword: 'transit',
-    number: '1279'
+    alternativeKeywords: [
+      'transit',
+      'ford',
+      'ferry',
+      'cross',
+      'import',
+      'deliver',
+      'diameter',
+      'migrate'
+    ],
+    number: 1279
   },
   {
     kanji: '奔',
     keyword: 'bustle',
-    number: '1280'
+    alternativeKeywords: ['run', 'bustle'],
+    number: 1280
   },
   {
     kanji: '噴',
     keyword: 'erupt',
-    number: '1281'
+    alternativeKeywords: ['erupt', 'spout', 'emit', 'flush out'],
+    number: 1281
   },
   {
     kanji: '墳',
     keyword: 'tomb',
-    number: '1282'
+    alternativeKeywords: ['tomb', 'mound'],
+    number: 1282
   },
   {
     kanji: '憤',
     keyword: 'aroused',
-    number: '1283'
+    alternativeKeywords: ['aroused', 'resent', 'be indignant', 'anger'],
+    number: 1283
   },
   {
     kanji: '焼',
     keyword: 'bake',
-    number: '1284'
+    alternativeKeywords: ['bake', 'burning'],
+    number: 1284
   },
   {
     kanji: '暁',
     keyword: 'daybreak',
-    number: '1285'
+    alternativeKeywords: ['daybreak', 'dawn', 'in the event'],
+    number: 1285
   },
   {
     kanji: '半',
     keyword: 'half',
-    number: '1286'
+    alternativeKeywords: ['half', 'middle', 'odd number', 'semi-', 'part-'],
+    number: 1286
   },
   {
     kanji: '伴',
     keyword: 'consort',
-    number: '1287'
+    alternativeKeywords: ['consort', 'accompany', 'bring with', 'companion'],
+    number: 1287
   },
   {
     kanji: '畔',
     keyword: 'paddy ridge',
-    number: '1288'
+    alternativeKeywords: ['paddy ridge', 'levee'],
+    number: 1288
   },
   {
     kanji: '判',
     keyword: 'judgment',
-    number: '1289'
+    alternativeKeywords: ['judgement', 'signature', 'stamp', 'seal'],
+    number: 1289
   },
-  {
-    kanji: '拳',
-    keyword: 'fist',
-    number: '1290'
-  },
+  { kanji: '拳', keyword: 'fist', alternativeKeywords: ['fist'], number: 1290 },
   {
     kanji: '券',
     keyword: 'ticket',
-    number: '1291'
+    alternativeKeywords: ['ticket'],
+    number: 1291
   },
   {
     kanji: '巻',
     keyword: 'scroll',
-    number: '1292'
+    alternativeKeywords: [
+      'scroll',
+      'volume',
+      'book',
+      'part',
+      'roll up',
+      'wind up',
+      'tie',
+      'coil',
+      'counter for texts (or book scrolls)'
+    ],
+    number: 1292
   },
   {
     kanji: '圏',
     keyword: 'sphere',
-    number: '1293'
+    alternativeKeywords: ['sphere', 'circle', 'radius', 'range'],
+    number: 1293
   },
   {
     kanji: '勝',
     keyword: 'victory',
-    number: '1294'
+    alternativeKeywords: ['victory', 'win', 'prevail', 'excel'],
+    number: 1294
   },
   {
     kanji: '藤',
     keyword: 'wisteria',
-    number: '1295'
+    alternativeKeywords: ['wisteria'],
+    number: 1295
   },
   {
     kanji: '謄',
     keyword: 'facsimile',
-    number: '1296'
+    alternativeKeywords: ['mimeograph', 'copy'],
+    number: 1296
   },
   {
     kanji: '片',
     keyword: 'one-sided',
-    number: '1297'
+    alternativeKeywords: [
+      'one-sided',
+      'leaf',
+      'sheet',
+      'right-side kata radical (no. 91)'
+    ],
+    number: 1297
   },
   {
     kanji: '版',
     keyword: 'printing block',
-    number: '1298'
+    alternativeKeywords: [
+      'printing block',
+      'printing plate',
+      'edition',
+      'impression',
+      'label'
+    ],
+    number: 1298
   },
   {
     kanji: '之',
     keyword: 'of',
-    number: '1299'
+    alternativeKeywords: ['of', 'this'],
+    number: 1299
   },
   {
     kanji: '乏',
     keyword: 'destitution',
-    number: '1300'
+    alternativeKeywords: ['destitution', 'scarce', 'limited'],
+    number: 1300
   },
   {
     kanji: '芝',
     keyword: 'turf',
-    number: '1301'
+    alternativeKeywords: ['turf', 'lawn'],
+    number: 1301
   },
   {
     kanji: '不',
     keyword: 'negative',
-    number: '1302'
+    alternativeKeywords: ['negative', 'non-', 'bad', 'ugly', 'clumsy'],
+    number: 1302
   },
   {
     kanji: '否',
     keyword: 'negate',
-    number: '1303'
+    alternativeKeywords: ['negate', 'no', 'noes', 'refuse', 'decline', 'deny'],
+    number: 1303
   },
   {
     kanji: '杯',
     keyword: 'cupfuls',
-    number: '1304'
+    alternativeKeywords: [
+      'counter for cupfuls',
+      'wine glass',
+      'glass',
+      'toast'
+    ],
+    number: 1304
   },
   {
     kanji: '矢',
     keyword: 'dart',
-    number: '1305'
+    alternativeKeywords: ['dart', 'arrow'],
+    number: 1305
   },
   {
     kanji: '矯',
     keyword: 'rectify',
-    number: '1306'
+    alternativeKeywords: [
+      'rectify',
+      'straighten',
+      'correct',
+      'reform',
+      'cure',
+      'control',
+      'pretend',
+      'falsify'
+    ],
+    number: 1306
   },
   {
     kanji: '族',
     keyword: 'tribe',
-    number: '1307'
+    alternativeKeywords: ['tribe', 'family'],
+    number: 1307
   },
   {
     kanji: '知',
     keyword: 'know',
-    number: '1308'
+    alternativeKeywords: ['know', 'wisdom'],
+    number: 1308
   },
   {
     kanji: '智',
     keyword: 'wisdom',
-    number: '1309'
+    alternativeKeywords: ['wisdom', 'intellect', 'reason'],
+    number: 1309
   },
   {
     kanji: '挨',
     keyword: 'shove',
-    number: '1310'
+    alternativeKeywords: ['approach', 'draw near', 'push open'],
+    number: 1310
   },
   {
     kanji: '矛',
     keyword: 'halberd',
-    number: '1311'
+    alternativeKeywords: ['halberd', 'arms', 'festival float'],
+    number: 1311
   },
   {
     kanji: '柔',
     keyword: 'tender',
-    number: '1312'
+    alternativeKeywords: ['tender', 'weakness', 'gentleness', 'softness'],
+    number: 1312
   },
   {
     kanji: '務',
     keyword: 'task',
-    number: '1313'
+    alternativeKeywords: ['task', 'duties'],
+    number: 1313
   },
   {
     kanji: '霧',
     keyword: 'fog',
-    number: '1314'
+    alternativeKeywords: ['fog', 'mist'],
+    number: 1314
   },
   {
     kanji: '班',
     keyword: 'squad',
-    number: '1315'
+    alternativeKeywords: ['squad', 'corps', 'unit', 'group'],
+    number: 1315
   },
   {
     kanji: '帰',
     keyword: 'homecoming',
-    number: '1316'
+    alternativeKeywords: ['homecoming', 'arrive at', 'lead to', 'result in'],
+    number: 1316
   },
   {
     kanji: '弓',
     keyword: 'bow',
-    number: '1317'
+    alternativeKeywords: ['bow', 'bow (archery', 'violin)'],
+    number: 1317
   },
   {
     kanji: '引',
     keyword: 'pull',
-    number: '1318'
+    alternativeKeywords: [
+      'pull',
+      'tug',
+      'jerk',
+      'admit',
+      'install',
+      'quote',
+      'refer to'
+    ],
+    number: 1318
   },
   {
     kanji: '弔',
     keyword: 'condolences',
-    number: '1319'
+    alternativeKeywords: ['condolences', 'mourning', 'funeral'],
+    number: 1319
   },
   {
     kanji: '弘',
     keyword: 'vast',
-    number: '1320'
+    alternativeKeywords: ['vast', 'broad', 'wide'],
+    number: 1320
   },
   {
     kanji: '強',
     keyword: 'strong',
-    number: '1321'
+    alternativeKeywords: ['strong'],
+    number: 1321
   },
   {
     kanji: '弥',
     keyword: 'more and more',
-    number: '1322'
+    alternativeKeywords: ['all the more', 'increasingly'],
+    number: 1322
   },
   {
     kanji: '弱',
     keyword: 'weak',
-    number: '1323'
+    alternativeKeywords: ['weak', 'frail'],
+    number: 1323
   },
   {
     kanji: '溺',
     keyword: 'drowning',
-    number: '1324'
+    alternativeKeywords: ['drown', 'indulge'],
+    number: 1324
   },
   {
     kanji: '沸',
     keyword: 'seethe',
-    number: '1325'
+    alternativeKeywords: ['seethe', 'boil', 'ferment', 'uproar', 'breed'],
+    number: 1325
   },
   {
     kanji: '費',
     keyword: 'expense',
-    number: '1326'
+    alternativeKeywords: ['expense', 'cost', 'spend', 'consume', 'waste'],
+    number: 1326
   },
   {
     kanji: '第',
     keyword: 'No.',
-    number: '1327'
+    alternativeKeywords: ['No.', 'residence'],
+    number: 1327
   },
   {
     kanji: '弟',
     keyword: 'younger brother',
-    number: '1328'
+    alternativeKeywords: ['younger brother', 'faithful service to elders'],
+    number: 1328
   },
   {
     kanji: '巧',
     keyword: 'adroit',
-    number: '1329'
+    alternativeKeywords: ['adroit', 'skilled', 'ingenuity'],
+    number: 1329
   },
   {
     kanji: '号',
     keyword: 'nickname',
-    number: '1330'
+    alternativeKeywords: [
+      'nickname',
+      'number',
+      'item',
+      'title',
+      'pseudonym',
+      'name',
+      'call'
+    ],
+    number: 1330
   },
   {
     kanji: '朽',
     keyword: 'decay',
-    number: '1331'
+    alternativeKeywords: ['decay', 'rot', 'remain in seclusion'],
+    number: 1331
   },
   {
     kanji: '誇',
     keyword: 'boast',
-    number: '1332'
+    alternativeKeywords: ['boast', 'be proud', 'pride', 'triumphantly'],
+    number: 1332
   },
   {
     kanji: '顎',
     keyword: 'chin',
-    number: '1333'
+    alternativeKeywords: ['jaw', 'chin', 'gill'],
+    number: 1333
   },
   {
     kanji: '汚',
     keyword: 'dirty',
-    number: '1334'
+    alternativeKeywords: ['dirty', 'pollute', 'disgrace', 'rape', 'defile'],
+    number: 1334
   },
   {
     kanji: '与',
     keyword: 'bestow',
-    number: '1335'
+    alternativeKeywords: [
+      'bestow',
+      'participate in',
+      'give',
+      'award',
+      'impart',
+      'provide',
+      'cause',
+      'gift',
+      'godsend'
+    ],
+    number: 1335
   },
   {
     kanji: '写',
     keyword: 'copy',
-    number: '1336'
+    alternativeKeywords: ['copy', 'be photographed', 'describe'],
+    number: 1336
   },
   {
     kanji: '身',
     keyword: 'somebody',
-    number: '1337'
+    alternativeKeywords: ['somebody', 'person', "one's station in life"],
+    number: 1337
   },
   {
     kanji: '射',
     keyword: 'shoot',
-    number: '1338'
+    alternativeKeywords: ['shoot', 'shine into', 'onto', 'archery'],
+    number: 1338
   },
   {
     kanji: '謝',
     keyword: 'apologize',
-    number: '1339'
+    alternativeKeywords: ['apologize', 'thank', 'refuse'],
+    number: 1339
   },
   {
     kanji: '老',
     keyword: 'old man',
-    number: '1340'
+    alternativeKeywords: ['old man', 'old age', 'grow old'],
+    number: 1340
   },
   {
     kanji: '考',
     keyword: 'consider',
-    number: '1341'
+    alternativeKeywords: ['consider', 'think over'],
+    number: 1341
   },
   {
     kanji: '孝',
     keyword: 'filial piety',
-    number: '1342'
+    alternativeKeywords: ['filial piety', "child's respect"],
+    number: 1342
   },
   {
     kanji: '教',
     keyword: 'teach',
-    number: '1343'
+    alternativeKeywords: ['teach', 'faith', 'doctrine'],
+    number: 1343
   },
   {
     kanji: '拷',
     keyword: 'torture',
-    number: '1344'
+    alternativeKeywords: ['torture', 'beat'],
+    number: 1344
   },
   {
     kanji: '者',
     keyword: 'someone',
-    number: '1345'
+    alternativeKeywords: ['someone', 'person'],
+    number: 1345
   },
   {
     kanji: '煮',
     keyword: 'boil',
-    number: '1346'
+    alternativeKeywords: ['boil', 'cook'],
+    number: 1346
   },
   {
     kanji: '著',
     keyword: 'renowned',
-    number: '1347'
+    alternativeKeywords: [
+      'renowned',
+      'publish',
+      'write',
+      'remarkable',
+      'phenomenal',
+      'put on',
+      'don',
+      'wear',
+      'arrival',
+      'finish (race)',
+      'counter for suits of clothing',
+      'literary work'
+    ],
+    number: 1347
   },
   {
     kanji: '箸',
     keyword: 'chopsticks',
-    number: '1348'
+    alternativeKeywords: ['chopsticks'],
+    number: 1348
   },
   {
     kanji: '署',
     keyword: 'signature',
-    number: '1349'
+    alternativeKeywords: ['signature', 'govt office', 'police station'],
+    number: 1349
   },
   {
     kanji: '暑',
     keyword: 'sultry',
-    number: '1350'
+    alternativeKeywords: ['sultry', 'hot', 'summer heat'],
+    number: 1350
   },
   {
     kanji: '諸',
     keyword: 'various',
-    number: '1351'
+    alternativeKeywords: ['various', 'many', 'several', 'together'],
+    number: 1351
   },
-  {
-    kanji: '猪',
-    keyword: 'boar',
-    number: '1352'
-  },
+  { kanji: '猪', keyword: 'boar', alternativeKeywords: ['boar'], number: 1352 },
   {
     kanji: '渚',
     keyword: 'strand',
-    number: '1353'
+    alternativeKeywords: ['strand', 'beach', 'shore'],
+    number: 1353
   },
   {
     kanji: '賭',
     keyword: 'gamble',
-    number: '1354'
+    alternativeKeywords: ['gamble', 'wager', 'bet'],
+    number: 1354
   },
   {
     kanji: '峡',
     keyword: 'gorge',
-    number: '1355'
+    alternativeKeywords: ['gorge', 'ravine'],
+    number: 1355
   },
   {
     kanji: '狭',
     keyword: 'cramped',
-    number: '1356'
+    alternativeKeywords: ['cramped', 'narrow', 'contract', 'tight'],
+    number: 1356
   },
   {
     kanji: '挟',
     keyword: 'sandwiched',
-    number: '1357'
+    alternativeKeywords: ['pinch', 'between'],
+    number: 1357
   },
   {
     kanji: '頰',
     keyword: 'cheek',
-    number: '1358'
+    alternativeKeywords: ['cheeks', 'jaw'],
+    number: 1358
   },
   {
     kanji: '追',
     keyword: 'chase',
-    number: '1359'
+    alternativeKeywords: [
+      'chase',
+      'drive away',
+      'follow',
+      'pursue',
+      'meanwhile'
+    ],
+    number: 1359
   },
   {
     kanji: '阜',
     keyword: 'large hill',
-    number: '1360'
+    alternativeKeywords: ['hill', 'mound', 'left village radical (no. 170)'],
+    number: 1360
   },
   {
     kanji: '師',
     keyword: 'expert',
-    number: '1361'
+    alternativeKeywords: [
+      'expert',
+      'teacher',
+      'master',
+      'model',
+      'exemplar',
+      'army (incl. counter)',
+      'war'
+    ],
+    number: 1361
   },
   {
     kanji: '帥',
     keyword: 'commander',
-    number: '1362'
+    alternativeKeywords: ['commander', 'leading troops', 'governor'],
+    number: 1362
   },
   {
     kanji: '官',
     keyword: 'bureaucrat',
-    number: '1363'
+    alternativeKeywords: ['bureaucrat', 'the government', 'organ'],
+    number: 1363
   },
   {
     kanji: '棺',
     keyword: 'coffin',
-    number: '1364'
+    alternativeKeywords: ['coffin', 'casket'],
+    number: 1364
   },
   {
     kanji: '管',
     keyword: 'pipe',
-    number: '1365'
+    alternativeKeywords: [
+      'pipe',
+      'tube',
+      'wind instrument',
+      'drunken talk',
+      'control',
+      'jurisdiction'
+    ],
+    number: 1365
   },
   {
     kanji: '父',
     keyword: 'father',
-    number: '1366'
+    alternativeKeywords: ['father'],
+    number: 1366
   },
   {
     kanji: '釜',
     keyword: 'cauldron',
-    number: '1367'
+    alternativeKeywords: ['kettle', 'cauldron', 'iron pot'],
+    number: 1367
   },
   {
     kanji: '交',
     keyword: 'mingle',
-    number: '1368'
+    alternativeKeywords: ['mingle', 'mixing', 'association', 'coming & going'],
+    number: 1368
   },
   {
     kanji: '効',
     keyword: 'merit',
-    number: '1369'
+    alternativeKeywords: ['merit', 'efficacy', 'efficiency', 'benefit'],
+    number: 1369
   },
   {
     kanji: '較',
     keyword: 'contrast',
-    number: '1370'
+    alternativeKeywords: ['contrast', 'compare'],
+    number: 1370
   },
   {
     kanji: '校',
     keyword: 'exam',
-    number: '1371'
+    alternativeKeywords: ['exam', 'school', 'printing', 'proof', 'correction'],
+    number: 1371
   },
   {
     kanji: '足',
     keyword: 'leg',
-    number: '1372'
+    alternativeKeywords: [
+      'leg',
+      'foot',
+      'be sufficient',
+      'counter for pairs of footwear'
+    ],
+    number: 1372
   },
   {
     kanji: '促',
     keyword: 'stimulate',
-    number: '1373'
+    alternativeKeywords: ['stimulate', 'urge', 'press', 'demand', 'incite'],
+    number: 1373
   },
   {
     kanji: '捉',
     keyword: 'nab',
-    number: '1374'
+    alternativeKeywords: ['catch', 'capture'],
+    number: 1374
   },
   {
     kanji: '距',
     keyword: 'long-distance',
-    number: '1375'
+    alternativeKeywords: ['long-distance', 'spur', 'fetlock'],
+    number: 1375
   },
   {
     kanji: '路',
     keyword: 'path',
-    number: '1376'
+    alternativeKeywords: ['path', 'route', 'road', 'distance'],
+    number: 1376
   },
   {
     kanji: '露',
     keyword: 'dew',
-    number: '1377'
+    alternativeKeywords: ['dew', 'tears', 'expose', 'Russia'],
+    number: 1377
   },
   {
     kanji: '跳',
     keyword: 'hop',
-    number: '1378'
+    alternativeKeywords: [
+      'hop',
+      'leap up',
+      'spring',
+      'jerk',
+      'prance',
+      'buck',
+      'splash',
+      'sputter',
+      'snap'
+    ],
+    number: 1378
   },
   {
     kanji: '躍',
     keyword: 'leap',
-    number: '1379'
+    alternativeKeywords: ['leap', 'dance', 'skip'],
+    number: 1379
   },
   {
     kanji: '践',
     keyword: 'tread',
-    number: '1380'
+    alternativeKeywords: [
+      'tread',
+      'step on',
+      'trample',
+      'practice',
+      'carry through'
+    ],
+    number: 1380
   },
   {
     kanji: '踏',
     keyword: 'step',
-    number: '1381'
+    alternativeKeywords: [
+      'step',
+      'trample',
+      'carry through',
+      'appraise',
+      'evade payment'
+    ],
+    number: 1381
   },
   {
     kanji: '踪',
     keyword: 'trail',
-    number: '1382'
+    alternativeKeywords: ['remains', 'clue', 'footprint'],
+    number: 1382
   },
   {
     kanji: '骨',
     keyword: 'skeleton',
-    number: '1383'
+    alternativeKeywords: ['skeleton', 'bone', 'remains', 'frame'],
+    number: 1383
   },
   {
     kanji: '滑',
     keyword: 'slippery',
-    number: '1384'
+    alternativeKeywords: ['slippery', 'slide', 'slip', 'flunk'],
+    number: 1384
   },
   {
     kanji: '髄',
     keyword: 'marrow',
-    number: '1385'
+    alternativeKeywords: ['marrow', 'pith', 'essence'],
+    number: 1385
   },
   {
     kanji: '禍',
     keyword: 'calamity',
-    number: '1386'
+    alternativeKeywords: ['calamity', 'misfortune', 'evil', 'curse'],
+    number: 1386
   },
   {
     kanji: '渦',
     keyword: 'whirlpool',
-    number: '1387'
+    alternativeKeywords: ['whirlpool', 'eddy', 'vortex'],
+    number: 1387
   },
   {
     kanji: '鍋',
     keyword: 'pot',
-    number: '1388'
+    alternativeKeywords: ['pot', 'pan', 'kettle'],
+    number: 1388
   },
   {
     kanji: '過',
     keyword: 'overdo',
-    number: '1389'
+    alternativeKeywords: ['overdo', 'exceed', 'go beyond', 'error'],
+    number: 1389
   },
   {
     kanji: '阪',
     keyword: 'Heights',
-    number: '1390'
+    alternativeKeywords: ['heights', 'slope'],
+    number: 1390
   },
   {
     kanji: '阿',
     keyword: 'Africa',
-    number: '1391'
+    alternativeKeywords: [
+      'Africa',
+      'flatter',
+      'fawn upon',
+      'corner',
+      'nook',
+      'recess'
+    ],
+    number: 1391
   },
   {
     kanji: '際',
     keyword: 'occasion',
-    number: '1392'
+    alternativeKeywords: [
+      'occasion',
+      'side',
+      'edge',
+      'verge',
+      'dangerous',
+      'adventurous',
+      'indecent',
+      'time',
+      'when'
+    ],
+    number: 1392
   },
   {
     kanji: '障',
     keyword: 'hinder',
-    number: '1393'
+    alternativeKeywords: ['hinder', 'hurt', 'harm'],
+    number: 1393
   },
   {
     kanji: '隙',
     keyword: 'chink',
-    number: '1394'
+    alternativeKeywords: [
+      'crevice',
+      'fissure',
+      'discord',
+      'opportunity',
+      'leisure'
+    ],
+    number: 1394
   },
   {
     kanji: '随',
     keyword: 'follow',
-    number: '1395'
+    alternativeKeywords: [
+      'follow',
+      'though',
+      'notwithstanding',
+      'while',
+      'during',
+      'both',
+      'all',
+      'obey',
+      'submit to',
+      'comply',
+      'at the mercy of (the waves)'
+    ],
+    number: 1395
   },
   {
     kanji: '陪',
     keyword: 'auxiliary',
-    number: '1396'
+    alternativeKeywords: ['obeisance', 'follow', 'accompany', 'attend on'],
+    number: 1396
   },
   {
     kanji: '陽',
     keyword: 'sunshine',
-    number: '1397'
+    alternativeKeywords: [
+      'sunshine',
+      'yang principle',
+      'positive',
+      'male',
+      'heaven',
+      'daytime'
+    ],
+    number: 1397
   },
   {
     kanji: '陳',
     keyword: 'line up',
-    number: '1398'
+    alternativeKeywords: ['exhibit', 'state', 'relate', 'explain'],
+    number: 1398
   },
   {
     kanji: '防',
     keyword: 'ward off',
-    number: '1399'
+    alternativeKeywords: ['ward off', 'defend', 'protect', 'resist'],
+    number: 1399
   },
   {
     kanji: '附',
     keyword: 'affixed',
-    number: '1400'
+    alternativeKeywords: ['affixed', 'attach', 'refer to', 'append'],
+    number: 1400
   },
   {
     kanji: '院',
     keyword: 'Inst.',
-    number: '1401'
+    alternativeKeywords: [
+      'Inst.',
+      'institution',
+      'temple',
+      'mansion',
+      'school'
+    ],
+    number: 1401
   },
   {
     kanji: '陣',
     keyword: 'camp',
-    number: '1402'
+    alternativeKeywords: [
+      'camp',
+      'battle array',
+      'ranks',
+      'position',
+      'sudden',
+      'brief time'
+    ],
+    number: 1402
   },
   {
     kanji: '隊',
     keyword: 'regiment',
-    number: '1403'
+    alternativeKeywords: ['regiment', 'party', 'company', 'squad'],
+    number: 1403
   },
   {
     kanji: '墜',
     keyword: 'crash',
-    number: '1404'
+    alternativeKeywords: ['crash', 'fall (down)'],
+    number: 1404
   },
   {
     kanji: '降',
     keyword: 'descend',
-    number: '1405'
+    alternativeKeywords: ['descend', 'precipitate', 'fall', 'surrender'],
+    number: 1405
   },
   {
     kanji: '階',
     keyword: 'story',
-    number: '1406'
+    alternativeKeywords: [
+      'storey',
+      'stair',
+      'counter for storeys of a building'
+    ],
+    number: 1406
   },
   {
     kanji: '陛',
     keyword: 'highness',
-    number: '1407'
+    alternativeKeywords: ['highness', 'steps (of throne)'],
+    number: 1407
   },
   {
     kanji: '隣',
     keyword: 'neighboring',
-    number: '1408'
+    alternativeKeywords: ['neighboring'],
+    number: 1408
   },
   {
     kanji: '隔',
     keyword: 'isolate',
-    number: '1409'
+    alternativeKeywords: [
+      'isolate',
+      'alternate',
+      'distance',
+      'separate',
+      'gulf'
+    ],
+    number: 1409
   },
   {
     kanji: '隠',
     keyword: 'conceal',
-    number: '1410'
+    alternativeKeywords: ['conceal', 'hide', 'cover'],
+    number: 1410
   },
   {
     kanji: '堕',
     keyword: 'degenerate',
-    number: '1411'
+    alternativeKeywords: ['degenerate', 'descend to', 'lapse into'],
+    number: 1411
   },
   {
     kanji: '陥',
     keyword: 'collapse',
-    number: '1412'
+    alternativeKeywords: [
+      'collapse',
+      'fall into',
+      'cave in',
+      'fall (castle)',
+      'slide into'
+    ],
+    number: 1412
   },
   {
     kanji: '穴',
     keyword: 'hole',
-    number: '1413'
+    alternativeKeywords: ['hole', 'aperture', 'slit', 'cave', 'den'],
+    number: 1413
   },
   {
     kanji: '空',
     keyword: 'empty',
-    number: '1414'
+    alternativeKeywords: ['empty', 'sky', 'void', 'vacant', 'vacuum'],
+    number: 1414
   },
   {
     kanji: '控',
     keyword: 'withdraw',
-    number: '1415'
+    alternativeKeywords: [
+      'withdraw',
+      'draw in',
+      'hold back',
+      'refrain from',
+      'be moderate'
+    ],
+    number: 1415
   },
   {
     kanji: '突',
     keyword: 'stab',
-    number: '1416'
+    alternativeKeywords: [
+      'stab',
+      'protruding',
+      'thrust',
+      'pierce',
+      'prick',
+      'collision',
+      'sudden'
+    ],
+    number: 1416
   },
   {
     kanji: '究',
     keyword: 'research',
-    number: '1417'
+    alternativeKeywords: ['research', 'study'],
+    number: 1417
   },
   {
     kanji: '窒',
     keyword: 'plug up',
-    number: '1418'
+    alternativeKeywords: ['plug up', 'obstruct'],
+    number: 1418
   },
   {
     kanji: '窃',
     keyword: 'stealth',
-    number: '1419'
+    alternativeKeywords: ['stealth', 'steal', 'secret', 'private', 'hushed'],
+    number: 1419
   },
   {
     kanji: '窟',
     keyword: 'cavern',
-    number: '1420'
+    alternativeKeywords: ['cavern'],
+    number: 1420
   },
   {
     kanji: '窪',
     keyword: 'depression',
-    number: '1421'
+    alternativeKeywords: ['depression', 'cave in', 'sink', 'become hollow'],
+    number: 1421
   },
   {
     kanji: '搾',
     keyword: 'squeeze',
-    number: '1422'
+    alternativeKeywords: ['squeeze'],
+    number: 1422
   },
   {
     kanji: '窯',
     keyword: 'kiln',
-    number: '1423'
+    alternativeKeywords: ['kiln', 'oven', 'furnace'],
+    number: 1423
   },
   {
     kanji: '窮',
     keyword: 'hard up',
-    number: '1424'
+    alternativeKeywords: [
+      'hard up',
+      'destitute',
+      'suffer',
+      'perplexed',
+      'cornered'
+    ],
+    number: 1424
   },
   {
     kanji: '探',
     keyword: 'grope',
-    number: '1425'
+    alternativeKeywords: ['grope', 'search', 'look for'],
+    number: 1425
   },
   {
     kanji: '深',
     keyword: 'deep',
-    number: '1426'
+    alternativeKeywords: ['deep', 'heighten', 'intensify', 'strengthen'],
+    number: 1426
   },
   {
     kanji: '丘',
     keyword: 'hill',
-    number: '1427'
+    alternativeKeywords: ['hill', 'knoll'],
+    number: 1427
   },
   {
     kanji: '岳',
     keyword: 'Point',
-    number: '1428'
+    alternativeKeywords: ['point', 'peak', 'mountain'],
+    number: 1428
   },
   {
     kanji: '兵',
     keyword: 'soldier',
-    number: '1429'
+    alternativeKeywords: [
+      'soldier',
+      'private',
+      'troops',
+      'army',
+      'warfare',
+      'strategy',
+      'tactics'
+    ],
+    number: 1429
   },
   {
     kanji: '浜',
     keyword: 'seacoast',
-    number: '1430'
+    alternativeKeywords: ['seacoast', 'beach', 'seashore'],
+    number: 1430
   },
   {
     kanji: '糸',
     keyword: 'thread',
-    number: '1431'
+    alternativeKeywords: ['thread'],
+    number: 1431
   },
   {
     kanji: '織',
     keyword: 'weave',
-    number: '1432'
+    alternativeKeywords: ['weave', 'fabric'],
+    number: 1432
   },
   {
     kanji: '繕',
     keyword: 'darning',
-    number: '1433'
+    alternativeKeywords: [
+      'darning',
+      'repair',
+      'mend',
+      'trim',
+      'tidy up',
+      'adjust'
+    ],
+    number: 1433
   },
   {
     kanji: '縮',
     keyword: 'shrink',
-    number: '1434'
+    alternativeKeywords: ['shrink', 'contract', 'shrivel', 'wrinkle', 'reduce'],
+    number: 1434
   },
   {
     kanji: '繁',
     keyword: 'luxuriant',
-    number: '1435'
+    alternativeKeywords: [
+      'luxuriant',
+      'thick',
+      'overgrown',
+      'frequency',
+      'complexity',
+      'trouble'
+    ],
+    number: 1435
   },
   {
     kanji: '縦',
     keyword: 'vertical',
-    number: '1436'
+    alternativeKeywords: [
+      'vertical',
+      'length',
+      'height',
+      'self-indulgent',
+      'wayward'
+    ],
+    number: 1436
   },
   {
     kanji: '緻',
     keyword: 'fine',
-    number: '1437'
+    alternativeKeywords: ['fine (i.e. not coarse)'],
+    number: 1437
   },
   {
     kanji: '線',
     keyword: 'line',
-    number: '1438'
+    alternativeKeywords: ['line', 'track'],
+    number: 1438
   },
   {
     kanji: '綻',
     keyword: 'come apart at the seams',
-    number: '1439'
+    alternativeKeywords: [
+      'be rent',
+      'ripped',
+      'unravel',
+      'run',
+      'begin to open',
+      'smile'
+    ],
+    number: 1439
   },
   {
     kanji: '締',
     keyword: 'tighten',
-    number: '1440'
+    alternativeKeywords: ['tighten', 'tie', 'shut', 'lock', 'fasten'],
+    number: 1440
   },
   {
     kanji: '維',
     keyword: 'fiber',
-    number: '1441'
+    alternativeKeywords: ['fiber', 'tie', 'rope'],
+    number: 1441
   },
   {
     kanji: '羅',
     keyword: 'gauze',
-    number: '1442'
+    alternativeKeywords: [
+      'gauze',
+      'thin silk',
+      'Rome',
+      'arrange',
+      'spread out'
+    ],
+    number: 1442
   },
   {
     kanji: '練',
     keyword: 'practice',
-    number: '1443'
+    alternativeKeywords: [
+      'practice',
+      'gloss',
+      'train',
+      'drill',
+      'polish',
+      'refine'
+    ],
+    number: 1443
   },
   {
     kanji: '緒',
     keyword: 'thong',
-    number: '1444'
+    alternativeKeywords: [
+      'thong',
+      'beginning',
+      'inception',
+      'end',
+      'cord',
+      'strap',
+      'mental or emotional state'
+    ],
+    number: 1444
   },
   {
     kanji: '続',
     keyword: 'continue',
-    number: '1445'
+    alternativeKeywords: ['continue', 'series', 'sequel'],
+    number: 1445
   },
   {
     kanji: '絵',
     keyword: 'picture',
-    number: '1446'
+    alternativeKeywords: ['picture', 'drawing', 'painting', 'sketch'],
+    number: 1446
   },
   {
     kanji: '統',
     keyword: 'overall',
-    number: '1447'
+    alternativeKeywords: ['overall', 'relationship', 'ruling', 'governing'],
+    number: 1447
   },
   {
     kanji: '絞',
     keyword: 'strangle',
-    number: '1448'
+    alternativeKeywords: ['strangle', 'constrict', 'wring'],
+    number: 1448
   },
   {
     kanji: '給',
     keyword: 'salary',
-    number: '1449'
+    alternativeKeywords: [
+      'salary',
+      'wage',
+      'gift',
+      'allow',
+      'grant',
+      'bestow on'
+    ],
+    number: 1449
   },
   {
     kanji: '絡',
     keyword: 'entwine',
-    number: '1450'
+    alternativeKeywords: ['entwine', 'coil around', 'get caught in'],
+    number: 1450
   },
   {
     kanji: '結',
     keyword: 'tie',
-    number: '1451'
+    alternativeKeywords: [
+      'tie',
+      'bind',
+      'contract',
+      'join',
+      'organize',
+      'do up hair',
+      'fasten'
+    ],
+    number: 1451
   },
   {
     kanji: '終',
     keyword: 'end',
-    number: '1452'
+    alternativeKeywords: ['end', 'finish'],
+    number: 1452
   },
   {
     kanji: '級',
     keyword: 'class',
-    number: '1453'
+    alternativeKeywords: ['class', 'rank', 'grade'],
+    number: 1453
   },
   {
     kanji: '紀',
     keyword: 'chronicle',
-    number: '1454'
+    alternativeKeywords: [
+      'chronicle',
+      'account',
+      'narrative',
+      'history',
+      'annals',
+      'geologic period'
+    ],
+    number: 1454
   },
   {
     kanji: '紅',
     keyword: 'crimson',
-    number: '1455'
+    alternativeKeywords: ['crimson', 'deep red'],
+    number: 1455
   },
   {
     kanji: '納',
     keyword: 'settlement',
-    number: '1456'
+    alternativeKeywords: [
+      'settlement',
+      'obtain',
+      'reap',
+      'pay',
+      'supply',
+      'store'
+    ],
+    number: 1456
   },
   {
     kanji: '紡',
     keyword: 'spinning',
-    number: '1457'
+    alternativeKeywords: ['spinning'],
+    number: 1457
   },
   {
     kanji: '紛',
     keyword: 'distract',
-    number: '1458'
+    alternativeKeywords: ['distract', 'be mistaken for', 'go astray', 'divert'],
+    number: 1458
   },
   {
     kanji: '紹',
     keyword: 'introduce',
-    number: '1459'
+    alternativeKeywords: ['introduce', 'inherit', 'help'],
+    number: 1459
   },
   {
     kanji: '経',
     keyword: 'sūtra',
-    number: '1460'
+    alternativeKeywords: ['sutra', 'longitude', 'pass thru', 'expire', 'warp'],
+    number: 1460
   },
   {
     kanji: '紳',
     keyword: 'sire',
-    number: '1461'
+    alternativeKeywords: ['sire', 'good belt', 'gentleman'],
+    number: 1461
   },
   {
     kanji: '約',
     keyword: 'promise',
-    number: '1462'
+    alternativeKeywords: ['promise', 'approximately', 'shrink'],
+    number: 1462
   },
   {
     kanji: '細',
     keyword: 'dainty',
-    number: '1463'
+    alternativeKeywords: [
+      'dainty',
+      'get thin',
+      'taper',
+      'slender',
+      'narrow',
+      'detailed',
+      'precise'
+    ],
+    number: 1463
   },
   {
     kanji: '累',
     keyword: 'accumulate',
-    number: '1464'
+    alternativeKeywords: [
+      'accumulate',
+      'involvement',
+      'trouble',
+      'tie up',
+      'continually'
+    ],
+    number: 1464
   },
   {
     kanji: '索',
     keyword: 'cord',
-    number: '1465'
+    alternativeKeywords: ['cord', 'rope', 'searching', 'inquiring'],
+    number: 1465
   },
   {
     kanji: '総',
     keyword: 'general',
-    number: '1466'
+    alternativeKeywords: ['general', 'whole', 'all', 'full', 'total'],
+    number: 1466
   },
   {
     kanji: '綿',
     keyword: 'cotton',
-    number: '1467'
+    alternativeKeywords: ['cotton'],
+    number: 1467
   },
-  {
-    kanji: '絹',
-    keyword: 'silk',
-    number: '1468'
-  },
+  { kanji: '絹', keyword: 'silk', alternativeKeywords: ['silk'], number: 1468 },
   {
     kanji: '繰',
     keyword: 'winding',
-    number: '1469'
+    alternativeKeywords: [
+      'winding',
+      'reel',
+      'spin',
+      'turn (pages)',
+      'look up',
+      'refer to'
+    ],
+    number: 1469
   },
   {
     kanji: '継',
     keyword: 'inherit',
-    number: '1470'
+    alternativeKeywords: [
+      'inherit',
+      'succeed',
+      'continue',
+      'patch',
+      'graft (tree)'
+    ],
+    number: 1470
   },
   {
     kanji: '緑',
     keyword: 'green',
-    number: '1471'
+    alternativeKeywords: ['green'],
+    number: 1471
   },
   {
     kanji: '縁',
     keyword: 'affinity',
-    number: '1472'
+    alternativeKeywords: [
+      'affinity',
+      'relation',
+      'connection',
+      'edge',
+      'border',
+      'verge',
+      'brink'
+    ],
+    number: 1472
   },
   {
     kanji: '網',
     keyword: 'netting',
-    number: '1473'
+    alternativeKeywords: ['netting', 'network'],
+    number: 1473
   },
   {
     kanji: '緊',
     keyword: 'tense',
-    number: '1474'
+    alternativeKeywords: ['tense', 'solid', 'hard', 'reliable', 'tight'],
+    number: 1474
   },
   {
     kanji: '紫',
     keyword: 'purple',
-    number: '1475'
+    alternativeKeywords: ['purple', 'violet'],
+    number: 1475
   },
   {
     kanji: '縛',
     keyword: 'truss',
-    number: '1476'
+    alternativeKeywords: ['truss', 'arrest', 'bind', 'tie', 'restrain'],
+    number: 1476
   },
   {
     kanji: '縄',
     keyword: 'straw rope',
-    number: '1477'
+    alternativeKeywords: ['straw rope', 'cord'],
+    number: 1477
   },
   {
     kanji: '幼',
     keyword: 'infancy',
-    number: '1478'
+    alternativeKeywords: ['infancy', 'childhood'],
+    number: 1478
   },
   {
     kanji: '後',
     keyword: 'behind',
-    number: '1479'
+    alternativeKeywords: ['behind', 'back', 'later'],
+    number: 1479
   },
   {
     kanji: '幽',
     keyword: 'faint',
-    number: '1480'
+    alternativeKeywords: [
+      'seclude',
+      'confine to a room',
+      'deep',
+      'profound',
+      'secluded',
+      'faint',
+      'dark',
+      'tranquil',
+      'calm'
+    ],
+    number: 1480
   },
   {
     kanji: '幾',
     keyword: 'how many',
-    number: '1481'
+    alternativeKeywords: [
+      'how many',
+      'how much',
+      'how far',
+      'how long',
+      'some',
+      'several'
+    ],
+    number: 1481
   },
   {
     kanji: '機',
     keyword: 'mechanism',
-    number: '1482'
+    alternativeKeywords: [
+      'loom',
+      'mechanism',
+      'machine',
+      'airplane',
+      'opportunity',
+      'potency',
+      'efficacy',
+      'occasion'
+    ],
+    number: 1482
   },
   {
     kanji: '畿',
     keyword: 'capital suburbs',
-    number: '1483'
+    alternativeKeywords: ['capital', 'suburbs of capital'],
+    number: 1483
   },
   {
     kanji: '玄',
     keyword: 'mysterious',
-    number: '1484'
+    alternativeKeywords: [
+      'mysterious',
+      'occultness',
+      'black',
+      'deep',
+      'profound'
+    ],
+    number: 1484
   },
   {
     kanji: '畜',
     keyword: 'livestock',
-    number: '1485'
+    alternativeKeywords: ['livestock', 'domestic fowl and animals'],
+    number: 1485
   },
   {
     kanji: '蓄',
     keyword: 'amass',
-    number: '1486'
+    alternativeKeywords: ['amass', 'raise', 'hoard', 'store'],
+    number: 1486
   },
   {
     kanji: '弦',
     keyword: 'bowstring',
-    number: '1487'
+    alternativeKeywords: ['bowstring', 'chord', 'hypotenuse'],
+    number: 1487
   },
   {
     kanji: '擁',
     keyword: 'hug',
-    number: '1488'
+    alternativeKeywords: ['hug', 'embrace', 'possess', 'protect', 'lead'],
+    number: 1488
   },
   {
     kanji: '滋',
     keyword: 'nourishing',
-    number: '1489'
+    alternativeKeywords: [
+      'nourishing',
+      'more & more',
+      'be luxuriant',
+      'planting',
+      'turbidity'
+    ],
+    number: 1489
   },
   {
     kanji: '慈',
     keyword: 'mercy',
-    number: '1490'
+    alternativeKeywords: ['mercy'],
+    number: 1490
   },
   {
     kanji: '磁',
     keyword: 'magnet',
-    number: '1491'
+    alternativeKeywords: ['magnet', 'porcelain'],
+    number: 1491
   },
   {
     kanji: '系',
     keyword: 'lineage',
-    number: '1492'
+    alternativeKeywords: ['lineage', 'system'],
+    number: 1492
   },
   {
     kanji: '係',
     keyword: 'person in charge',
-    number: '1493'
+    alternativeKeywords: [
+      'person in charge',
+      'connection',
+      'duty',
+      'concern oneself'
+    ],
+    number: 1493
   },
   {
     kanji: '孫',
     keyword: 'grandchild',
-    number: '1494'
+    alternativeKeywords: ['grandchild', 'descendants'],
+    number: 1494
   },
   {
     kanji: '懸',
     keyword: 'suspend',
-    number: '1495'
+    alternativeKeywords: [
+      'state of suspension',
+      'hang',
+      'depend',
+      'consult',
+      'distant',
+      'far apart'
+    ],
+    number: 1495
   },
   {
     kanji: '遜',
     keyword: 'modest',
-    number: '1496'
+    alternativeKeywords: ['humble', 'modest'],
+    number: 1496
   },
   {
     kanji: '却',
     keyword: 'instead',
-    number: '1497'
+    alternativeKeywords: [
+      'instead',
+      'on the contrary',
+      'rather',
+      'step back',
+      'withdraw',
+      'retreat'
+    ],
+    number: 1497
   },
   {
     kanji: '脚',
     keyword: 'shins',
-    number: '1498'
+    alternativeKeywords: [
+      'skids',
+      'leg',
+      'undercarriage',
+      'lower part',
+      'base'
+    ],
+    number: 1498
   },
   {
     kanji: '卸',
     keyword: 'wholesale',
-    number: '1499'
+    alternativeKeywords: ['wholesale'],
+    number: 1499
   },
   {
     kanji: '御',
     keyword: 'honorable',
-    number: '1500'
+    alternativeKeywords: ['honorable', 'manipulate', 'govern'],
+    number: 1500
   },
   {
     kanji: '服',
     keyword: 'clothing',
-    number: '1501'
+    alternativeKeywords: ['clothing', 'admit', 'obey', 'discharge'],
+    number: 1501
   },
   {
     kanji: '命',
     keyword: 'fate',
-    number: '1502'
+    alternativeKeywords: [
+      'fate',
+      'command',
+      'decree',
+      'destiny',
+      'life',
+      'appoint'
+    ],
+    number: 1502
   },
   {
     kanji: '令',
     keyword: 'orders',
-    number: '1503'
+    alternativeKeywords: ['orders', 'laws', 'command', 'decree', 'good'],
+    number: 1503
   },
   {
     kanji: '零',
     keyword: 'zero',
-    number: '1504'
+    alternativeKeywords: ['zero', 'spill', 'overflow', 'nothing', 'cipher'],
+    number: 1504
   },
-  {
-    kanji: '齢',
-    keyword: 'age',
-    number: '1505'
-  },
+  { kanji: '齢', keyword: 'age', alternativeKeywords: ['age'], number: 1505 },
   {
     kanji: '冷',
     keyword: 'cool',
-    number: '1506'
+    alternativeKeywords: ['cool', 'cold (beer', 'person)', 'chill'],
+    number: 1506
   },
   {
     kanji: '領',
     keyword: 'jurisdiction',
-    number: '1507'
+    alternativeKeywords: [
+      'jurisdiction',
+      'dominion',
+      'territory',
+      'fief',
+      'reign'
+    ],
+    number: 1507
   },
   {
     kanji: '鈴',
     keyword: 'small bell',
-    number: '1508'
+    alternativeKeywords: ['small bell', 'buzzer'],
+    number: 1508
   },
   {
     kanji: '勇',
     keyword: 'courage',
-    number: '1509'
+    alternativeKeywords: [
+      'courage',
+      'cheer up',
+      'be in high spirits',
+      'bravery',
+      'heroism'
+    ],
+    number: 1509
   },
   {
     kanji: '湧',
     keyword: 'bubble up',
-    number: '1510'
+    alternativeKeywords: ['boil', 'ferment', 'seethe', 'uproar', 'breed'],
+    number: 1510
   },
   {
     kanji: '通',
     keyword: 'traffic',
-    number: '1511'
+    alternativeKeywords: [
+      'traffic',
+      'pass through',
+      'avenue',
+      'commute',
+      'counter for letters',
+      'notes',
+      'documents',
+      'etc.'
+    ],
+    number: 1511
   },
   {
     kanji: '踊',
     keyword: 'jump',
-    number: '1512'
+    alternativeKeywords: ['jump', 'dance', 'leap', 'skip'],
+    number: 1512
   },
   {
     kanji: '疑',
     keyword: 'doubt',
-    number: '1513'
+    alternativeKeywords: ['doubt', 'distrust', 'be suspicious', 'question'],
+    number: 1513
   },
   {
     kanji: '擬',
     keyword: 'mimic',
-    number: '1514'
+    alternativeKeywords: ['mimic', 'aim (a gun) at', 'nominate', 'imitate'],
+    number: 1514
   },
   {
     kanji: '凝',
     keyword: 'congeal',
-    number: '1515'
+    alternativeKeywords: ['congeal', 'freeze', 'stiff', 'be absorbed in'],
+    number: 1515
   },
   {
     kanji: '範',
     keyword: 'pattern',
-    number: '1516'
+    alternativeKeywords: ['pattern', 'example', 'model'],
+    number: 1516
   },
   {
     kanji: '犯',
     keyword: 'crime',
-    number: '1517'
+    alternativeKeywords: ['crime', 'sin', 'offense'],
+    number: 1517
   },
   {
     kanji: '氾',
     keyword: 'widespread',
-    number: '1518'
+    alternativeKeywords: ['spread out', 'wide'],
+    number: 1518
   },
   {
     kanji: '厄',
     keyword: 'unlucky',
-    number: '1519'
+    alternativeKeywords: ['unlucky', 'misfortune', 'bad luck', 'disaster'],
+    number: 1519
   },
   {
     kanji: '危',
     keyword: 'dangerous',
-    number: '1520'
+    alternativeKeywords: ['dangerous', 'fear', 'uneasy'],
+    number: 1520
   },
   {
     kanji: '宛',
     keyword: 'address',
-    number: '1521'
+    alternativeKeywords: ['address', 'just like', 'fortunately'],
+    number: 1521
   },
   {
     kanji: '腕',
     keyword: 'arm',
-    number: '1522'
+    alternativeKeywords: ['arm', 'ability', 'talent'],
+    number: 1522
   },
   {
     kanji: '苑',
     keyword: 'garden',
-    number: '1523'
+    alternativeKeywords: ['garden', 'farm', 'park'],
+    number: 1523
   },
   {
     kanji: '怨',
     keyword: 'grudge',
-    number: '1524'
+    alternativeKeywords: ['grudge', 'show resentment', 'be jealous'],
+    number: 1524
   },
   {
     kanji: '柳',
     keyword: 'willow',
-    number: '1525'
+    alternativeKeywords: ['willow'],
+    number: 1525
   },
   {
     kanji: '卵',
     keyword: 'egg',
-    number: '1526'
+    alternativeKeywords: ['egg', 'ovum', 'spawn', 'roe'],
+    number: 1526
   },
   {
     kanji: '留',
     keyword: 'detain',
-    number: '1527'
+    alternativeKeywords: ['detain', 'fasten', 'halt', 'stop'],
+    number: 1527
   },
   {
     kanji: '瑠',
     keyword: 'marine blue',
-    number: '1528'
+    alternativeKeywords: ['lapis lazuli'],
+    number: 1528
   },
   {
     kanji: '貿',
     keyword: 'trade',
-    number: '1529'
+    alternativeKeywords: ['trade', 'exchange'],
+    number: 1529
   },
   {
     kanji: '印',
     keyword: 'stamp',
-    number: '1530'
+    alternativeKeywords: [
+      'stamp',
+      'seal',
+      'mark',
+      'imprint',
+      'symbol',
+      'emblem',
+      'trademark',
+      'evidence',
+      'souvenir',
+      'India'
+    ],
+    number: 1530
   },
   {
     kanji: '臼',
     keyword: 'mortar',
-    number: '1531'
+    alternativeKeywords: ['mortar'],
+    number: 1531
   },
   {
     kanji: '毀',
     keyword: 'break',
-    number: '1532'
+    alternativeKeywords: [
+      'break',
+      'destroy',
+      'censure',
+      'be chipped',
+      'be scratched',
+      'be broken',
+      'be ruined'
+    ],
+    number: 1532
   },
   {
     kanji: '興',
     keyword: 'entertain',
-    number: '1533'
+    alternativeKeywords: [
+      'entertain',
+      'revive',
+      'retrieve',
+      'interest',
+      'pleasure'
+    ],
+    number: 1533
   },
   {
     kanji: '酉',
     keyword: 'sign of the bird',
-    number: '1534'
+    alternativeKeywords: [
+      'west',
+      'bird',
+      'sign of the bird',
+      '5-7PM',
+      'tenth sign of Chinese zodiac',
+      'sake radical (no. 164)'
+    ],
+    number: 1534
   },
   {
     kanji: '酒',
     keyword: 'saké',
-    number: '1535'
+    alternativeKeywords: ['sake', 'alcohol'],
+    number: 1535
   },
   {
     kanji: '酌',
     keyword: 'bartending',
-    number: '1536'
+    alternativeKeywords: [
+      'bar-tending',
+      'serving sake',
+      'the host',
+      'draw (water)',
+      'ladle',
+      'scoop',
+      'pump'
+    ],
+    number: 1536
   },
   {
     kanji: '酎',
     keyword: 'hooch',
-    number: '1537'
+    alternativeKeywords: ['sake'],
+    number: 1537
   },
   {
     kanji: '酵',
     keyword: 'fermentation',
-    number: '1538'
+    alternativeKeywords: ['fermentation'],
+    number: 1538
   },
   {
     kanji: '酷',
     keyword: 'cruel',
-    number: '1539'
+    alternativeKeywords: ['cruel', 'severe', 'atrocious', 'unjust'],
+    number: 1539
   },
   {
     kanji: '酬',
     keyword: 'repay',
-    number: '1540'
+    alternativeKeywords: ['repay', 'reward', 'retribution'],
+    number: 1540
   },
   {
     kanji: '酪',
     keyword: 'dairy products',
-    number: '1541'
+    alternativeKeywords: ['dairy products', 'whey', 'broth', 'fruit juice'],
+    number: 1541
   },
   {
     kanji: '酢',
     keyword: 'vinegar',
-    number: '1542'
+    alternativeKeywords: ['vinegar', 'sour', 'acid', 'tart'],
+    number: 1542
   },
   {
     kanji: '酔',
     keyword: 'drunk',
-    number: '1543'
+    alternativeKeywords: [
+      'drunk',
+      'feel sick',
+      'poisoned',
+      'elated',
+      'spellbound'
+    ],
+    number: 1543
   },
   {
     kanji: '配',
     keyword: 'distribute',
-    number: '1544'
+    alternativeKeywords: ['distribute', 'spouse', 'exile', 'rationing'],
+    number: 1544
   },
   {
     kanji: '酸',
     keyword: 'acid',
-    number: '1545'
+    alternativeKeywords: ['acid', 'bitterness', 'sour', 'tart'],
+    number: 1545
   },
   {
     kanji: '猶',
     keyword: 'waver',
-    number: '1546'
+    alternativeKeywords: ['furthermore', 'still', 'yet'],
+    number: 1546
   },
   {
     kanji: '尊',
     keyword: 'revered',
-    number: '1547'
+    alternativeKeywords: [
+      'revered',
+      'valuable',
+      'precious',
+      'noble',
+      'exalted'
+    ],
+    number: 1547
   },
   {
     kanji: '豆',
     keyword: 'beans',
-    number: '1548'
+    alternativeKeywords: ['beans', 'pea', 'midget'],
+    number: 1548
   },
   {
     kanji: '頭',
     keyword: 'head',
-    number: '1549'
+    alternativeKeywords: ['head', 'counter for large animals'],
+    number: 1549
   },
   {
     kanji: '短',
     keyword: 'short',
-    number: '1550'
+    alternativeKeywords: ['short', 'brevity', 'fault', 'defect', 'weak point'],
+    number: 1550
   },
   {
     kanji: '豊',
     keyword: 'bountiful',
-    number: '1551'
+    alternativeKeywords: ['bountiful', 'excellent', 'rich'],
+    number: 1551
   },
   {
     kanji: '鼓',
     keyword: 'drum',
-    number: '1552'
+    alternativeKeywords: ['drum', 'beat', 'rouse', 'muster'],
+    number: 1552
   },
   {
     kanji: '喜',
     keyword: 'rejoice',
-    number: '1553'
+    alternativeKeywords: ['rejoice', 'take pleasure in'],
+    number: 1553
   },
   {
     kanji: '樹',
     keyword: 'timber-trees',
-    number: '1554'
+    alternativeKeywords: ['timber', 'trees', 'wood', 'establish', 'set up'],
+    number: 1554
   },
   {
     kanji: '皿',
     keyword: 'dish',
-    number: '1555'
+    alternativeKeywords: ['dish', 'a helping', 'plate'],
+    number: 1555
   },
   {
     kanji: '血',
     keyword: 'blood',
-    number: '1556'
+    alternativeKeywords: ['blood'],
+    number: 1556
   },
   {
     kanji: '盆',
     keyword: 'basin',
-    number: '1557'
+    alternativeKeywords: ['basin', 'lantern festival', 'tray'],
+    number: 1557
   },
   {
     kanji: '盟',
     keyword: 'alliance',
-    number: '1558'
+    alternativeKeywords: ['alliance', 'oath'],
+    number: 1558
   },
   {
     kanji: '盗',
     keyword: 'steal',
-    number: '1559'
+    alternativeKeywords: ['steal', 'rob', 'pilfer'],
+    number: 1559
   },
-  {
-    kanji: '温',
-    keyword: 'warm',
-    number: '1560'
-  },
+  { kanji: '温', keyword: 'warm', alternativeKeywords: ['warm'], number: 1560 },
   {
     kanji: '蓋',
     keyword: 'lid',
-    number: '1561'
+    alternativeKeywords: ['cover', 'lid', 'flap'],
+    number: 1561
   },
   {
     kanji: '監',
     keyword: 'oversee',
-    number: '1562'
+    alternativeKeywords: [
+      'oversee',
+      'official',
+      'govt office',
+      'rule',
+      'administer'
+    ],
+    number: 1562
   },
   {
     kanji: '濫',
     keyword: 'overflow',
-    number: '1563'
+    alternativeKeywords: ['excessive', 'overflow', 'spread out'],
+    number: 1563
   },
   {
     kanji: '鑑',
     keyword: 'specimen',
-    number: '1564'
+    alternativeKeywords: ['specimen', 'take warning from', 'learn from'],
+    number: 1564
   },
   {
     kanji: '藍',
     keyword: 'indigo',
-    number: '1565'
+    alternativeKeywords: ['indigo'],
+    number: 1565
   },
   {
     kanji: '猛',
     keyword: 'fierce',
-    number: '1566'
+    alternativeKeywords: [
+      'fierce',
+      'rave',
+      'rush',
+      'become furious',
+      'wildness',
+      'strength'
+    ],
+    number: 1566
   },
   {
     kanji: '盛',
     keyword: 'boom',
-    number: '1567'
+    alternativeKeywords: ['boom', 'prosper', 'copulate'],
+    number: 1567
   },
-  {
-    kanji: '塩',
-    keyword: 'salt',
-    number: '1568'
-  },
+  { kanji: '塩', keyword: 'salt', alternativeKeywords: ['salt'], number: 1568 },
   {
     kanji: '銀',
     keyword: 'silver',
-    number: '1569'
+    alternativeKeywords: ['silver'],
+    number: 1569
   },
   {
     kanji: '恨',
     keyword: 'resentment',
-    number: '1570'
+    alternativeKeywords: [
+      'regret',
+      'bear a grudge',
+      'resentment',
+      'malice',
+      'hatred'
+    ],
+    number: 1570
   },
   {
     kanji: '根',
     keyword: 'root',
-    number: '1571'
+    alternativeKeywords: ['root', 'radical', 'head (pimple)'],
+    number: 1571
   },
   {
     kanji: '即',
     keyword: 'instant',
-    number: '1572'
+    alternativeKeywords: [
+      'instant',
+      'namely',
+      'as is',
+      'conform',
+      'agree',
+      'adapt'
+    ],
+    number: 1572
   },
   {
     kanji: '爵',
     keyword: 'baron',
-    number: '1573'
+    alternativeKeywords: ['baron', 'peerage', 'court rank'],
+    number: 1573
   },
   {
     kanji: '節',
     keyword: 'node',
-    number: '1574'
+    alternativeKeywords: [
+      'node',
+      'season',
+      'period',
+      'occasion',
+      'verse',
+      'clause',
+      'stanza',
+      'honor',
+      'joint',
+      'knuckle',
+      'knob',
+      'knot',
+      'tune',
+      'melody'
+    ],
+    number: 1574
   },
   {
     kanji: '退',
     keyword: 'retreat',
-    number: '1575'
+    alternativeKeywords: [
+      'retreat',
+      'withdraw',
+      'retire',
+      'resign',
+      'repel',
+      'expel',
+      'reject'
+    ],
+    number: 1575
   },
   {
     kanji: '限',
     keyword: 'limit',
-    number: '1576'
+    alternativeKeywords: ['limit', 'restrict', 'to best of ability'],
+    number: 1576
   },
   {
     kanji: '眼',
     keyword: 'eyeball',
-    number: '1577'
+    alternativeKeywords: ['eyeball'],
+    number: 1577
   },
   {
     kanji: '良',
     keyword: 'good',
-    number: '1578'
+    alternativeKeywords: ['good', 'pleasing', 'skilled'],
+    number: 1578
   },
   {
     kanji: '朗',
     keyword: 'melodious',
-    number: '1579'
+    alternativeKeywords: ['melodious', 'clear', 'bright', 'serene', 'cheerful'],
+    number: 1579
   },
   {
     kanji: '浪',
     keyword: 'wandering',
-    number: '1580'
+    alternativeKeywords: [
+      'wandering',
+      'waves',
+      'billows',
+      'reckless',
+      'unrestrained'
+    ],
+    number: 1580
   },
   {
     kanji: '娘',
     keyword: 'daughter',
-    number: '1581'
+    alternativeKeywords: ['daughter', 'girl'],
+    number: 1581
   },
   {
     kanji: '食',
     keyword: 'eat',
-    number: '1582'
+    alternativeKeywords: ['eat', 'food'],
+    number: 1582
   },
   {
     kanji: '飯',
     keyword: 'meal',
-    number: '1583'
+    alternativeKeywords: ['meal', 'boiled rice'],
+    number: 1583
   },
   {
     kanji: '飲',
     keyword: 'drink',
-    number: '1584'
+    alternativeKeywords: ['drink', 'smoke', 'take'],
+    number: 1584
   },
   {
     kanji: '飢',
     keyword: 'hungry',
-    number: '1585'
+    alternativeKeywords: ['hungry', 'starve'],
+    number: 1585
   },
   {
     kanji: '餓',
     keyword: 'starve',
-    number: '1586'
+    alternativeKeywords: ['starve', 'hungry', 'thirst'],
+    number: 1586
   },
   {
     kanji: '飾',
     keyword: 'decorate',
-    number: '1587'
+    alternativeKeywords: ['decorate', 'ornament', 'adorn', 'embellish'],
+    number: 1587
   },
   {
     kanji: '餌',
     keyword: 'feed',
-    number: '1588'
+    alternativeKeywords: ['food', 'bait', 'prey', 'tempting profit'],
+    number: 1588
   },
   {
     kanji: '館',
     keyword: 'Bldg.',
-    number: '1589'
+    alternativeKeywords: ['building', 'mansion', 'large building', 'palace'],
+    number: 1589
   },
   {
     kanji: '餅',
     keyword: 'mochi',
-    number: '1590'
+    alternativeKeywords: ['mochi rice cake'],
+    number: 1590
   },
   {
     kanji: '養',
     keyword: 'foster',
-    number: '1591'
+    alternativeKeywords: ['foster', 'bring up', 'rear', 'develop', 'nurture'],
+    number: 1591
   },
   {
     kanji: '飽',
     keyword: 'sated',
-    number: '1592'
+    alternativeKeywords: ['sated', 'tired of', 'bored', 'satiate'],
+    number: 1592
   },
   {
     kanji: '既',
     keyword: 'previously',
-    number: '1593'
+    alternativeKeywords: ['previously', 'already', 'long ago'],
+    number: 1593
   },
   {
     kanji: '概',
     keyword: 'outline',
-    number: '1594'
+    alternativeKeywords: ['outline', 'condition', 'approximation', 'generally'],
+    number: 1594
   },
   {
     kanji: '慨',
     keyword: 'rue',
-    number: '1595'
+    alternativeKeywords: ['rue', 'be sad', 'sigh', 'lament'],
+    number: 1595
   },
   {
     kanji: '平',
     keyword: 'even',
-    number: '1596'
+    alternativeKeywords: ['even', 'flat', 'peace'],
+    number: 1596
   },
   {
     kanji: '呼',
     keyword: 'call',
-    number: '1597'
+    alternativeKeywords: ['call', 'call out to', 'invite'],
+    number: 1597
   },
   {
     kanji: '坪',
     keyword: 'two-mat area',
-    number: '1598'
+    alternativeKeywords: ['two-mat area', 'approx. thirty-six sq ft'],
+    number: 1598
   },
   {
     kanji: '評',
     keyword: 'evaluate',
-    number: '1599'
+    alternativeKeywords: ['evaluate', 'criticism', 'comment'],
+    number: 1599
   },
   {
     kanji: '刈',
     keyword: 'reap',
-    number: '1600'
+    alternativeKeywords: ['reap', 'cut', 'clip', 'trim', 'prune'],
+    number: 1600
   },
   {
     kanji: '刹',
     keyword: 'moment',
-    number: '1601'
+    alternativeKeywords: ['temple'],
+    number: 1601
   },
   {
     kanji: '希',
     keyword: 'hope',
-    number: '1602'
+    alternativeKeywords: [
+      'hope',
+      'beg',
+      'request',
+      'pray',
+      'beseech',
+      'Greece',
+      'dilute (acid)',
+      'rare',
+      'few',
+      'phenomenal'
+    ],
+    number: 1602
   },
   {
     kanji: '凶',
     keyword: 'villain',
-    number: '1603'
+    alternativeKeywords: ['villain', 'evil', 'bad luck', 'disaster'],
+    number: 1603
   },
   {
     kanji: '胸',
     keyword: 'bosom',
-    number: '1604'
+    alternativeKeywords: ['bosom', 'breast', 'chest', 'heart', 'feelings'],
+    number: 1604
   },
   {
     kanji: '離',
     keyword: 'detach',
-    number: '1605'
+    alternativeKeywords: ['detach', 'separation', 'disjoin', 'digress'],
+    number: 1605
   },
   {
     kanji: '璃',
     keyword: 'crystal',
-    number: '1606'
+    alternativeKeywords: ['glassy', 'lapis lazuli'],
+    number: 1606
   },
   {
     kanji: '殺',
     keyword: 'kill',
-    number: '1607'
+    alternativeKeywords: [
+      'kill',
+      'murder',
+      'butcher',
+      'slice off',
+      'split',
+      'diminish',
+      'reduce',
+      'spoil'
+    ],
+    number: 1607
   },
   {
     kanji: '爽',
     keyword: 'bracing',
-    number: '1608'
+    alternativeKeywords: [
+      'refreshing',
+      'bracing',
+      'resonant',
+      'sweet',
+      'clear'
+    ],
+    number: 1608
   },
   {
     kanji: '純',
     keyword: 'genuine',
-    number: '1609'
+    alternativeKeywords: ['genuine', 'purity', 'innocence', 'net (profit)'],
+    number: 1609
   },
   {
     kanji: '頓',
     keyword: 'immediate',
-    number: '1610'
+    alternativeKeywords: [
+      'suddenly',
+      'immediately',
+      'in a hurry',
+      'arrange',
+      'stay in place',
+      'bow',
+      'kowtow'
+    ],
+    number: 1610
   },
   {
     kanji: '鈍',
     keyword: 'dull',
-    number: '1611'
+    alternativeKeywords: ['dull', 'slow', 'foolish', 'blunt'],
+    number: 1611
   },
   {
     kanji: '辛',
     keyword: 'spicy',
-    number: '1612'
+    alternativeKeywords: ['spicy', 'bitter', 'hot', 'acrid'],
+    number: 1612
   },
   {
     kanji: '辞',
     keyword: 'resign',
-    number: '1613'
+    alternativeKeywords: ['resign', 'word', 'term', 'expression'],
+    number: 1613
   },
   {
     kanji: '梓',
     keyword: 'catalpa',
-    number: '1614'
+    alternativeKeywords: ['catalpa tree', 'woodblock printing'],
+    number: 1614
   },
   {
     kanji: '宰',
     keyword: 'superintend',
-    number: '1615'
+    alternativeKeywords: ['superintend', 'manager', 'rule'],
+    number: 1615
   },
   {
     kanji: '壁',
     keyword: 'wall',
-    number: '1616'
+    alternativeKeywords: ['wall', 'lining (stomach)', 'fence'],
+    number: 1616
   },
   {
     kanji: '璧',
     keyword: 'holed gem',
-    number: '1617'
+    alternativeKeywords: ['sphere', 'ball'],
+    number: 1617
   },
   {
     kanji: '避',
     keyword: 'evade',
-    number: '1618'
+    alternativeKeywords: [
+      'evade',
+      'avoid',
+      'avert',
+      'ward off',
+      'shirk',
+      'shun'
+    ],
+    number: 1618
   },
-  {
-    kanji: '新',
-    keyword: 'new',
-    number: '1619'
-  },
+  { kanji: '新', keyword: 'new', alternativeKeywords: ['new'], number: 1619 },
   {
     kanji: '薪',
     keyword: 'firewood',
-    number: '1620'
+    alternativeKeywords: ['fuel', 'firewood', 'kindling'],
+    number: 1620
   },
   {
     kanji: '親',
     keyword: 'parent',
-    number: '1621'
+    alternativeKeywords: [
+      'parent',
+      'intimacy',
+      'relative',
+      'familiarity',
+      'dealer (cards)'
+    ],
+    number: 1621
   },
   {
     kanji: '幸',
     keyword: 'happiness',
-    number: '1622'
+    alternativeKeywords: ['happiness', 'blessing', 'fortune'],
+    number: 1622
   },
   {
     kanji: '執',
     keyword: 'tenacious',
-    number: '1623'
+    alternativeKeywords: ['tenacious', 'take hold', 'grasp', 'take to heart'],
+    number: 1623
   },
   {
     kanji: '摯',
     keyword: 'clasp',
-    number: '1624'
+    alternativeKeywords: ['gift', 'seriousness'],
+    number: 1624
   },
   {
     kanji: '報',
     keyword: 'report',
-    number: '1625'
+    alternativeKeywords: ['report', 'news', 'reward', 'retribution'],
+    number: 1625
   },
   {
     kanji: '叫',
     keyword: 'shout',
-    number: '1626'
+    alternativeKeywords: ['shout', 'exclaim', 'yell'],
+    number: 1626
   },
   {
     kanji: '糾',
     keyword: 'twist',
-    number: '1627'
+    alternativeKeywords: ['twist', 'ask', 'investigate', 'verify'],
+    number: 1627
   },
   {
     kanji: '収',
     keyword: 'income',
-    number: '1628'
+    alternativeKeywords: ['income', 'obtain', 'reap', 'pay', 'supply', 'store'],
+    number: 1628
   },
   {
     kanji: '卑',
     keyword: 'lowly',
-    number: '1629'
+    alternativeKeywords: ['lowly', 'base', 'vile', 'vulgar'],
+    number: 1629
   },
   {
     kanji: '碑',
     keyword: 'tombstone',
-    number: '1630'
+    alternativeKeywords: ['tombstone', 'monument'],
+    number: 1630
   },
   {
     kanji: '陸',
     keyword: 'land',
-    number: '1631'
+    alternativeKeywords: ['land', 'six'],
+    number: 1631
   },
   {
     kanji: '睦',
     keyword: 'intimate',
-    number: '1632'
+    alternativeKeywords: ['intimate', 'friendly', 'harmonious'],
+    number: 1632
   },
   {
     kanji: '勢',
     keyword: 'forces',
-    number: '1633'
+    alternativeKeywords: ['forces', 'energy', 'military strength'],
+    number: 1633
   },
   {
     kanji: '熱',
     keyword: 'heat',
-    number: '1634'
+    alternativeKeywords: ['heat', 'temperature', 'fever', 'mania', 'passion'],
+    number: 1634
   },
   {
     kanji: '菱',
     keyword: 'diamond',
-    number: '1635'
+    alternativeKeywords: ['diamond (shape)', 'water chestnut', 'rhombus'],
+    number: 1635
   },
   {
     kanji: '陵',
     keyword: 'mausoleum',
-    number: '1636'
+    alternativeKeywords: ['mausoleum', 'imperial tomb', 'mound', 'hill'],
+    number: 1636
   },
   {
     kanji: '亥',
     keyword: 'sign of the hog',
-    number: '1637'
+    alternativeKeywords: [
+      'sign of the hog',
+      '9-11PM',
+      'twelfth sign of the Chinese zodiac'
+    ],
+    number: 1637
   },
   {
     kanji: '核',
     keyword: 'nucleus',
-    number: '1638'
+    alternativeKeywords: ['nucleus', 'core', 'kernel'],
+    number: 1638
   },
   {
     kanji: '刻',
     keyword: 'engrave',
-    number: '1639'
+    alternativeKeywords: [
+      'engrave',
+      'cut fine',
+      'chop',
+      'hash',
+      'mince',
+      'time',
+      'carving'
+    ],
+    number: 1639
   },
   {
     kanji: '該',
     keyword: 'above-stated',
-    number: '1640'
+    alternativeKeywords: ['above-stated', 'the said', 'that specific'],
+    number: 1640
   },
   {
     kanji: '骸',
     keyword: 'remains',
-    number: '1641'
+    alternativeKeywords: ['bone', 'body', 'corpse'],
+    number: 1641
   },
   {
     kanji: '劾',
     keyword: 'censure',
-    number: '1642'
+    alternativeKeywords: ['censure', 'criminal investigation'],
+    number: 1642
   },
   {
     kanji: '述',
     keyword: 'mention',
-    number: '1643'
+    alternativeKeywords: ['mention', 'state', 'speak', 'relate'],
+    number: 1643
   },
   {
     kanji: '術',
     keyword: 'art',
-    number: '1644'
+    alternativeKeywords: [
+      'art',
+      'technique',
+      'skill',
+      'means',
+      'trick',
+      'resources',
+      'magic'
+    ],
+    number: 1644
   },
-  {
-    kanji: '寒',
-    keyword: 'cold',
-    number: '1645'
-  },
+  { kanji: '寒', keyword: 'cold', alternativeKeywords: ['cold'], number: 1645 },
   {
     kanji: '塞',
     keyword: 'block up',
-    number: '1646'
+    alternativeKeywords: ['close', 'shut', 'cover', 'block', 'obstruct'],
+    number: 1646
   },
   {
     kanji: '醸',
     keyword: 'brew',
-    number: '1647'
+    alternativeKeywords: ['brew', 'cause'],
+    number: 1647
   },
   {
     kanji: '譲',
     keyword: 'defer',
-    number: '1648'
+    alternativeKeywords: ['defer', 'turnover', 'transfer', 'convey'],
+    number: 1648
   },
   {
     kanji: '壌',
     keyword: 'lot',
-    number: '1649'
+    alternativeKeywords: ['lot', 'earth', 'soil'],
+    number: 1649
   },
   {
     kanji: '嬢',
     keyword: 'lass',
-    number: '1650'
+    alternativeKeywords: ['lass', 'girl', 'Miss', 'daughter'],
+    number: 1650
   },
   {
     kanji: '毒',
     keyword: 'poison',
-    number: '1651'
+    alternativeKeywords: [
+      'poison',
+      'virus',
+      'venom',
+      'germ',
+      'harm',
+      'injury',
+      'spite'
+    ],
+    number: 1651
   },
   {
     kanji: '素',
     keyword: 'elementary',
-    number: '1652'
+    alternativeKeywords: ['elementary', 'principle', 'naked', 'uncovered'],
+    number: 1652
   },
   {
     kanji: '麦',
     keyword: 'barley',
-    number: '1653'
+    alternativeKeywords: ['barley', 'wheat'],
+    number: 1653
   },
   {
     kanji: '青',
     keyword: 'blue',
-    number: '1654'
+    alternativeKeywords: ['blue', 'green'],
+    number: 1654
   },
   {
     kanji: '精',
     keyword: 'refined',
-    number: '1655'
+    alternativeKeywords: [
+      'refined',
+      'ghost',
+      'fairy',
+      'energy',
+      'vitality',
+      'semen',
+      'excellence',
+      'purity',
+      'skill'
+    ],
+    number: 1655
   },
   {
     kanji: '請',
     keyword: 'solicit',
-    number: '1656'
+    alternativeKeywords: ['solicit', 'invite', 'ask'],
+    number: 1656
   },
   {
     kanji: '情',
     keyword: 'feelings',
-    number: '1657'
+    alternativeKeywords: [
+      'feelings',
+      'emotion',
+      'passion',
+      'sympathy',
+      'circumstances',
+      'facts'
+    ],
+    number: 1657
   },
   {
     kanji: '晴',
     keyword: 'clear up',
-    number: '1658'
+    alternativeKeywords: ['clear up'],
+    number: 1658
   },
   {
     kanji: '清',
     keyword: 'pure',
-    number: '1659'
+    alternativeKeywords: [
+      'pure',
+      'purify',
+      'cleanse',
+      'exorcise',
+      'Manchu dynasty'
+    ],
+    number: 1659
   },
   {
     kanji: '静',
     keyword: 'quiet',
-    number: '1660'
+    alternativeKeywords: ['quiet'],
+    number: 1660
   },
   {
     kanji: '責',
     keyword: 'blame',
-    number: '1661'
+    alternativeKeywords: ['blame', 'condemn', 'censure'],
+    number: 1661
   },
   {
     kanji: '績',
     keyword: 'exploits',
-    number: '1662'
+    alternativeKeywords: ['exploits', 'achievements', 'unreeling cocoons'],
+    number: 1662
   },
   {
     kanji: '積',
     keyword: 'volume',
-    number: '1663'
+    alternativeKeywords: [
+      'volume',
+      'product (x*y)',
+      'acreage',
+      'contents',
+      'pile up',
+      'stack',
+      'load',
+      'amass'
+    ],
+    number: 1663
   },
   {
     kanji: '債',
     keyword: 'bond',
-    number: '1664'
+    alternativeKeywords: ['bond', 'loan', 'debt'],
+    number: 1664
   },
   {
     kanji: '漬',
     keyword: 'pickling',
-    number: '1665'
+    alternativeKeywords: ['pickling', 'soak', 'moisten', 'steep'],
+    number: 1665
   },
   {
     kanji: '表',
     keyword: 'surface',
-    number: '1666'
+    alternativeKeywords: ['surface', 'table', 'chart', 'diagram'],
+    number: 1666
   },
   {
     kanji: '俵',
     keyword: 'bag',
-    number: '1667'
+    alternativeKeywords: ['bag', 'bale', 'sack', 'counter for bags'],
+    number: 1667
   },
   {
     kanji: '潔',
     keyword: 'undefiled',
-    number: '1668'
+    alternativeKeywords: ['undefiled', 'pure', 'clean', 'righteous', 'gallant'],
+    number: 1668
   },
   {
     kanji: '契',
     keyword: 'pledge',
-    number: '1669'
+    alternativeKeywords: ['pledge', 'promise', 'vow'],
+    number: 1669
   },
   {
     kanji: '喫',
     keyword: 'consume',
-    number: '1670'
+    alternativeKeywords: [
+      'consume',
+      'eat',
+      'drink',
+      'smoke',
+      'receive (a blow)'
+    ],
+    number: 1670
   },
   {
     kanji: '害',
     keyword: 'harm',
-    number: '1671'
+    alternativeKeywords: ['harm', 'injury'],
+    number: 1671
   },
   {
     kanji: '轄',
     keyword: 'control',
-    number: '1672'
+    alternativeKeywords: ['control', 'wedge'],
+    number: 1672
   },
   {
     kanji: '割',
     keyword: 'proportion',
-    number: '1673'
+    alternativeKeywords: [
+      'proportion',
+      'comparatively',
+      'divide',
+      'cut',
+      'separate',
+      'split'
+    ],
+    number: 1673
   },
   {
     kanji: '憲',
     keyword: 'constitution',
-    number: '1674'
+    alternativeKeywords: ['constitution', 'law'],
+    number: 1674
   },
   {
     kanji: '生',
     keyword: 'life',
-    number: '1675'
+    alternativeKeywords: ['life', 'genuine', 'birth'],
+    number: 1675
   },
   {
     kanji: '星',
     keyword: 'star',
-    number: '1676'
+    alternativeKeywords: ['star', 'spot', 'dot', 'mark'],
+    number: 1676
   },
   {
     kanji: '醒',
     keyword: 'awakening',
-    number: '1677'
+    alternativeKeywords: ['awake', 'be disillusioned', 'sober up'],
+    number: 1677
   },
   {
     kanji: '姓',
     keyword: 'surname',
-    number: '1678'
+    alternativeKeywords: ['surname'],
+    number: 1678
   },
   {
     kanji: '性',
     keyword: 'sex',
-    number: '1679'
+    alternativeKeywords: ['sex', 'gender', 'nature'],
+    number: 1679
   },
   {
     kanji: '牲',
     keyword: 'animal sacrifice',
-    number: '1680'
+    alternativeKeywords: ['animal sacrifice', 'offering'],
+    number: 1680
   },
   {
     kanji: '産',
     keyword: 'products',
-    number: '1681'
+    alternativeKeywords: [
+      'products',
+      'bear',
+      'give birth',
+      'yield',
+      'childbirth',
+      'native',
+      'property'
+    ],
+    number: 1681
   },
   {
     kanji: '隆',
     keyword: 'hump',
-    number: '1682'
+    alternativeKeywords: ['hump', 'high', 'noble', 'prosperity'],
+    number: 1682
   },
   {
     kanji: '峰',
     keyword: 'summit',
-    number: '1683'
+    alternativeKeywords: ['summit', 'peak'],
+    number: 1683
   },
   {
     kanji: '蜂',
     keyword: 'bee',
-    number: '1684'
+    alternativeKeywords: ['bee', 'wasp', 'hornet'],
+    number: 1684
   },
   {
     kanji: '縫',
     keyword: 'sew',
-    number: '1685'
+    alternativeKeywords: ['sew', 'stitch', 'embroider'],
+    number: 1685
   },
   {
     kanji: '拝',
     keyword: 'worship',
-    number: '1686'
+    alternativeKeywords: ['worship', 'adore', 'pray to'],
+    number: 1686
   },
   {
     kanji: '寿',
     keyword: 'longevity',
-    number: '1687'
+    alternativeKeywords: ['longevity', 'congratulations', "one's natural life"],
+    number: 1687
   },
   {
     kanji: '鋳',
     keyword: 'casting',
-    number: '1688'
+    alternativeKeywords: ['casting', 'mint'],
+    number: 1688
   },
   {
     kanji: '籍',
     keyword: 'enroll',
-    number: '1689'
+    alternativeKeywords: ['enroll', 'domiciliary register', 'membership'],
+    number: 1689
   },
   {
     kanji: '春',
     keyword: 'springtime',
-    number: '1690'
+    alternativeKeywords: ['springtime', 'spring (season)'],
+    number: 1690
   },
   {
     kanji: '椿',
     keyword: 'camellia',
-    number: '1691'
+    alternativeKeywords: ['camellia'],
+    number: 1691
   },
   {
     kanji: '泰',
     keyword: 'peaceful',
-    number: '1692'
+    alternativeKeywords: [
+      'peaceful',
+      'calm',
+      'peace',
+      'easy',
+      'Thailand',
+      'extreme',
+      'excessive',
+      'great'
+    ],
+    number: 1692
   },
   {
     kanji: '奏',
     keyword: 'play music',
-    number: '1693'
+    alternativeKeywords: ['play music', 'speak to a ruler', 'complete'],
+    number: 1693
   },
   {
     kanji: '実',
     keyword: 'reality',
-    number: '1694'
+    alternativeKeywords: ['reality', 'truth'],
+    number: 1694
   },
   {
     kanji: '奉',
     keyword: 'dedicate',
-    number: '1695'
+    alternativeKeywords: ['observance', 'offer', 'present', 'dedicate'],
+    number: 1695
   },
   {
     kanji: '俸',
     keyword: 'stipend',
-    number: '1696'
+    alternativeKeywords: ['stipend', 'salary'],
+    number: 1696
   },
   {
     kanji: '棒',
     keyword: 'rod',
-    number: '1697'
+    alternativeKeywords: ['rod', 'stick', 'cane', 'pole', 'club', 'line'],
+    number: 1697
   },
   {
     kanji: '謹',
     keyword: 'discreet',
-    number: '1698'
+    alternativeKeywords: ['discreet', 'reverently', 'humbly'],
+    number: 1698
   },
   {
     kanji: '僅',
     keyword: 'trifle',
-    number: '1699'
+    alternativeKeywords: ['a wee bit'],
+    number: 1699
   },
   {
     kanji: '勤',
     keyword: 'diligence',
-    number: '1700'
+    alternativeKeywords: ['diligence', 'become employed', 'serve'],
+    number: 1700
   },
   {
     kanji: '漢',
     keyword: 'Sino-',
-    number: '1701'
+    alternativeKeywords: ['Sino-', 'China'],
+    number: 1701
   },
   {
     kanji: '嘆',
     keyword: 'sigh',
-    number: '1702'
+    alternativeKeywords: [
+      'sigh',
+      'lament',
+      'moan',
+      'grieve',
+      'sigh of admiration'
+    ],
+    number: 1702
   },
   {
     kanji: '難',
     keyword: 'difficult',
-    number: '1703'
+    alternativeKeywords: [
+      'difficult',
+      'impossible',
+      'trouble',
+      'accident',
+      'defect'
+    ],
+    number: 1703
   },
   {
     kanji: '華',
     keyword: 'splendor',
-    number: '1704'
+    alternativeKeywords: [
+      'splendor',
+      'flower',
+      'petal',
+      'shine',
+      'luster',
+      'ostentatious',
+      'showy',
+      'gay',
+      'gorgeous'
+    ],
+    number: 1704
   },
   {
     kanji: '垂',
     keyword: 'droop',
-    number: '1705'
+    alternativeKeywords: ['droop', 'suspend', 'hang', 'slouch'],
+    number: 1705
   },
   {
     kanji: '唾',
     keyword: 'saliva',
-    number: '1706'
+    alternativeKeywords: ['saliva', 'sputum'],
+    number: 1706
   },
   {
     kanji: '睡',
     keyword: 'drowsy',
-    number: '1707'
+    alternativeKeywords: ['drowsy', 'sleep', 'die'],
+    number: 1707
   },
   {
     kanji: '錘',
     keyword: 'spindle',
-    number: '1708'
+    alternativeKeywords: ['weight', 'plumb bob', 'sinker', 'spindle'],
+    number: 1708
   },
   {
     kanji: '乗',
     keyword: 'ride',
-    number: '1709'
+    alternativeKeywords: [
+      'ride',
+      'power',
+      'multiplication',
+      'record',
+      'counter for vehicles',
+      'board',
+      'mount',
+      'join'
+    ],
+    number: 1709
   },
   {
     kanji: '剰',
     keyword: 'surplus',
-    number: '1710'
+    alternativeKeywords: ['surplus', 'besides'],
+    number: 1710
   },
-  {
-    kanji: '今',
-    keyword: 'now',
-    number: '1711'
-  },
+  { kanji: '今', keyword: 'now', alternativeKeywords: ['now'], number: 1711 },
   {
     kanji: '含',
     keyword: 'include',
-    number: '1712'
+    alternativeKeywords: [
+      'contain',
+      'include',
+      'hold in the mouth',
+      'bear in mind',
+      'understand',
+      'cherish'
+    ],
+    number: 1712
   },
   {
     kanji: '貪',
     keyword: 'covet',
-    number: '1713'
+    alternativeKeywords: ['covet', 'indulge in'],
+    number: 1713
   },
   {
     kanji: '吟',
     keyword: 'versify',
-    number: '1714'
+    alternativeKeywords: ['versify', 'singing', 'recital'],
+    number: 1714
   },
   {
     kanji: '念',
     keyword: 'wish',
-    number: '1715'
+    alternativeKeywords: [
+      'wish',
+      'sense',
+      'idea',
+      'thought',
+      'feeling',
+      'desire',
+      'attention'
+    ],
+    number: 1715
   },
   {
     kanji: '捻',
     keyword: 'wrench',
-    number: '1716'
+    alternativeKeywords: ['twirl', 'twist', 'play with'],
+    number: 1716
   },
   {
     kanji: '琴',
     keyword: 'harp',
-    number: '1717'
+    alternativeKeywords: ['harp', 'koto'],
+    number: 1717
   },
   {
     kanji: '陰',
     keyword: 'shade',
-    number: '1718'
+    alternativeKeywords: [
+      'shade',
+      'yin',
+      'negative',
+      'sex organs',
+      'secret',
+      'shadow'
+    ],
+    number: 1718
   },
   {
     kanji: '予',
     keyword: 'beforehand',
-    number: '1719'
+    alternativeKeywords: ['beforehand', 'previous', 'myself', 'I'],
+    number: 1719
   },
   {
     kanji: '序',
     keyword: 'preface',
-    number: '1720'
+    alternativeKeywords: [
+      'preface',
+      'beginning',
+      'order',
+      'precedence',
+      'occasion',
+      'chance',
+      'incidentally'
+    ],
+    number: 1720
   },
   {
     kanji: '預',
     keyword: 'deposit',
-    number: '1721'
+    alternativeKeywords: ['deposit', 'custody', 'leave with', 'entrust to'],
+    number: 1721
   },
   {
     kanji: '野',
     keyword: 'plains',
-    number: '1722'
+    alternativeKeywords: ['plains', 'field', 'rustic', 'civilian life'],
+    number: 1722
   },
   {
     kanji: '兼',
     keyword: 'concurrently',
-    number: '1723'
+    alternativeKeywords: ['concurrently', 'and', 'beforehand', 'in advance'],
+    number: 1723
   },
   {
     kanji: '嫌',
     keyword: 'dislike',
-    number: '1724'
+    alternativeKeywords: ['dislike', 'detest', 'hate'],
+    number: 1724
   },
   {
     kanji: '鎌',
     keyword: 'sickle',
-    number: '1725'
+    alternativeKeywords: ['sickle', 'scythe', 'trick'],
+    number: 1725
   },
   {
     kanji: '謙',
     keyword: 'self-effacing',
-    number: '1726'
+    alternativeKeywords: [
+      'self-effacing',
+      'humble oneself',
+      'condescend',
+      'be modest'
+    ],
+    number: 1726
   },
   {
     kanji: '廉',
     keyword: 'bargain',
-    number: '1727'
+    alternativeKeywords: [
+      'bargain',
+      'reason',
+      'charge',
+      'suspicion',
+      'point',
+      'account',
+      'purity',
+      'honest',
+      'low price',
+      'cheap',
+      'rested',
+      'contented',
+      'peaceful'
+    ],
+    number: 1727
   },
   {
     kanji: '西',
     keyword: 'west',
-    number: '1728'
+    alternativeKeywords: ['west', 'Spain'],
+    number: 1728
   },
   {
     kanji: '価',
     keyword: 'value',
-    number: '1729'
+    alternativeKeywords: ['value', 'price'],
+    number: 1729
   },
   {
     kanji: '要',
     keyword: 'need',
-    number: '1730'
+    alternativeKeywords: ['need', 'main point', 'essence', 'pivot', 'key to'],
+    number: 1730
   },
   {
     kanji: '腰',
     keyword: 'loins',
-    number: '1731'
+    alternativeKeywords: ['loins', 'hips', 'waist', 'low wainscoting'],
+    number: 1731
   },
   {
     kanji: '票',
     keyword: 'ballot',
-    number: '1732'
+    alternativeKeywords: ['ballot', 'label', 'ticket', 'sign'],
+    number: 1732
   },
   {
     kanji: '漂',
     keyword: 'drift',
-    number: '1733'
+    alternativeKeywords: ['drift', 'float (on liquid)'],
+    number: 1733
   },
   {
     kanji: '標',
     keyword: 'signpost',
-    number: '1734'
+    alternativeKeywords: [
+      'signpost',
+      'seal',
+      'mark',
+      'stamp',
+      'imprint',
+      'symbol',
+      'emblem',
+      'trademark',
+      'evidence',
+      'souvenir',
+      'target'
+    ],
+    number: 1734
   },
   {
     kanji: '栗',
     keyword: 'chestnut',
-    number: '1735'
+    alternativeKeywords: ['chestnut'],
+    number: 1735
   },
   {
     kanji: '慄',
     keyword: 'shudder',
-    number: '1736'
+    alternativeKeywords: ['fear'],
+    number: 1736
   },
   {
     kanji: '遷',
     keyword: 'transition',
-    number: '1737'
+    alternativeKeywords: ['transition', 'move', 'change'],
+    number: 1737
   },
   {
     kanji: '覆',
     keyword: 'capsize',
-    number: '1738'
+    alternativeKeywords: ['capsize', 'cover', 'shade', 'mantle', 'be ruined'],
+    number: 1738
   },
   {
     kanji: '煙',
     keyword: 'smoke',
-    number: '1739'
+    alternativeKeywords: ['smoke'],
+    number: 1739
   },
   {
     kanji: '南',
     keyword: 'south',
-    number: '1740'
+    alternativeKeywords: ['south'],
+    number: 1740
   },
   {
     kanji: '楠',
     keyword: 'camphor tree',
-    number: '1741'
+    alternativeKeywords: ['camphor tree'],
+    number: 1741
   },
   {
     kanji: '献',
     keyword: 'offering',
-    number: '1742'
+    alternativeKeywords: ['offering', 'counter for drinks', 'present', 'offer'],
+    number: 1742
   },
   {
     kanji: '門',
     keyword: 'gates',
-    number: '1743'
+    alternativeKeywords: ['gate', 'counter for cannons'],
+    number: 1743
   },
   {
     kanji: '問',
     keyword: 'question',
-    number: '1744'
+    alternativeKeywords: ['question', 'ask', 'problem'],
+    number: 1744
   },
   {
     kanji: '閲',
     keyword: 'review',
-    number: '1745'
+    alternativeKeywords: ['review', 'inspection', 'revision'],
+    number: 1745
   },
   {
     kanji: '閥',
     keyword: 'clique',
-    number: '1746'
+    alternativeKeywords: ['clique', 'lineage', 'pedigree', 'faction', 'clan'],
+    number: 1746
   },
   {
     kanji: '間',
     keyword: 'interval',
-    number: '1747'
+    alternativeKeywords: ['interval', 'space'],
+    number: 1747
   },
   {
     kanji: '闇',
     keyword: 'pitch dark',
-    number: '1748'
+    alternativeKeywords: ['get dark', 'gloom', 'disorder'],
+    number: 1748
   },
   {
     kanji: '簡',
     keyword: 'simplicity',
-    number: '1749'
+    alternativeKeywords: ['simplicity', 'brevity'],
+    number: 1749
   },
   {
     kanji: '開',
     keyword: 'open',
-    number: '1750'
+    alternativeKeywords: ['open', 'unfold', 'unseal'],
+    number: 1750
   },
   {
     kanji: '閉',
     keyword: 'closed',
-    number: '1751'
+    alternativeKeywords: ['closed', 'shut'],
+    number: 1751
   },
   {
     kanji: '閣',
     keyword: 'tower',
-    number: '1752'
+    alternativeKeywords: ['tower', 'tall building', 'palace'],
+    number: 1752
   },
   {
     kanji: '閑',
     keyword: 'leisure',
-    number: '1753'
+    alternativeKeywords: ['leisure'],
+    number: 1753
   },
   {
     kanji: '聞',
     keyword: 'hear',
-    number: '1754'
+    alternativeKeywords: ['hear', 'ask', 'listen'],
+    number: 1754
   },
   {
     kanji: '潤',
     keyword: 'wet',
-    number: '1755'
+    alternativeKeywords: [
+      'wet',
+      'be watered',
+      'profit by',
+      'receive benefits',
+      'favor',
+      'charm',
+      'steep'
+    ],
+    number: 1755
   },
   {
     kanji: '欄',
     keyword: 'column',
-    number: '1756'
+    alternativeKeywords: ['column', 'handrail', 'blank', 'space'],
+    number: 1756
   },
   {
     kanji: '闘',
     keyword: 'fight',
-    number: '1757'
+    alternativeKeywords: ['fight', 'war'],
+    number: 1757
   },
   {
     kanji: '倉',
     keyword: 'godown',
-    number: '1758'
+    alternativeKeywords: [
+      'godown',
+      'warehouse',
+      'storehouse',
+      'cellar',
+      'treasury'
+    ],
+    number: 1758
   },
   {
     kanji: '創',
     keyword: 'genesis',
-    number: '1759'
+    alternativeKeywords: [
+      'genesis',
+      'wound',
+      'injury',
+      'hurt',
+      'start',
+      'originate'
+    ],
+    number: 1759
   },
   {
     kanji: '非',
     keyword: 'un-',
-    number: '1760'
+    alternativeKeywords: ['un-', 'mistake', 'negative', 'injustice', 'non-'],
+    number: 1760
   },
   {
     kanji: '俳',
     keyword: 'haiku',
-    number: '1761'
+    alternativeKeywords: ['haiku', 'actor'],
+    number: 1761
   },
   {
     kanji: '排',
     keyword: 'repudiate',
-    number: '1762'
+    alternativeKeywords: [
+      'repudiate',
+      'exclude',
+      'expel',
+      'reject',
+      'line up',
+      'arrange'
+    ],
+    number: 1762
   },
   {
     kanji: '悲',
     keyword: 'sad',
-    number: '1763'
+    alternativeKeywords: ['grieve', 'sad', 'deplore', 'regret'],
+    number: 1763
   },
   {
     kanji: '罪',
     keyword: 'guilt',
-    number: '1764'
+    alternativeKeywords: ['guilt', 'sin', 'crime', 'fault', 'blame', 'offense'],
+    number: 1764
   },
   {
     kanji: '輩',
     keyword: 'comrade',
-    number: '1765'
+    alternativeKeywords: ['comrade', 'fellow', 'people', 'companions'],
+    number: 1765
   },
   {
     kanji: '扉',
     keyword: 'front door',
-    number: '1766'
+    alternativeKeywords: ['front door', 'title page', 'front page'],
+    number: 1766
   },
   {
     kanji: '侯',
     keyword: 'marquis',
-    number: '1767'
+    alternativeKeywords: ['marquis', 'lord', 'daimyo'],
+    number: 1767
   },
   {
     kanji: '喉',
     keyword: 'throat',
-    number: '1768'
+    alternativeKeywords: ['throat', 'voice'],
+    number: 1768
   },
   {
     kanji: '候',
     keyword: 'climate',
-    number: '1769'
+    alternativeKeywords: ['climate', 'season', 'weather', 'wait for', 'expect'],
+    number: 1769
   },
   {
     kanji: '決',
     keyword: 'decide',
-    number: '1770'
+    alternativeKeywords: ['decide', 'fix', 'agree upon', 'appoint'],
+    number: 1770
   },
   {
     kanji: '快',
     keyword: 'cheerful',
-    number: '1771'
+    alternativeKeywords: ['cheerful', 'pleasant', 'agreeable', 'comfortable'],
+    number: 1771
   },
   {
     kanji: '偉',
     keyword: 'admirable',
-    number: '1772'
+    alternativeKeywords: [
+      'admirable',
+      'greatness',
+      'remarkable',
+      'conceited',
+      'famous',
+      'excellent'
+    ],
+    number: 1772
   },
   {
     kanji: '違',
     keyword: 'difference',
-    number: '1773'
+    alternativeKeywords: ['difference', 'differ'],
+    number: 1773
   },
   {
     kanji: '緯',
     keyword: 'horizontal',
-    number: '1774'
+    alternativeKeywords: [
+      'horizontal',
+      'woof',
+      'left & right',
+      '(parallels of) latitude',
+      'prediction'
+    ],
+    number: 1774
   },
   {
     kanji: '衛',
     keyword: 'defense',
-    number: '1775'
+    alternativeKeywords: ['defense', 'protection'],
+    number: 1775
   },
   {
     kanji: '韓',
     keyword: 'Korea',
-    number: '1776'
+    alternativeKeywords: ['Korea'],
+    number: 1776
   },
   {
     kanji: '干',
     keyword: 'dry',
-    number: '1777'
+    alternativeKeywords: [
+      'dry',
+      'parch',
+      'ebb',
+      'recede',
+      'interfere',
+      'intercede'
+    ],
+    number: 1777
   },
   {
     kanji: '肝',
     keyword: 'liver',
-    number: '1778'
+    alternativeKeywords: ['liver', 'pluck', 'nerve', 'chutzpah'],
+    number: 1778
   },
   {
     kanji: '刊',
     keyword: 'publish',
-    number: '1779'
+    alternativeKeywords: ['publish', 'carve', 'engrave'],
+    number: 1779
   },
   {
     kanji: '汗',
     keyword: 'sweat',
-    number: '1780'
+    alternativeKeywords: ['sweat', 'perspire'],
+    number: 1780
   },
   {
     kanji: '軒',
     keyword: 'flats',
-    number: '1781'
+    alternativeKeywords: ['flats', 'counter for houses', 'eaves'],
+    number: 1781
   },
   {
     kanji: '岸',
     keyword: 'beach',
-    number: '1782'
+    alternativeKeywords: ['beach'],
+    number: 1782
   },
   {
     kanji: '幹',
     keyword: 'tree trunk',
-    number: '1783'
+    alternativeKeywords: ['tree trunk', 'main part', 'talent', 'capability'],
+    number: 1783
   },
   {
     kanji: '芋',
     keyword: 'potato',
-    number: '1784'
+    alternativeKeywords: ['potato'],
+    number: 1784
   },
   {
     kanji: '宇',
     keyword: 'eaves',
-    number: '1785'
+    alternativeKeywords: ['eaves', 'roof', 'house', 'heaven'],
+    number: 1785
   },
   {
     kanji: '余',
     keyword: 'too much',
-    number: '1786'
+    alternativeKeywords: [
+      'too much',
+      'myself',
+      'surplus',
+      'other',
+      'remainder'
+    ],
+    number: 1786
   },
   {
     kanji: '除',
     keyword: 'exclude',
-    number: '1787'
+    alternativeKeywords: [
+      'exclude',
+      'division (x/3)',
+      'remove',
+      'abolish',
+      'cancel',
+      'except'
+    ],
+    number: 1787
   },
   {
     kanji: '徐',
     keyword: 'gradually',
-    number: '1788'
+    alternativeKeywords: ['gradually', 'slowly', 'deliberately', 'gently'],
+    number: 1788
   },
   {
     kanji: '叙',
     keyword: 'confer',
-    number: '1789'
+    alternativeKeywords: ['confer', 'relate', 'narrate', 'describe'],
+    number: 1789
   },
   {
     kanji: '途',
     keyword: 'route',
-    number: '1790'
+    alternativeKeywords: ['route', 'way', 'road'],
+    number: 1790
   },
   {
     kanji: '斜',
     keyword: 'diagonal',
-    number: '1791'
+    alternativeKeywords: ['diagonal', 'slanting', 'oblique'],
+    number: 1791
   },
   {
     kanji: '塗',
     keyword: 'paint',
-    number: '1792'
+    alternativeKeywords: ['paint', 'plaster', 'daub', 'smear', 'coating'],
+    number: 1792
   },
   {
     kanji: '束',
     keyword: 'bundle',
-    number: '1793'
+    alternativeKeywords: [
+      'bundle',
+      'sheaf',
+      'ream',
+      'tie in bundles',
+      'govern',
+      'manage',
+      'control'
+    ],
+    number: 1793
   },
   {
     kanji: '頼',
     keyword: 'trust',
-    number: '1794'
+    alternativeKeywords: ['trust', 'request'],
+    number: 1794
   },
   {
     kanji: '瀬',
     keyword: 'rapids',
-    number: '1795'
+    alternativeKeywords: ['rapids', 'current', 'torrent', 'shallows', 'shoal'],
+    number: 1795
   },
   {
     kanji: '勅',
     keyword: 'imperial order',
-    number: '1796'
+    alternativeKeywords: ['imperial order'],
+    number: 1796
   },
   {
     kanji: '疎',
     keyword: 'alienate',
-    number: '1797'
+    alternativeKeywords: [
+      'alienate',
+      'rough',
+      'neglect',
+      'shun',
+      'sparse',
+      'penetrate'
+    ],
+    number: 1797
   },
   {
     kanji: '辣',
     keyword: 'bitter',
-    number: '1798'
+    alternativeKeywords: ['pungent', 'spicy', 'harsh', 'cruel', 'severe'],
+    number: 1798
   },
   {
     kanji: '速',
     keyword: 'quick',
-    number: '1799'
+    alternativeKeywords: ['quick', 'fast'],
+    number: 1799
   },
   {
     kanji: '整',
     keyword: 'organize',
-    number: '1800'
+    alternativeKeywords: [
+      'organize',
+      'arranging',
+      'tune',
+      'tone',
+      'meter',
+      'key (music)'
+    ],
+    number: 1800
   },
   {
     kanji: '剣',
     keyword: 'saber',
-    number: '1801'
+    alternativeKeywords: ['sabre', 'sword', 'blade', 'clock hand'],
+    number: 1801
   },
   {
     kanji: '険',
     keyword: 'precipitous',
-    number: '1802'
+    alternativeKeywords: [
+      'precipitous',
+      'inaccessible place',
+      'impregnable position',
+      'steep place',
+      'sharp eyes'
+    ],
+    number: 1802
   },
   {
     kanji: '検',
     keyword: 'examination',
-    number: '1803'
+    alternativeKeywords: ['examination', 'investigate'],
+    number: 1803
   },
   {
     kanji: '倹',
     keyword: 'frugal',
-    number: '1804'
+    alternativeKeywords: ['frugal', 'economy', 'thrifty'],
+    number: 1804
   },
   {
     kanji: '重',
     keyword: 'heavy',
-    number: '1805'
+    alternativeKeywords: [
+      'heavy',
+      'important',
+      'esteem',
+      'respect',
+      'heap up',
+      'pile up',
+      'nest of boxes',
+      '-fold'
+    ],
+    number: 1805
   },
   {
     kanji: '動',
     keyword: 'move',
-    number: '1806'
+    alternativeKeywords: [
+      'move',
+      'motion',
+      'change',
+      'confusion',
+      'shift',
+      'shake'
+    ],
+    number: 1806
   },
   {
     kanji: '腫',
     keyword: 'tumor',
-    number: '1807'
+    alternativeKeywords: ['tumor', 'swelling'],
+    number: 1807
   },
   {
     kanji: '勲',
     keyword: 'meritorious deed',
-    number: '1808'
+    alternativeKeywords: ['meritorious deed', 'merit'],
+    number: 1808
   },
   {
     kanji: '働',
     keyword: 'work',
-    number: '1809'
+    alternativeKeywords: ['work', '(kokuji)'],
+    number: 1809
   },
   {
     kanji: '種',
     keyword: 'species',
-    number: '1810'
+    alternativeKeywords: ['species', 'kind', 'class', 'variety', 'seed'],
+    number: 1810
   },
   {
     kanji: '衝',
     keyword: 'collide',
-    number: '1811'
+    alternativeKeywords: [
+      'collide',
+      'brunt',
+      'highway',
+      'opposition (astronomy)',
+      'thrust',
+      'pierce',
+      'stab',
+      'prick'
+    ],
+    number: 1811
   },
   {
     kanji: '薫',
     keyword: 'fragrant',
-    number: '1812'
+    alternativeKeywords: [
+      'send forth fragrance',
+      'fragrant',
+      'be scented',
+      'smoke (tobacco)'
+    ],
+    number: 1812
   },
   {
     kanji: '病',
     keyword: 'ill',
-    number: '1813'
+    alternativeKeywords: ['ill', 'sick'],
+    number: 1813
   },
   {
     kanji: '痴',
     keyword: 'stupid',
-    number: '1814'
+    alternativeKeywords: ['stupid', 'foolish'],
+    number: 1814
   },
   {
     kanji: '痘',
     keyword: 'pox',
-    number: '1815'
+    alternativeKeywords: ['pox', 'smallpox'],
+    number: 1815
   },
   {
     kanji: '症',
     keyword: 'symptoms',
-    number: '1816'
+    alternativeKeywords: ['symptoms', 'illness'],
+    number: 1816
   },
   {
     kanji: '瘍',
     keyword: 'carbuncle',
-    number: '1817'
+    alternativeKeywords: ['swelling', 'boil', 'tumor'],
+    number: 1817
   },
   {
     kanji: '痩',
     keyword: 'lose weight',
-    number: '1818'
+    alternativeKeywords: ['get thin'],
+    number: 1818
   },
   {
     kanji: '疾',
     keyword: 'rapidly',
-    number: '1819'
+    alternativeKeywords: ['rapidly'],
+    number: 1819
   },
   {
     kanji: '嫉',
     keyword: 'envy',
-    number: '1820'
+    alternativeKeywords: ['jealous', 'envy'],
+    number: 1820
   },
   {
     kanji: '痢',
     keyword: 'diarrhea',
-    number: '1821'
+    alternativeKeywords: ['diarrhea'],
+    number: 1821
   },
   {
     kanji: '痕',
     keyword: 'scar',
-    number: '1822'
+    alternativeKeywords: ['mark', 'foot print'],
+    number: 1822
   },
   {
     kanji: '疲',
     keyword: 'tired',
-    number: '1823'
+    alternativeKeywords: ['exhausted', 'tire', 'weary'],
+    number: 1823
   },
   {
     kanji: '疫',
     keyword: 'epidemic',
-    number: '1824'
+    alternativeKeywords: ['epidemic'],
+    number: 1824
   },
   {
     kanji: '痛',
     keyword: 'pain',
-    number: '1825'
+    alternativeKeywords: ['pain', 'hurt', 'damage', 'bruise'],
+    number: 1825
   },
   {
     kanji: '癖',
     keyword: 'mannerism',
-    number: '1826'
+    alternativeKeywords: [
+      'mannerism',
+      'habit',
+      'vice',
+      'trait',
+      'fault',
+      'kink'
+    ],
+    number: 1826
   },
   {
     kanji: '匿',
     keyword: 'hide',
-    number: '1827'
+    alternativeKeywords: ['hide', 'shelter', 'shield'],
+    number: 1827
   },
   {
     kanji: '匠',
     keyword: 'artisan',
-    number: '1828'
+    alternativeKeywords: ['artisan', 'workman', 'carpenter'],
+    number: 1828
   },
   {
     kanji: '医',
     keyword: 'doctor',
-    number: '1829'
+    alternativeKeywords: ['doctor', 'medicine'],
+    number: 1829
   },
   {
     kanji: '匹',
     keyword: 'equal',
-    number: '1830'
+    alternativeKeywords: [
+      'equal',
+      'head',
+      'counter for small animals',
+      'roll of cloth'
+    ],
+    number: 1830
   },
   {
     kanji: '区',
     keyword: 'ward',
-    number: '1831'
+    alternativeKeywords: ['ward', 'district'],
+    number: 1831
   },
   {
     kanji: '枢',
     keyword: 'hinge',
-    number: '1832'
+    alternativeKeywords: ['hinge', 'pivot', 'door'],
+    number: 1832
   },
   {
     kanji: '殴',
     keyword: 'assault',
-    number: '1833'
+    alternativeKeywords: ['assault', 'hit', 'beat', 'thrash'],
+    number: 1833
   },
   {
     kanji: '欧',
     keyword: 'Europe',
-    number: '1834'
+    alternativeKeywords: ['Europe'],
+    number: 1834
   },
   {
     kanji: '抑',
     keyword: 'repress',
-    number: '1835'
+    alternativeKeywords: [
+      'repress',
+      'well',
+      'now',
+      'in the first place',
+      'push',
+      'shove',
+      'press',
+      'seal',
+      'do in spite of'
+    ],
+    number: 1835
   },
   {
     kanji: '仰',
     keyword: 'faceup',
-    number: '1836'
+    alternativeKeywords: [
+      'face-up',
+      'look up',
+      'depend',
+      'seek',
+      'respect',
+      'rever',
+      'drink',
+      'take'
+    ],
+    number: 1836
   },
   {
     kanji: '迎',
     keyword: 'welcome',
-    number: '1837'
+    alternativeKeywords: ['welcome', 'meet', 'greet'],
+    number: 1837
   },
   {
     kanji: '登',
     keyword: 'ascend',
-    number: '1838'
+    alternativeKeywords: ['ascend', 'climb up'],
+    number: 1838
   },
   {
     kanji: '澄',
     keyword: 'lucidity',
-    number: '1839'
+    alternativeKeywords: [
+      'lucidity',
+      'be clear',
+      'clear',
+      'clarify',
+      'settle',
+      'strain',
+      'look grave'
+    ],
+    number: 1839
   },
   {
     kanji: '発',
     keyword: 'discharge',
-    number: '1840'
+    alternativeKeywords: [
+      'departure',
+      'discharge',
+      'publish',
+      'emit',
+      'start from',
+      'disclose',
+      'counter for gunshots'
+    ],
+    number: 1840
   },
   {
     kanji: '廃',
     keyword: 'abolish',
-    number: '1841'
+    alternativeKeywords: [
+      'abolish',
+      'obsolete',
+      'cessation',
+      'discarding',
+      'abandon'
+    ],
+    number: 1841
   },
   {
     kanji: '僚',
     keyword: 'colleague',
-    number: '1842'
+    alternativeKeywords: ['colleague', 'official', 'companion'],
+    number: 1842
   },
   {
     kanji: '瞭',
     keyword: 'obvious',
-    number: '1843'
+    alternativeKeywords: ['clear'],
+    number: 1843
   },
   {
     kanji: '寮',
     keyword: 'dormitory',
-    number: '1844'
+    alternativeKeywords: ['dormitory', 'hostel', 'villa', 'tea pavillion'],
+    number: 1844
   },
   {
     kanji: '療',
     keyword: 'heal',
-    number: '1845'
+    alternativeKeywords: ['heal', 'cure'],
+    number: 1845
   },
   {
     kanji: '彫',
     keyword: 'carve',
-    number: '1846'
+    alternativeKeywords: ['carve', 'engrave', 'chisel'],
+    number: 1846
   },
   {
     kanji: '形',
     keyword: 'shape',
-    number: '1847'
+    alternativeKeywords: ['shape', 'form', 'style'],
+    number: 1847
   },
   {
     kanji: '影',
     keyword: 'shadow',
-    number: '1848'
+    alternativeKeywords: ['shadow', 'silhouette', 'phantom'],
+    number: 1848
   },
   {
     kanji: '杉',
     keyword: 'cedar',
-    number: '1849'
+    alternativeKeywords: ['cedar', 'cryptomeria'],
+    number: 1849
   },
   {
     kanji: '彩',
     keyword: 'coloring',
-    number: '1850'
+    alternativeKeywords: ['coloring', 'paint', 'makeup'],
+    number: 1850
   },
   {
     kanji: '彰',
     keyword: 'patent',
-    number: '1851'
+    alternativeKeywords: ['patent', 'clear'],
+    number: 1851
   },
   {
     kanji: '彦',
     keyword: 'lad',
-    number: '1852'
+    alternativeKeywords: ['lad', 'boy (ancient)'],
+    number: 1852
   },
   {
     kanji: '顔',
     keyword: 'face',
-    number: '1853'
+    alternativeKeywords: ['face', 'expression'],
+    number: 1853
   },
   {
     kanji: '須',
     keyword: 'ought',
-    number: '1854'
+    alternativeKeywords: ['ought', 'by all means', 'necessarily'],
+    number: 1854
   },
   {
     kanji: '膨',
     keyword: 'swell',
-    number: '1855'
+    alternativeKeywords: ['swell', 'get fat', 'thick'],
+    number: 1855
   },
   {
     kanji: '参',
     keyword: 'visit',
-    number: '1856'
+    alternativeKeywords: [
+      'nonplussed',
+      'three (in documents)',
+      'going',
+      'coming',
+      'visiting',
+      'visit',
+      'be defeated',
+      'die',
+      'be madly in love',
+      'participate',
+      'take part in'
+    ],
+    number: 1856
   },
   {
     kanji: '惨',
     keyword: 'wretched',
-    number: '1857'
+    alternativeKeywords: ['wretched', 'disaster', 'cruelty', 'harsh'],
+    number: 1857
   },
   {
     kanji: '修',
     keyword: 'discipline',
-    number: '1858'
+    alternativeKeywords: [
+      'discipline',
+      'conduct oneself well',
+      'study',
+      'master'
+    ],
+    number: 1858
   },
   {
     kanji: '珍',
     keyword: 'rare',
-    number: '1859'
+    alternativeKeywords: ['rare', 'curious', 'strange'],
+    number: 1859
   },
   {
     kanji: '診',
     keyword: 'checkup',
-    number: '1860'
+    alternativeKeywords: ['checkup', 'seeing', 'diagnose', 'examine'],
+    number: 1860
   },
   {
     kanji: '文',
     keyword: 'sentence',
-    number: '1861'
+    alternativeKeywords: [
+      'sentence',
+      'literature',
+      'style',
+      'art',
+      'decoration',
+      'figures',
+      'plan',
+      'literary radical (no. 67)'
+    ],
+    number: 1861
   },
   {
     kanji: '対',
     keyword: 'vis-à-vis',
-    number: '1862'
+    alternativeKeywords: [
+      'vis-a-vis',
+      'opposite',
+      'even',
+      'equal',
+      'versus',
+      'anti-',
+      'compare'
+    ],
+    number: 1862
   },
   {
     kanji: '紋',
     keyword: 'family crest',
-    number: '1863'
+    alternativeKeywords: ['family crest', 'figures'],
+    number: 1863
   },
   {
     kanji: '蚊',
     keyword: 'mosquito',
-    number: '1864'
+    alternativeKeywords: ['mosquito'],
+    number: 1864
   },
   {
     kanji: '斑',
     keyword: 'speckled',
-    number: '1865'
+    alternativeKeywords: ['spot', 'blemish', 'speck', 'patches'],
+    number: 1865
   },
   {
     kanji: '斉',
     keyword: 'adjusted',
-    number: '1866'
+    alternativeKeywords: ['adjusted', 'alike', 'equal', 'similar variety of'],
+    number: 1866
   },
   {
     kanji: '剤',
     keyword: 'dose',
-    number: '1867'
+    alternativeKeywords: ['dose', 'medicine', 'drug'],
+    number: 1867
   },
   {
     kanji: '済',
     keyword: 'finish',
-    number: '1868'
+    alternativeKeywords: [
+      'settle (debt',
+      'etc.)',
+      'relieve (burden)',
+      'finish',
+      'come to an end',
+      'excusable',
+      'need not'
+    ],
+    number: 1868
   },
   {
     kanji: '斎',
     keyword: 'purification',
-    number: '1869'
+    alternativeKeywords: [
+      'purification',
+      'Buddhist food',
+      'room',
+      'worship',
+      'avoid',
+      'alike'
+    ],
+    number: 1869
   },
   {
     kanji: '粛',
     keyword: 'solemn',
-    number: '1870'
+    alternativeKeywords: ['solemn', 'quietly', 'softly'],
+    number: 1870
   },
   {
     kanji: '塁',
     keyword: 'bases',
-    number: '1871'
+    alternativeKeywords: ['bases', 'fort', 'rampart', 'walls', 'base(ball)'],
+    number: 1871
   },
   {
     kanji: '楽',
     keyword: 'music',
-    number: '1872'
+    alternativeKeywords: ['music', 'comfort', 'ease'],
+    number: 1872
   },
   {
     kanji: '薬',
     keyword: 'medicine',
-    number: '1873'
+    alternativeKeywords: [
+      'medicine',
+      'chemical',
+      'enamel',
+      'gunpowder',
+      'benefit'
+    ],
+    number: 1873
   },
   {
     kanji: '率',
     keyword: 'ratio',
-    number: '1874'
+    alternativeKeywords: [
+      'ratio',
+      'rate',
+      'proportion',
+      '%',
+      'factor',
+      'lead',
+      'spearhead',
+      'command'
+    ],
+    number: 1874
   },
   {
     kanji: '渋',
     keyword: 'astringent',
-    number: '1875'
+    alternativeKeywords: [
+      'astringent',
+      'hesitate',
+      'reluctant',
+      'have diarrhea'
+    ],
+    number: 1875
   },
   {
     kanji: '摂',
     keyword: 'vicarious',
-    number: '1876'
+    alternativeKeywords: [
+      'vicarious',
+      'surrogate',
+      'act in addition to',
+      'take in',
+      'absorb'
+    ],
+    number: 1876
   },
   {
     kanji: '央',
     keyword: 'center',
-    number: '1877'
+    alternativeKeywords: ['center', 'middle'],
+    number: 1877
   },
   {
     kanji: '英',
     keyword: 'England',
-    number: '1878'
+    alternativeKeywords: ['England', 'English', 'hero', 'outstanding', 'calyx'],
+    number: 1878
   },
   {
     kanji: '映',
     keyword: 'reflect',
-    number: '1879'
+    alternativeKeywords: ['reflect', 'reflection', 'projection'],
+    number: 1879
   },
-  {
-    kanji: '赤',
-    keyword: 'red',
-    number: '1880'
-  },
+  { kanji: '赤', keyword: 'red', alternativeKeywords: ['red'], number: 1880 },
   {
     kanji: '赦',
     keyword: 'pardon',
-    number: '1881'
+    alternativeKeywords: ['pardon', 'forgiveness'],
+    number: 1881
   },
   {
     kanji: '変',
     keyword: 'unusual',
-    number: '1882'
+    alternativeKeywords: ['unusual', 'change', 'strange'],
+    number: 1882
   },
   {
     kanji: '跡',
     keyword: 'tracks',
-    number: '1883'
+    alternativeKeywords: ['tracks', 'mark', 'print', 'impression'],
+    number: 1883
   },
   {
     kanji: '蛮',
     keyword: 'barbarian',
-    number: '1884'
+    alternativeKeywords: ['barbarian'],
+    number: 1884
   },
   {
     kanji: '恋',
     keyword: 'romance',
-    number: '1885'
+    alternativeKeywords: ['romance', 'in love', 'yearn for', 'miss', 'darling'],
+    number: 1885
   },
   {
     kanji: '湾',
     keyword: 'gulf',
-    number: '1886'
+    alternativeKeywords: ['gulf', 'bay', 'inlet'],
+    number: 1886
   },
   {
     kanji: '黄',
     keyword: 'yellow',
-    number: '1887'
+    alternativeKeywords: ['yellow'],
+    number: 1887
   },
   {
     kanji: '横',
     keyword: 'sideways',
-    number: '1888'
+    alternativeKeywords: [
+      'sideways',
+      'side',
+      'horizontal',
+      'width',
+      'woof',
+      'unreasonable',
+      'perverse'
+    ],
+    number: 1888
   },
   {
     kanji: '把',
     keyword: 'grasp',
-    number: '1889'
+    alternativeKeywords: ['grasp', 'faggot', 'bunch', 'counter for bundles'],
+    number: 1889
   },
   {
     kanji: '色',
     keyword: 'color',
-    number: '1890'
+    alternativeKeywords: ['color'],
+    number: 1890
   },
   {
     kanji: '絶',
     keyword: 'discontinue',
-    number: '1891'
+    alternativeKeywords: [
+      'discontinue',
+      'sever',
+      'cut off',
+      'abstain',
+      'interrupt',
+      'suppress',
+      'be beyond',
+      'without match',
+      'peerless',
+      'unparalleled'
+    ],
+    number: 1891
   },
   {
     kanji: '艶',
     keyword: 'glossy',
-    number: '1892'
+    alternativeKeywords: [
+      'glossy',
+      'luster',
+      'glaze',
+      'polish',
+      'charm',
+      'colorful',
+      'captivating'
+    ],
+    number: 1892
   },
   {
     kanji: '肥',
     keyword: 'fertilizer',
-    number: '1893'
+    alternativeKeywords: [
+      'fertilizer',
+      'get fat',
+      'fertile',
+      'manure',
+      'pamper'
+    ],
+    number: 1893
   },
   {
     kanji: '甘',
     keyword: 'sweet',
-    number: '1894'
+    alternativeKeywords: ['sweet', 'coax', 'pamper', 'be content', 'sugary'],
+    number: 1894
   },
   {
     kanji: '紺',
     keyword: 'navy blue',
-    number: '1895'
+    alternativeKeywords: ['dark blue', 'navy'],
+    number: 1895
   },
   {
     kanji: '某',
     keyword: 'so-and-so',
-    number: '1896'
+    alternativeKeywords: ['so-and-so', 'one', 'a certain', 'that person'],
+    number: 1896
   },
   {
     kanji: '謀',
     keyword: 'conspire',
-    number: '1897'
+    alternativeKeywords: [
+      'conspire',
+      'cheat',
+      'impose on',
+      'plan',
+      'devise',
+      'scheme',
+      'have in mind',
+      'deceive'
+    ],
+    number: 1897
   },
   {
     kanji: '媒',
     keyword: 'mediator',
-    number: '1898'
+    alternativeKeywords: ['mediator', 'go-between'],
+    number: 1898
   },
   {
     kanji: '欺',
     keyword: 'deceit',
-    number: '1899'
+    alternativeKeywords: ['deceit', 'cheat', 'delude'],
+    number: 1899
   },
   {
     kanji: '棋',
     keyword: 'chess piece',
-    number: '1900'
+    alternativeKeywords: ['chess piece', 'Japanese chess', 'shogi'],
+    number: 1900
   },
   {
     kanji: '旗',
     keyword: 'national flag',
-    number: '1901'
+    alternativeKeywords: ['national flag', 'banner', 'standard'],
+    number: 1901
   },
   {
     kanji: '期',
     keyword: 'period',
-    number: '1902'
+    alternativeKeywords: ['period', 'time', 'date', 'term'],
+    number: 1902
   },
-  {
-    kanji: '碁',
-    keyword: 'Go',
-    number: '1903'
-  },
+  { kanji: '碁', keyword: 'Go', alternativeKeywords: ['Go'], number: 1903 },
   {
     kanji: '基',
     keyword: 'fundamentals',
-    number: '1904'
+    alternativeKeywords: [
+      'fundamentals',
+      'radical (chem)',
+      'counter for machines',
+      'foundation'
+    ],
+    number: 1904
   },
   {
     kanji: '甚',
     keyword: 'tremendously',
-    number: '1905'
+    alternativeKeywords: ['tremendously', 'very', 'great', 'exceedingly'],
+    number: 1905
   },
   {
     kanji: '勘',
     keyword: 'intuition',
-    number: '1906'
+    alternativeKeywords: [
+      'intuition',
+      'perception',
+      'check',
+      'compare',
+      'sixth sense'
+    ],
+    number: 1906
   },
   {
     kanji: '堪',
     keyword: 'withstand',
-    number: '1907'
+    alternativeKeywords: ['withstand', 'endure', 'support', 'resist'],
+    number: 1907
   },
   {
     kanji: '貴',
     keyword: 'precious',
-    number: '1908'
+    alternativeKeywords: ['precious', 'value', 'prize', 'esteem', 'honor'],
+    number: 1908
   },
   {
     kanji: '遺',
     keyword: 'bequeath',
-    number: '1909'
+    alternativeKeywords: ['bequeath', 'leave behind', 'reserve'],
+    number: 1909
   },
   {
     kanji: '遣',
     keyword: 'dispatch',
-    number: '1910'
+    alternativeKeywords: [
+      'dispatch',
+      'despatch',
+      'send',
+      'give',
+      'donate',
+      'do',
+      'undertake'
+    ],
+    number: 1910
   },
   {
     kanji: '潰',
     keyword: 'defile',
-    number: '1911'
+    alternativeKeywords: ['crush', 'smash', 'break', 'dissipate'],
+    number: 1911
   },
   {
     kanji: '舞',
     keyword: 'dance',
-    number: '1912'
+    alternativeKeywords: ['dance', 'flit', 'circle', 'wheel'],
+    number: 1912
   },
   {
     kanji: '無',
     keyword: 'nothingness',
-    number: '1913'
+    alternativeKeywords: [
+      'nothingness',
+      'none',
+      "ain't",
+      'nothing',
+      'nil',
+      'not'
+    ],
+    number: 1913
   },
   {
     kanji: '組',
     keyword: 'association',
-    number: '1914'
+    alternativeKeywords: [
+      'association',
+      'braid',
+      'plait',
+      'construct',
+      'assemble',
+      'unite',
+      'cooperate',
+      'grapple'
+    ],
+    number: 1914
   },
   {
     kanji: '粗',
     keyword: 'coarse',
-    number: '1915'
+    alternativeKeywords: ['coarse', 'rough', 'rugged'],
+    number: 1915
   },
   {
     kanji: '租',
     keyword: 'tariff',
-    number: '1916'
+    alternativeKeywords: ['tariff', 'crop tax', 'borrowing'],
+    number: 1916
   },
   {
     kanji: '狙',
     keyword: 'aim at',
-    number: '1917'
+    alternativeKeywords: ['aim at', 'sight', 'shadow', 'stalk'],
+    number: 1917
   },
   {
     kanji: '祖',
     keyword: 'ancestor',
-    number: '1918'
+    alternativeKeywords: ['ancestor', 'pioneer', 'founder'],
+    number: 1918
   },
   {
     kanji: '阻',
     keyword: 'thwart',
-    number: '1919'
+    alternativeKeywords: [
+      'thwart',
+      'separate from',
+      'prevent',
+      'obstruct',
+      'deter',
+      'impede'
+    ],
+    number: 1919
   },
   {
     kanji: '査',
     keyword: 'investigate',
-    number: '1920'
+    alternativeKeywords: ['investigate'],
+    number: 1920
   },
   {
     kanji: '助',
     keyword: 'help',
-    number: '1921'
+    alternativeKeywords: ['help', 'rescue', 'assist'],
+    number: 1921
   },
   {
     kanji: '宜',
     keyword: 'best regards',
-    number: '1922'
+    alternativeKeywords: ['best regards', 'good'],
+    number: 1922
   },
   {
     kanji: '畳',
     keyword: 'tatami mat',
-    number: '1923'
+    alternativeKeywords: [
+      'tatami mat',
+      'counter for tatami mats',
+      'fold',
+      'shut up',
+      'do away with'
+    ],
+    number: 1923
   },
   {
     kanji: '並',
     keyword: 'row',
-    number: '1924'
+    alternativeKeywords: [
+      'row',
+      'and',
+      'besides',
+      'as well as',
+      'line up',
+      'rank with',
+      'rival',
+      'equal'
+    ],
+    number: 1924
   },
   {
     kanji: '普',
     keyword: 'universal',
-    number: '1925'
+    alternativeKeywords: ['universal', 'wide(ly)', 'generally', 'Prussia'],
+    number: 1925
   },
   {
     kanji: '譜',
     keyword: 'musical score',
-    number: '1926'
+    alternativeKeywords: [
+      'musical score',
+      'music',
+      'note',
+      'staff',
+      'table',
+      'genealogy'
+    ],
+    number: 1926
   },
   {
     kanji: '湿',
     keyword: 'damp',
-    number: '1927'
+    alternativeKeywords: ['damp', 'wet', 'moist'],
+    number: 1927
   },
   {
     kanji: '顕',
     keyword: 'appear',
-    number: '1928'
+    alternativeKeywords: ['appear', 'existing'],
+    number: 1928
   },
   {
     kanji: '繊',
     keyword: 'slender',
-    number: '1929'
+    alternativeKeywords: ['slender', 'fine', 'thin kimono'],
+    number: 1929
   },
   {
     kanji: '霊',
     keyword: 'spirits',
-    number: '1930'
+    alternativeKeywords: ['spirits', 'soul'],
+    number: 1930
   },
   {
     kanji: '業',
     keyword: 'profession',
-    number: '1931'
+    alternativeKeywords: ['business', 'vocation', 'arts', 'performance'],
+    number: 1931
   },
   {
     kanji: '撲',
     keyword: 'slap',
-    number: '1932'
+    alternativeKeywords: ['slap', 'strike', 'hit', 'beat', 'tell', 'speak'],
+    number: 1932
   },
   {
     kanji: '僕',
     keyword: 'me',
-    number: '1933'
+    alternativeKeywords: ['me', 'I (male)', 'servant', 'manservant'],
+    number: 1933
   },
   {
     kanji: '共',
     keyword: 'together',
-    number: '1934'
+    alternativeKeywords: [
+      'together',
+      'both',
+      'neither',
+      'all',
+      'and',
+      'alike',
+      'with'
+    ],
+    number: 1934
   },
   {
     kanji: '供',
     keyword: 'submit',
-    number: '1935'
+    alternativeKeywords: [
+      'submit',
+      'offer',
+      'present',
+      'serve (meal)',
+      'accompany'
+    ],
+    number: 1935
   },
   {
     kanji: '異',
     keyword: 'uncommon',
-    number: '1936'
+    alternativeKeywords: [
+      'uncommon',
+      'different',
+      'queerness',
+      'strangeness',
+      'wonderful',
+      'curious',
+      'unusual'
+    ],
+    number: 1936
   },
   {
     kanji: '翼',
     keyword: 'wing',
-    number: '1937'
+    alternativeKeywords: ['wing', 'plane', 'flank'],
+    number: 1937
   },
   {
     kanji: '戴',
     keyword: 'accept humbly',
-    number: '1938'
+    alternativeKeywords: ['be crowned with', 'live under (a ruler)', 'receive'],
+    number: 1938
   },
   {
     kanji: '洪',
     keyword: 'deluge',
-    number: '1939'
+    alternativeKeywords: ['deluge', 'flood', 'vast'],
+    number: 1939
   },
   {
     kanji: '港',
     keyword: 'harbor',
-    number: '1940'
+    alternativeKeywords: ['harbor'],
+    number: 1940
   },
   {
     kanji: '暴',
     keyword: 'outburst',
-    number: '1941'
+    alternativeKeywords: [
+      'outburst',
+      'rave',
+      'fret',
+      'force',
+      'violence',
+      'cruelty',
+      'outrage'
+    ],
+    number: 1941
   },
   {
     kanji: '爆',
     keyword: 'bomb',
-    number: '1942'
+    alternativeKeywords: ['bomb', 'burst open', 'pop', 'split'],
+    number: 1942
   },
   {
     kanji: '恭',
     keyword: 'respect',
-    number: '1943'
+    alternativeKeywords: ['respect', 'reverent'],
+    number: 1943
   },
   {
     kanji: '選',
     keyword: 'elect',
-    number: '1944'
+    alternativeKeywords: ['elect', 'select', 'choose', 'prefer'],
+    number: 1944
   },
   {
     kanji: '殿',
     keyword: 'Mr.',
-    number: '1945'
+    alternativeKeywords: ['Mr.', 'hall', 'mansion', 'palace', 'temple', 'lord'],
+    number: 1945
   },
   {
     kanji: '井',
     keyword: 'well',
-    number: '1946'
+    alternativeKeywords: ['well', 'well crib', 'town', 'community'],
+    number: 1946
   },
   {
     kanji: '丼',
     keyword: 'donburi',
-    number: '1947'
+    alternativeKeywords: ['bowl', 'bowl of food'],
+    number: 1947
   },
   {
     kanji: '囲',
     keyword: 'surround',
-    number: '1948'
+    alternativeKeywords: [
+      'surround',
+      'besiege',
+      'store',
+      'paling',
+      'enclosure',
+      'encircle',
+      'preserve',
+      'keep'
+    ],
+    number: 1948
   },
   {
     kanji: '耕',
     keyword: 'till',
-    number: '1949'
+    alternativeKeywords: ['till', 'plow', 'cultivate'],
+    number: 1949
   },
   {
     kanji: '亜',
     keyword: 'Asia',
-    number: '1950'
+    alternativeKeywords: ['Asia', 'rank next', 'come after', '-ous'],
+    number: 1950
   },
   {
     kanji: '悪',
     keyword: 'bad',
-    number: '1951'
+    alternativeKeywords: ['bad', 'vice', 'rascal', 'false', 'evil', 'wrong'],
+    number: 1951
   },
   {
     kanji: '円',
     keyword: 'circle',
-    number: '1952'
+    alternativeKeywords: ['circle', 'yen', 'round'],
+    number: 1952
   },
   {
     kanji: '角',
     keyword: 'angle',
-    number: '1953'
+    alternativeKeywords: ['angle', 'corner', 'square', 'horn', 'antlers'],
+    number: 1953
   },
   {
     kanji: '触',
     keyword: 'contact',
-    number: '1954'
+    alternativeKeywords: [
+      'contact',
+      'touch',
+      'feel',
+      'hit',
+      'proclaim',
+      'announce',
+      'conflict'
+    ],
+    number: 1954
   },
   {
     kanji: '解',
     keyword: 'unravel',
-    number: '1955'
+    alternativeKeywords: [
+      'unravel',
+      'notes',
+      'key',
+      'explanation',
+      'understanding',
+      'untie',
+      'undo',
+      'solve',
+      'answer',
+      'cancel',
+      'absolve',
+      'explain',
+      'minute'
+    ],
+    number: 1955
   },
   {
     kanji: '再',
     keyword: 'again',
-    number: '1956'
+    alternativeKeywords: ['again', 'twice', 'second time'],
+    number: 1956
   },
   {
     kanji: '講',
     keyword: 'lecture',
-    number: '1957'
+    alternativeKeywords: ['lecture', 'club', 'association'],
+    number: 1957
   },
   {
     kanji: '購',
     keyword: 'subscription',
-    number: '1958'
+    alternativeKeywords: ['subscription', 'buy'],
+    number: 1958
   },
   {
     kanji: '構',
     keyword: 'posture',
-    number: '1959'
+    alternativeKeywords: ['posture', 'build', 'pretend'],
+    number: 1959
   },
   {
     kanji: '溝',
     keyword: 'gutter',
-    number: '1960'
+    alternativeKeywords: ['gutter', 'ditch', 'sewer', 'drain', '10**32'],
+    number: 1960
   },
   {
     kanji: '論',
     keyword: 'argument',
-    number: '1961'
+    alternativeKeywords: ['argument', 'discourse'],
+    number: 1961
   },
   {
     kanji: '倫',
     keyword: 'ethics',
-    number: '1962'
+    alternativeKeywords: ['ethics', 'companion'],
+    number: 1962
   },
   {
     kanji: '輪',
     keyword: 'wheel',
-    number: '1963'
+    alternativeKeywords: [
+      'wheel',
+      'ring',
+      'circle',
+      'link',
+      'loop',
+      'counter for wheels and flowers'
+    ],
+    number: 1963
   },
   {
     kanji: '偏',
     keyword: 'partial',
-    number: '1964'
+    alternativeKeywords: [
+      'partial',
+      'side',
+      'left-side radical',
+      'inclining',
+      'biased'
+    ],
+    number: 1964
   },
   {
     kanji: '遍',
     keyword: 'everywhere',
-    number: '1965'
+    alternativeKeywords: ['everywhere', 'times', 'widely', 'generally'],
+    number: 1965
   },
   {
     kanji: '編',
     keyword: 'compilation',
-    number: '1966'
+    alternativeKeywords: [
+      'compilation',
+      'knit',
+      'plait',
+      'braid',
+      'twist',
+      'editing',
+      'completed poem',
+      'part of a book'
+    ],
+    number: 1966
   },
   {
     kanji: '冊',
     keyword: 'tome',
-    number: '1967'
+    alternativeKeywords: ['tome', 'counter for books', 'volume'],
+    number: 1967
   },
   {
     kanji: '柵',
     keyword: 'palisade',
-    number: '1968'
+    alternativeKeywords: ['stockade', 'fence', 'weir', 'entwine around'],
+    number: 1968
   },
   {
     kanji: '典',
     keyword: 'code',
-    number: '1969'
+    alternativeKeywords: ['code', 'ceremony', 'law', 'rule'],
+    number: 1969
   },
   {
     kanji: '氏',
     keyword: 'family name',
-    number: '1970'
+    alternativeKeywords: ['family name', 'surname', 'clan'],
+    number: 1970
   },
   {
     kanji: '紙',
     keyword: 'paper',
-    number: '1971'
+    alternativeKeywords: ['paper'],
+    number: 1971
   },
   {
     kanji: '婚',
     keyword: 'marriage',
-    number: '1972'
+    alternativeKeywords: ['marriage'],
+    number: 1972
   },
   {
     kanji: '低',
     keyword: 'lower',
-    number: '1973'
+    alternativeKeywords: ['lower', 'short', 'humble'],
+    number: 1973
   },
   {
     kanji: '抵',
     keyword: 'resist',
-    number: '1974'
+    alternativeKeywords: ['resist', 'reach', 'touch'],
+    number: 1974
   },
   {
     kanji: '底',
     keyword: 'bottom',
-    number: '1975'
+    alternativeKeywords: [
+      'bottom',
+      'sole',
+      'depth',
+      'bottom price',
+      'base',
+      'kind',
+      'sort'
+    ],
+    number: 1975
   },
   {
     kanji: '民',
     keyword: 'people',
-    number: '1976'
+    alternativeKeywords: ['people', 'nation', 'subjects'],
+    number: 1976
   },
   {
     kanji: '眠',
     keyword: 'sleep',
-    number: '1977'
+    alternativeKeywords: ['sleep', 'die', 'sleepy'],
+    number: 1977
   },
   {
     kanji: '捕',
     keyword: 'catch',
-    number: '1978'
+    alternativeKeywords: ['catch', 'capture'],
+    number: 1978
   },
   {
     kanji: '哺',
     keyword: 'suckle',
-    number: '1979'
+    alternativeKeywords: ['nurse', 'suckle'],
+    number: 1979
   },
   {
     kanji: '浦',
     keyword: 'bay',
-    number: '1980'
+    alternativeKeywords: ['bay', 'creek', 'inlet', 'gulf', 'beach', 'seacoast'],
+    number: 1980
   },
   {
     kanji: '蒲',
     keyword: 'bullrush',
-    number: '1981'
+    alternativeKeywords: ['bullrush', 'flag', 'cattail'],
+    number: 1981
   },
   {
     kanji: '舗',
     keyword: 'shop',
-    number: '1982'
+    alternativeKeywords: ['shop', 'store', 'pave'],
+    number: 1982
   },
   {
     kanji: '補',
     keyword: 'supplement',
-    number: '1983'
+    alternativeKeywords: [
+      'supplement',
+      'supply',
+      'make good',
+      'offset',
+      'compensate',
+      'assistant',
+      'learner'
+    ],
+    number: 1983
   },
   {
     kanji: '邸',
     keyword: 'residence',
-    number: '1984'
+    alternativeKeywords: ['residence', 'mansion'],
+    number: 1984
   },
   {
     kanji: '郭',
     keyword: 'enclosure',
-    number: '1985'
+    alternativeKeywords: [
+      'enclosure',
+      'quarters',
+      'fortification',
+      'red-light district'
+    ],
+    number: 1985
   },
   {
     kanji: '郡',
     keyword: 'county',
-    number: '1986'
+    alternativeKeywords: ['county', 'district'],
+    number: 1986
   },
   {
     kanji: '郊',
     keyword: 'outskirts',
-    number: '1987'
+    alternativeKeywords: ['outskirts', 'suburbs', 'rural area'],
+    number: 1987
   },
   {
     kanji: '部',
     keyword: 'section',
-    number: '1988'
+    alternativeKeywords: [
+      'section',
+      'bureau',
+      'dept',
+      'class',
+      'copy',
+      'part',
+      'portion',
+      'counter for copies of a newspaper or magazine'
+    ],
+    number: 1988
   },
   {
     kanji: '都',
     keyword: 'metropolis',
-    number: '1989'
+    alternativeKeywords: ['metropolis', 'capital', 'all', 'everything'],
+    number: 1989
   },
   {
     kanji: '郵',
     keyword: 'mail',
-    number: '1990'
+    alternativeKeywords: ['mail', 'stagecoach stop'],
+    number: 1990
   },
   {
     kanji: '邦',
     keyword: 'home country',
-    number: '1991'
+    alternativeKeywords: ['home country', 'country', 'Japan'],
+    number: 1991
   },
   {
     kanji: '那',
     keyword: 'interrogative',
-    number: '1992'
+    alternativeKeywords: ['what?'],
+    number: 1992
   },
   {
     kanji: '郷',
     keyword: 'hometown',
-    number: '1993'
+    alternativeKeywords: ['home town', 'village', 'native place', 'district'],
+    number: 1993
   },
   {
     kanji: '響',
     keyword: 'echo',
-    number: '1994'
+    alternativeKeywords: ['echo', 'sound', 'resound', 'ring', 'vibrate'],
+    number: 1994
   },
   {
     kanji: '郎',
     keyword: 'son',
-    number: '1995'
+    alternativeKeywords: ['son', 'counter for sons'],
+    number: 1995
   },
   {
     kanji: '廊',
     keyword: 'corridor',
-    number: '1996'
+    alternativeKeywords: ['corridor', 'hall', 'tower'],
+    number: 1996
   },
   {
     kanji: '盾',
     keyword: 'shield',
-    number: '1997'
+    alternativeKeywords: ['shield', 'escutcheon', 'pretext'],
+    number: 1997
   },
   {
     kanji: '循',
     keyword: 'sequential',
-    number: '1998'
+    alternativeKeywords: ['sequential', 'follow'],
+    number: 1998
   },
   {
     kanji: '派',
     keyword: 'faction',
-    number: '1999'
+    alternativeKeywords: [
+      'faction',
+      'group',
+      'party',
+      'clique',
+      'sect',
+      'school'
+    ],
+    number: 1999
   },
   {
     kanji: '脈',
     keyword: 'vein',
-    number: '2000'
+    alternativeKeywords: ['vein', 'pulse', 'hope'],
+    number: 2000
   },
   {
     kanji: '衆',
     keyword: 'masses',
-    number: '2001'
+    alternativeKeywords: ['masses', 'great numbers', 'multitude', 'populace'],
+    number: 2001
   },
   {
     kanji: '逓',
     keyword: 'parcel post',
-    number: '2002'
+    alternativeKeywords: ['relay', 'in turn', 'sending'],
+    number: 2002
   },
   {
     kanji: '段',
     keyword: 'grade',
-    number: '2003'
+    alternativeKeywords: ['grade', 'steps', 'stairs'],
+    number: 2003
   },
   {
     kanji: '鍛',
     keyword: 'forge',
-    number: '2004'
+    alternativeKeywords: ['forge', 'discipline', 'train'],
+    number: 2004
   },
   {
     kanji: '后',
     keyword: 'empress',
-    number: '2005'
+    alternativeKeywords: [
+      'empress',
+      'queen',
+      'after',
+      'behind',
+      'back',
+      'later'
+    ],
+    number: 2005
   },
   {
     kanji: '幻',
     keyword: 'phantasm',
-    number: '2006'
+    alternativeKeywords: [
+      'phantasm',
+      'vision',
+      'dream',
+      'illusion',
+      'apparition'
+    ],
+    number: 2006
   },
   {
     kanji: '司',
     keyword: 'director',
-    number: '2007'
+    alternativeKeywords: [
+      'director',
+      'official',
+      'govt office',
+      'rule',
+      'administer'
+    ],
+    number: 2007
   },
   {
     kanji: '伺',
     keyword: 'pay respects',
-    number: '2008'
+    alternativeKeywords: [
+      'pay respects',
+      'visit',
+      'ask',
+      'inquire',
+      'question',
+      'implore'
+    ],
+    number: 2008
   },
   {
     kanji: '詞',
     keyword: 'parts of speech',
-    number: '2009'
+    alternativeKeywords: ['part of speech', 'words', 'poetry'],
+    number: 2009
   },
   {
     kanji: '飼',
     keyword: 'domesticate',
-    number: '2010'
+    alternativeKeywords: ['domesticate', 'raise', 'keep', 'feed'],
+    number: 2010
   },
   {
     kanji: '嗣',
     keyword: 'heir',
-    number: '2011'
+    alternativeKeywords: ['heir', 'succeed'],
+    number: 2011
   },
   {
     kanji: '舟',
     keyword: 'boat',
-    number: '2012'
+    alternativeKeywords: ['boat', 'ship'],
+    number: 2012
   },
   {
     kanji: '舶',
     keyword: 'liner',
-    number: '2013'
+    alternativeKeywords: ['liner', 'ship'],
+    number: 2013
   },
   {
     kanji: '航',
     keyword: 'navigate',
-    number: '2014'
+    alternativeKeywords: ['navigate', 'sail', 'cruise', 'fly'],
+    number: 2014
   },
   {
     kanji: '舷',
     keyword: 'gunwale',
-    number: '2015'
+    alternativeKeywords: ['gunwale'],
+    number: 2015
   },
   {
     kanji: '般',
     keyword: 'carrier',
-    number: '2016'
+    alternativeKeywords: ['carrier', 'carry', 'all', 'general', 'sort', 'kind'],
+    number: 2016
   },
   {
     kanji: '盤',
     keyword: 'tray',
-    number: '2017'
+    alternativeKeywords: [
+      'tray',
+      'shallow bowl',
+      'platter',
+      'tub',
+      'board',
+      'phonograph record'
+    ],
+    number: 2017
   },
   {
     kanji: '搬',
     keyword: 'conveyor',
-    number: '2018'
+    alternativeKeywords: ['conveyor', 'carry', 'transport'],
+    number: 2018
   },
   {
     kanji: '船',
     keyword: 'ship',
-    number: '2019'
+    alternativeKeywords: ['ship', 'boat'],
+    number: 2019
   },
   {
     kanji: '艦',
     keyword: 'warship',
-    number: '2020'
+    alternativeKeywords: ['warship'],
+    number: 2020
   },
   {
     kanji: '艇',
     keyword: 'rowboat',
-    number: '2021'
+    alternativeKeywords: ['rowboat', 'small boat'],
+    number: 2021
   },
   {
     kanji: '瓜',
     keyword: 'melon',
-    number: '2022'
+    alternativeKeywords: ['melon'],
+    number: 2022
   },
   {
     kanji: '弧',
     keyword: 'arc',
-    number: '2023'
+    alternativeKeywords: ['arc', 'arch', 'bow'],
+    number: 2023
   },
   {
     kanji: '孤',
     keyword: 'orphan',
-    number: '2024'
+    alternativeKeywords: ['orphan', 'alone'],
+    number: 2024
   },
   {
     kanji: '繭',
     keyword: 'cocoon',
-    number: '2025'
+    alternativeKeywords: ['cocoon'],
+    number: 2025
   },
   {
     kanji: '益',
     keyword: 'benefit',
-    number: '2026'
+    alternativeKeywords: ['benefit', 'gain', 'profit', 'advantage'],
+    number: 2026
   },
   {
     kanji: '暇',
     keyword: 'spare time',
-    number: '2027'
+    alternativeKeywords: [
+      'spare time',
+      'rest',
+      'leisure',
+      'time',
+      'leave of absence'
+    ],
+    number: 2027
   },
   {
     kanji: '敷',
     keyword: 'spread',
-    number: '2028'
+    alternativeKeywords: ['spread', 'pave', 'sit', 'promulgate'],
+    number: 2028
   },
   {
     kanji: '来',
     keyword: 'come',
-    number: '2029'
+    alternativeKeywords: ['come', 'due', 'next', 'cause', 'become'],
+    number: 2029
   },
   {
     kanji: '気',
     keyword: 'spirit',
-    number: '2030'
+    alternativeKeywords: ['spirit', 'mind', 'air', 'atmosphere', 'mood'],
+    number: 2030
   },
   {
     kanji: '汽',
     keyword: 'vapor',
-    number: '2031'
+    alternativeKeywords: ['vapor', 'steam'],
+    number: 2031
   },
   {
     kanji: '飛',
     keyword: 'fly',
-    number: '2032'
+    alternativeKeywords: ['fly', 'skip (pages)', 'scatter'],
+    number: 2032
   },
   {
     kanji: '沈',
     keyword: 'sink',
-    number: '2033'
+    alternativeKeywords: [
+      'sink',
+      'be submerged',
+      'subside',
+      'be depressed',
+      'aloes'
+    ],
+    number: 2033
   },
   {
     kanji: '枕',
     keyword: 'pillow',
-    number: '2034'
+    alternativeKeywords: ['pillow'],
+    number: 2034
   },
   {
     kanji: '妻',
     keyword: 'wife',
-    number: '2035'
+    alternativeKeywords: ['wife', 'spouse'],
+    number: 2035
   },
   {
     kanji: '凄',
     keyword: 'nifty',
-    number: '2036'
+    alternativeKeywords: ['uncanny', 'weird', 'threatening', 'horrible'],
+    number: 2036
   },
   {
     kanji: '衰',
     keyword: 'decline',
-    number: '2037'
+    alternativeKeywords: ['decline', 'wane', 'weaken'],
+    number: 2037
   },
   {
     kanji: '衷',
     keyword: 'inmost',
-    number: '2038'
+    alternativeKeywords: ['inmost', 'heart', 'mind', 'inside'],
+    number: 2038
   },
   {
     kanji: '面',
     keyword: 'mask',
-    number: '2039'
+    alternativeKeywords: ['mask', 'face', 'features', 'surface'],
+    number: 2039
   },
   {
     kanji: '麺',
     keyword: 'noodles',
-    number: '2040'
+    alternativeKeywords: ['noodles', 'wheat flour'],
+    number: 2040
   },
   {
     kanji: '革',
     keyword: 'leather',
-    number: '2041'
+    alternativeKeywords: ['leather', 'skin', 'reform', 'become serious'],
+    number: 2041
   },
   {
     kanji: '靴',
     keyword: 'shoes',
-    number: '2042'
+    alternativeKeywords: ['shoes'],
+    number: 2042
   },
   {
     kanji: '覇',
     keyword: 'hegemony',
-    number: '2043'
+    alternativeKeywords: ['hegemony', 'supremacy', 'leadership', 'champion'],
+    number: 2043
   },
   {
     kanji: '声',
     keyword: 'voice',
-    number: '2044'
+    alternativeKeywords: ['voice'],
+    number: 2044
   },
   {
     kanji: '眉',
     keyword: 'eyebrow',
-    number: '2045'
+    alternativeKeywords: ['eyebrow'],
+    number: 2045
   },
   {
     kanji: '呉',
     keyword: 'give',
-    number: '2046'
+    alternativeKeywords: ['give', 'do something for', 'kingdom of Wu'],
+    number: 2046
   },
   {
     kanji: '娯',
     keyword: 'recreation',
-    number: '2047'
+    alternativeKeywords: ['recreation', 'pleasure'],
+    number: 2047
   },
   {
     kanji: '誤',
     keyword: 'mistake',
-    number: '2048'
+    alternativeKeywords: ['mistake', 'err', 'do wrong', 'mislead'],
+    number: 2048
   },
   {
     kanji: '蒸',
     keyword: 'steam',
-    number: '2049'
+    alternativeKeywords: ['steam', 'heat', 'sultry', 'foment', 'get musty'],
+    number: 2049
   },
   {
     kanji: '承',
     keyword: 'acquiesce',
-    number: '2050'
+    alternativeKeywords: [
+      'acquiesce',
+      'hear',
+      'listen to',
+      'be informed',
+      'receive'
+    ],
+    number: 2050
   },
   {
     kanji: '函',
     keyword: 'bin',
-    number: '2051'
+    alternativeKeywords: ['box (archaic)'],
+    number: 2051
   },
   {
     kanji: '極',
     keyword: 'poles',
-    number: '2052'
+    alternativeKeywords: [
+      'poles',
+      'settlement',
+      'conclusion',
+      'end',
+      'highest rank',
+      'electric poles',
+      'very',
+      'extremely',
+      'most',
+      'highly',
+      '10**48'
+    ],
+    number: 2052
   },
   {
     kanji: '牙',
     keyword: 'tusk',
-    number: '2053'
+    alternativeKeywords: ['tusk', 'fang', 'tusk radical (no. 92)'],
+    number: 2053
   },
   {
     kanji: '芽',
     keyword: 'bud',
-    number: '2054'
+    alternativeKeywords: ['bud', 'sprout', 'spear', 'germ'],
+    number: 2054
   },
   {
     kanji: '邪',
     keyword: 'wicked',
-    number: '2055'
+    alternativeKeywords: ['wicked', 'injustice', 'wrong'],
+    number: 2055
   },
   {
     kanji: '雅',
     keyword: 'gracious',
-    number: '2056'
+    alternativeKeywords: ['gracious', 'elegant', 'graceful', 'refined'],
+    number: 2056
   },
   {
     kanji: '釈',
     keyword: 'interpretation',
-    number: '2057'
+    alternativeKeywords: ['explanation'],
+    number: 2057
   },
   {
     kanji: '番',
     keyword: 'turn',
-    number: '2058'
+    alternativeKeywords: ['turn', 'number in a series'],
+    number: 2058
   },
   {
     kanji: '審',
     keyword: 'hearing',
-    number: '2059'
+    alternativeKeywords: ['hearing', 'judge', 'trial'],
+    number: 2059
   },
   {
     kanji: '翻',
     keyword: 'flip',
-    number: '2060'
+    alternativeKeywords: [
+      'flip',
+      'turn over',
+      'wave',
+      'flutter',
+      'change (mind)'
+    ],
+    number: 2060
   },
   {
     kanji: '藩',
     keyword: 'clan',
-    number: '2061'
+    alternativeKeywords: ['clan', 'enclosure'],
+    number: 2061
   },
   {
     kanji: '毛',
     keyword: 'fur',
-    number: '2062'
+    alternativeKeywords: ['fur', 'hair', 'feather', 'down'],
+    number: 2062
   },
   {
     kanji: '耗',
     keyword: 'decrease',
-    number: '2063'
+    alternativeKeywords: ['decrease'],
+    number: 2063
   },
   {
     kanji: '尾',
     keyword: 'tail',
-    number: '2064'
+    alternativeKeywords: [
+      'tail',
+      'end',
+      'counter for fish',
+      'lower slope of mountain'
+    ],
+    number: 2064
   },
   {
     kanji: '宅',
     keyword: 'home',
-    number: '2065'
+    alternativeKeywords: [
+      'home',
+      'house',
+      'residence',
+      'our house',
+      'my husband'
+    ],
+    number: 2065
   },
   {
     kanji: '託',
     keyword: 'consign',
-    number: '2066'
+    alternativeKeywords: [
+      'consign',
+      'requesting',
+      'entrusting with',
+      'pretend',
+      'hint'
+    ],
+    number: 2066
   },
   {
     kanji: '為',
     keyword: 'do',
-    number: '2067'
+    alternativeKeywords: [
+      'do',
+      'change',
+      'make',
+      'benefit',
+      'welfare',
+      'be of use',
+      'reach to',
+      'try',
+      'practice',
+      'cost',
+      'serve as',
+      'good',
+      'advantage',
+      'as a result of'
+    ],
+    number: 2067
   },
   {
     kanji: '偽',
     keyword: 'falsehood',
-    number: '2068'
+    alternativeKeywords: [
+      'falsehood',
+      'lie',
+      'deceive',
+      'pretend',
+      'counterfeit',
+      'forgery'
+    ],
+    number: 2068
   },
   {
     kanji: '畏',
     keyword: 'apprehensive',
-    number: '2069'
+    alternativeKeywords: ['fear', 'majestic', 'graciously', 'be apprehensive'],
+    number: 2069
   },
   {
     kanji: '長',
     keyword: 'long',
-    number: '2070'
+    alternativeKeywords: ['long', 'leader', 'superior', 'senior'],
+    number: 2070
   },
   {
     kanji: '張',
     keyword: 'lengthen',
-    number: '2071'
+    alternativeKeywords: [
+      'lengthen',
+      'counter for bows & stringed instruments',
+      'stretch',
+      'spread',
+      'put up (tent)'
+    ],
+    number: 2071
   },
   {
     kanji: '帳',
     keyword: 'notebook',
-    number: '2072'
+    alternativeKeywords: [
+      'notebook',
+      'account book',
+      'album',
+      'curtain',
+      'veil',
+      'net',
+      'tent'
+    ],
+    number: 2072
   },
   {
     kanji: '脹',
     keyword: 'dilate',
-    number: '2073'
+    alternativeKeywords: ['dilate', 'distend', 'bulge', 'fill out', 'swell'],
+    number: 2073
   },
   {
     kanji: '髪',
     keyword: 'hair of the head',
-    number: '2074'
+    alternativeKeywords: ['hair of the head'],
+    number: 2074
   },
   {
     kanji: '展',
     keyword: 'unfold',
-    number: '2075'
+    alternativeKeywords: ['unfold', 'expand'],
+    number: 2075
   },
   {
     kanji: '喪',
     keyword: 'miss',
-    number: '2076'
+    alternativeKeywords: ['miss', 'mourning'],
+    number: 2076
   },
   {
     kanji: '巣',
     keyword: 'nest',
-    number: '2077'
+    alternativeKeywords: ['nest', 'rookery', 'hive', 'cobweb', 'den'],
+    number: 2077
   },
   {
     kanji: '単',
     keyword: 'simple',
-    number: '2078'
+    alternativeKeywords: ['simple', 'one', 'single', 'merely'],
+    number: 2078
   },
   {
     kanji: '戦',
     keyword: 'war',
-    number: '2079'
+    alternativeKeywords: ['war', 'battle', 'match'],
+    number: 2079
   },
   {
     kanji: '禅',
     keyword: 'Zen',
-    number: '2080'
+    alternativeKeywords: ['Zen', 'silent meditation'],
+    number: 2080
   },
   {
     kanji: '弾',
     keyword: 'bullet',
-    number: '2081'
+    alternativeKeywords: ['bullet', 'twang', 'flip', 'snap'],
+    number: 2081
   },
   {
     kanji: '桜',
     keyword: 'cherry tree',
-    number: '2082'
+    alternativeKeywords: ['cherry'],
+    number: 2082
   },
   {
     kanji: '獣',
     keyword: 'animal',
-    number: '2083'
+    alternativeKeywords: ['animal', 'beast'],
+    number: 2083
   },
   {
     kanji: '脳',
     keyword: 'brain',
-    number: '2084'
+    alternativeKeywords: ['brain', 'memory'],
+    number: 2084
   },
   {
     kanji: '悩',
     keyword: 'trouble',
-    number: '2085'
+    alternativeKeywords: ['trouble', 'worry', 'in pain', 'distress', 'illness'],
+    number: 2085
   },
   {
     kanji: '厳',
     keyword: 'stern',
-    number: '2086'
+    alternativeKeywords: ['stern', 'strictness', 'severity', 'rigidity'],
+    number: 2086
   },
   {
     kanji: '鎖',
     keyword: 'chain',
-    number: '2087'
+    alternativeKeywords: ['chain', 'irons', 'connection'],
+    number: 2087
   },
   {
     kanji: '挙',
     keyword: 'raise',
-    number: '2088'
+    alternativeKeywords: ['raise', 'plan', 'project', 'behavior', 'actions'],
+    number: 2088
   },
   {
     kanji: '誉',
     keyword: 'reputation',
-    number: '2089'
+    alternativeKeywords: ['reputation', 'praise', 'honor', 'glory'],
+    number: 2089
   },
   {
     kanji: '猟',
     keyword: 'game hunting',
-    number: '2090'
+    alternativeKeywords: ['game-hunting', 'shooting', 'game', 'bag'],
+    number: 2090
   },
   {
     kanji: '鳥',
     keyword: 'bird',
-    number: '2091'
+    alternativeKeywords: ['bird', 'chicken'],
+    number: 2091
   },
   {
     kanji: '鳴',
     keyword: 'chirp',
-    number: '2092'
+    alternativeKeywords: [
+      'chirp',
+      'cry',
+      'bark',
+      'sound',
+      'ring',
+      'echo',
+      'honk'
+    ],
+    number: 2092
   },
   {
     kanji: '鶴',
     keyword: 'crane',
-    number: '2093'
+    alternativeKeywords: ['crane', 'stork'],
+    number: 2093
   },
   {
     kanji: '烏',
     keyword: 'crow',
-    number: '2094'
+    alternativeKeywords: ['crow', 'raven'],
+    number: 2094
   },
   {
     kanji: '蔦',
     keyword: 'vine',
-    number: '2095'
+    alternativeKeywords: ['vine', 'ivy'],
+    number: 2095
   },
   {
     kanji: '鳩',
     keyword: 'pigeon',
-    number: '2096'
+    alternativeKeywords: ['pigeon', 'dove'],
+    number: 2096
   },
   {
     kanji: '鶏',
     keyword: 'chicken',
-    number: '2097'
+    alternativeKeywords: ['chicken'],
+    number: 2097
   },
   {
     kanji: '島',
     keyword: 'island',
-    number: '2098'
+    alternativeKeywords: ['island'],
+    number: 2098
   },
   {
     kanji: '暖',
     keyword: 'warmth',
-    number: '2099'
+    alternativeKeywords: ['warmth'],
+    number: 2099
   },
   {
     kanji: '媛',
     keyword: 'beautiful woman',
-    number: '2100'
+    alternativeKeywords: ['beautiful woman', 'princess'],
+    number: 2100
   },
   {
     kanji: '援',
     keyword: 'abet',
-    number: '2101'
+    alternativeKeywords: ['abet', 'help', 'save'],
+    number: 2101
   },
   {
     kanji: '緩',
     keyword: 'slacken',
-    number: '2102'
+    alternativeKeywords: [
+      'slacken',
+      'loosen',
+      'relax',
+      'lessen',
+      'be moderate',
+      'ease'
+    ],
+    number: 2102
   },
   {
     kanji: '属',
     keyword: 'belong',
-    number: '2103'
+    alternativeKeywords: [
+      'belong',
+      'genus',
+      'subordinate official',
+      'affiliated'
+    ],
+    number: 2103
   },
   {
     kanji: '嘱',
     keyword: 'entrust',
-    number: '2104'
+    alternativeKeywords: ['entrust', 'request', 'send a message'],
+    number: 2104
   },
   {
     kanji: '偶',
     keyword: 'accidentally',
-    number: '2105'
+    alternativeKeywords: [
+      'accidentally',
+      'even number',
+      'couple',
+      'man & wife',
+      'same kind'
+    ],
+    number: 2105
   },
   {
     kanji: '遇',
     keyword: 'interview',
-    number: '2106'
+    alternativeKeywords: [
+      'meet',
+      'encounter',
+      'interview',
+      'treat',
+      'entertain',
+      'receive',
+      'deal with'
+    ],
+    number: 2106
   },
   {
     kanji: '愚',
     keyword: 'foolish',
-    number: '2107'
+    alternativeKeywords: ['foolish', 'folly', 'absurdity', 'stupid'],
+    number: 2107
   },
   {
     kanji: '隅',
     keyword: 'corner',
-    number: '2108'
+    alternativeKeywords: ['corner', 'nook'],
+    number: 2108
   },
   {
     kanji: '逆',
     keyword: 'inverted',
-    number: '2109'
+    alternativeKeywords: ['inverted', 'reverse', 'opposite', 'wicked'],
+    number: 2109
   },
   {
     kanji: '塑',
     keyword: 'model',
-    number: '2110'
+    alternativeKeywords: ['model', 'molding'],
+    number: 2110
   },
   {
     kanji: '遡',
     keyword: 'go upstream',
-    number: '2111'
+    alternativeKeywords: ['go upstream', 'retrace the past'],
+    number: 2111
   },
   {
     kanji: '岡',
     keyword: 'Mount',
-    number: '2112'
+    alternativeKeywords: ['mount', 'hill', 'knoll'],
+    number: 2112
   },
   {
     kanji: '鋼',
     keyword: 'steel',
-    number: '2113'
+    alternativeKeywords: ['steel'],
+    number: 2113
   },
   {
     kanji: '綱',
     keyword: 'hawser',
-    number: '2114'
+    alternativeKeywords: ['hawser', 'class (genus)', 'rope', 'cord', 'cable'],
+    number: 2114
   },
   {
     kanji: '剛',
     keyword: 'sturdy',
-    number: '2115'
+    alternativeKeywords: ['sturdy', 'strength'],
+    number: 2115
   },
   {
     kanji: '缶',
     keyword: 'tin can',
-    number: '2116'
+    alternativeKeywords: ['tin can', 'container', 'jar radical (no. 121)'],
+    number: 2116
   },
   {
     kanji: '陶',
     keyword: 'pottery',
-    number: '2117'
+    alternativeKeywords: ['pottery', 'porcelain'],
+    number: 2117
   },
   {
     kanji: '揺',
     keyword: 'swing',
-    number: '2118'
+    alternativeKeywords: [
+      'swing',
+      'shake',
+      'sway',
+      'rock',
+      'tremble',
+      'vibrate'
+    ],
+    number: 2118
   },
   {
     kanji: '謡',
     keyword: 'Noh chanting',
-    number: '2119'
+    alternativeKeywords: ['song', 'sing', 'ballad', 'noh chanting'],
+    number: 2119
   },
   {
     kanji: '鬱',
     keyword: 'gloom',
-    number: '2120'
+    alternativeKeywords: ['gloom', 'depression', 'melancholy', 'luxuriant'],
+    number: 2120
   },
   {
     kanji: '就',
     keyword: 'concerning',
-    number: '2121'
+    alternativeKeywords: [
+      'concerning',
+      'settle',
+      'take position',
+      'depart',
+      'study',
+      'per'
+    ],
+    number: 2121
   },
-  {
-    kanji: '蹴',
-    keyword: 'kick',
-    number: '2122'
-  },
+  { kanji: '蹴', keyword: 'kick', alternativeKeywords: ['kick'], number: 2122 },
   {
     kanji: '懇',
     keyword: 'sociable',
-    number: '2123'
+    alternativeKeywords: [
+      'sociable',
+      'kind',
+      'courteous',
+      'hospitable',
+      'cordial'
+    ],
+    number: 2123
   },
   {
     kanji: '墾',
     keyword: 'groundbreaking',
-    number: '2124'
+    alternativeKeywords: ['ground-breaking', 'open up farmland'],
+    number: 2124
   },
   {
     kanji: '貌',
     keyword: 'countenance',
-    number: '2125'
+    alternativeKeywords: ['form', 'appearance', 'countenance'],
+    number: 2125
   },
   {
     kanji: '免',
     keyword: 'excuse',
-    number: '2126'
+    alternativeKeywords: ['excuse', 'dismissal'],
+    number: 2126
   },
   {
     kanji: '逸',
     keyword: 'elude',
-    number: '2127'
+    alternativeKeywords: [
+      'deviate',
+      'idleness',
+      'leisure',
+      'miss the mark',
+      'evade',
+      'elude',
+      'parry',
+      'diverge'
+    ],
+    number: 2127
   },
   {
     kanji: '晩',
     keyword: 'nightfall',
-    number: '2128'
+    alternativeKeywords: ['nightfall', 'night'],
+    number: 2128
   },
   {
     kanji: '勉',
     keyword: 'exertion',
-    number: '2129'
+    alternativeKeywords: [
+      'exertion',
+      'endeavour',
+      'encourage',
+      'strive',
+      'make effort',
+      'diligent'
+    ],
+    number: 2129
   },
   {
     kanji: '象',
     keyword: 'elephant',
-    number: '2130'
+    alternativeKeywords: [
+      'elephant',
+      'pattern after',
+      'imitate',
+      'image',
+      'shape',
+      'sign (of the times)'
+    ],
+    number: 2130
   },
   {
     kanji: '像',
     keyword: 'statue',
-    number: '2131'
+    alternativeKeywords: ['statue', 'picture', 'image', 'figure', 'portrait'],
+    number: 2131
   },
   {
     kanji: '馬',
     keyword: 'horse',
-    number: '2132'
+    alternativeKeywords: ['horse'],
+    number: 2132
   },
   {
     kanji: '駒',
     keyword: 'pony',
-    number: '2133'
+    alternativeKeywords: ['pony', 'horse', 'colt'],
+    number: 2133
   },
   {
     kanji: '験',
     keyword: 'verification',
-    number: '2134'
+    alternativeKeywords: ['verification', 'effect', 'testing'],
+    number: 2134
   },
   {
     kanji: '騎',
     keyword: 'equestrian',
-    number: '2135'
+    alternativeKeywords: [
+      'equestrian',
+      'riding on horses',
+      'counter for equestrians'
+    ],
+    number: 2135
   },
   {
     kanji: '駐',
     keyword: 'parking',
-    number: '2136'
+    alternativeKeywords: ['stop-over', 'reside in', 'resident'],
+    number: 2136
   },
   {
     kanji: '駆',
     keyword: 'drive',
-    number: '2137'
+    alternativeKeywords: [
+      'drive',
+      'run',
+      'gallop',
+      'advance',
+      'inspire',
+      'impel'
+    ],
+    number: 2137
   },
   {
     kanji: '駅',
     keyword: 'station',
-    number: '2138'
+    alternativeKeywords: ['station'],
+    number: 2138
   },
   {
     kanji: '騒',
     keyword: 'boisterous',
-    number: '2139'
+    alternativeKeywords: [
+      'boisterous',
+      'make noise',
+      'clamor',
+      'disturb',
+      'excite'
+    ],
+    number: 2139
   },
   {
     kanji: '駄',
     keyword: 'burdensome',
-    number: '2140'
+    alternativeKeywords: [
+      'burdensome',
+      'pack horse',
+      'horse load',
+      'send by horse',
+      'trivial',
+      'worthless'
+    ],
+    number: 2140
   },
   {
     kanji: '驚',
     keyword: 'wonder',
-    number: '2141'
+    alternativeKeywords: ['wonder', 'be surprised', 'frightened', 'amazed'],
+    number: 2141
   },
   {
     kanji: '篤',
     keyword: 'fervent',
-    number: '2142'
+    alternativeKeywords: [
+      'fervent',
+      'kind',
+      'cordial',
+      'serious',
+      'deliberate'
+    ],
+    number: 2142
   },
   {
     kanji: '罵',
     keyword: 'insult',
-    number: '2143'
+    alternativeKeywords: ['abuse', 'insult'],
+    number: 2143
   },
   {
     kanji: '騰',
     keyword: 'inflation',
-    number: '2144'
+    alternativeKeywords: [
+      'leaping up',
+      'jumping up',
+      'rising',
+      'advancing',
+      'going'
+    ],
+    number: 2144
   },
   {
     kanji: '虎',
     keyword: 'tiger',
-    number: '2145'
+    alternativeKeywords: ['tiger', 'drunkard'],
+    number: 2145
   },
   {
     kanji: '虜',
     keyword: 'captive',
-    number: '2146'
+    alternativeKeywords: ['captive', 'barbarian', 'low epithet for the enemy'],
+    number: 2146
   },
   {
     kanji: '膚',
     keyword: 'skin',
-    number: '2147'
+    alternativeKeywords: ['skin', 'body', 'grain', 'texture', 'disposition'],
+    number: 2147
   },
   {
     kanji: '虚',
     keyword: 'void',
-    number: '2148'
+    alternativeKeywords: [
+      'void',
+      'emptiness',
+      'unpreparedness',
+      'crack',
+      'fissure',
+      'untruth'
+    ],
+    number: 2148
   },
   {
     kanji: '戯',
     keyword: 'frolic',
-    number: '2149'
+    alternativeKeywords: ['frolic', 'play', 'sport'],
+    number: 2149
   },
   {
     kanji: '虞',
     keyword: 'uneasiness',
-    number: '2150'
+    alternativeKeywords: [
+      'fear',
+      'uneasiness',
+      'anxiety',
+      'concern',
+      'expectation',
+      'consideration'
+    ],
+    number: 2150
   },
   {
     kanji: '慮',
     keyword: 'prudence',
-    number: '2151'
+    alternativeKeywords: [
+      'prudence',
+      'thought',
+      'concern',
+      'consider',
+      'deliberate',
+      'fear'
+    ],
+    number: 2151
   },
   {
     kanji: '劇',
     keyword: 'drama',
-    number: '2152'
+    alternativeKeywords: ['drama', 'play'],
+    number: 2152
   },
   {
     kanji: '虐',
     keyword: 'tyrannize',
-    number: '2153'
+    alternativeKeywords: ['tyrannize', 'oppress'],
+    number: 2153
   },
-  {
-    kanji: '鹿',
-    keyword: 'deer',
-    number: '2154'
-  },
+  { kanji: '鹿', keyword: 'deer', alternativeKeywords: ['deer'], number: 2154 },
   {
     kanji: '麓',
     keyword: 'foot of a mountain',
-    number: '2155'
+    alternativeKeywords: ['foot of a mountain'],
+    number: 2155
   },
   {
     kanji: '薦',
     keyword: 'recommend',
-    number: '2156'
+    alternativeKeywords: ['recommend', 'mat', 'advise', 'encourage', 'offer'],
+    number: 2156
   },
   {
     kanji: '慶',
     keyword: 'jubilation',
-    number: '2157'
+    alternativeKeywords: ['jubilation', 'congratulate', 'rejoice', 'be happy'],
+    number: 2157
   },
   {
     kanji: '麗',
     keyword: 'lovely',
-    number: '2158'
+    alternativeKeywords: ['lovely', 'beautiful', 'graceful', 'resplendent'],
+    number: 2158
   },
-  {
-    kanji: '熊',
-    keyword: 'bear',
-    number: '2159'
-  },
+  { kanji: '熊', keyword: 'bear', alternativeKeywords: ['bear'], number: 2159 },
   {
     kanji: '能',
     keyword: 'ability',
-    number: '2160'
+    alternativeKeywords: ['ability', 'talent', 'skill', 'capacity'],
+    number: 2160
   },
   {
     kanji: '態',
     keyword: 'attitude',
-    number: '2161'
+    alternativeKeywords: [
+      'attitude',
+      'condition',
+      'figure',
+      'appearance',
+      'voice (of verbs)'
+    ],
+    number: 2161
   },
   {
     kanji: '寅',
     keyword: 'sign of the tiger',
-    number: '2162'
+    alternativeKeywords: [
+      'sign of the tiger',
+      '3-5AM',
+      'third sign of Chinese zodiac'
+    ],
+    number: 2162
   },
   {
     kanji: '演',
     keyword: 'performance',
-    number: '2163'
+    alternativeKeywords: ['performance', 'act', 'play', 'render', 'stage'],
+    number: 2163
   },
   {
     kanji: '辰',
     keyword: 'sign of the dragon',
-    number: '2164'
+    alternativeKeywords: [
+      'sign of the dragon',
+      '7-9AM',
+      'fifth sign of Chinese zodiac',
+      'shin dragon radical (no. 161)'
+    ],
+    number: 2164
   },
   {
     kanji: '辱',
     keyword: 'embarrass',
-    number: '2165'
+    alternativeKeywords: ['embarrass', 'humiliate', 'shame'],
+    number: 2165
   },
   {
     kanji: '震',
     keyword: 'quake',
-    number: '2166'
+    alternativeKeywords: ['quake', 'shake', 'tremble', 'quiver', 'shiver'],
+    number: 2166
   },
   {
     kanji: '振',
     keyword: 'shake',
-    number: '2167'
+    alternativeKeywords: ['shake', 'wave', 'wag', 'swing'],
+    number: 2167
   },
   {
     kanji: '娠',
     keyword: 'with child',
-    number: '2168'
+    alternativeKeywords: ['with child', 'pregnancy'],
+    number: 2168
   },
-  {
-    kanji: '唇',
-    keyword: 'lips',
-    number: '2169'
-  },
+  { kanji: '唇', keyword: 'lips', alternativeKeywords: ['lips'], number: 2169 },
   {
     kanji: '農',
     keyword: 'agriculture',
-    number: '2170'
+    alternativeKeywords: ['agriculture', 'farmers'],
+    number: 2170
   },
   {
     kanji: '濃',
     keyword: 'concentrated',
-    number: '2171'
+    alternativeKeywords: ['concentrated', 'thick', 'dark', 'undiluted'],
+    number: 2171
   },
   {
     kanji: '送',
     keyword: 'send off',
-    number: '2172'
+    alternativeKeywords: ['escort', 'send'],
+    number: 2172
   },
   {
     kanji: '関',
     keyword: 'connection',
-    number: '2173'
+    alternativeKeywords: [
+      'connection',
+      'barrier',
+      'gateway',
+      'involve',
+      'concerning'
+    ],
+    number: 2173
   },
   {
     kanji: '咲',
     keyword: 'blossom',
-    number: '2174'
+    alternativeKeywords: ['blossom', 'bloom'],
+    number: 2174
   },
   {
     kanji: '鬼',
     keyword: 'ghost',
-    number: '2175'
+    alternativeKeywords: ['ghost', 'devil'],
+    number: 2175
   },
   {
     kanji: '醜',
     keyword: 'ugly',
-    number: '2176'
+    alternativeKeywords: ['ugly', 'unclean', 'shame', 'bad looking'],
+    number: 2176
   },
   {
     kanji: '魂',
     keyword: 'soul',
-    number: '2177'
+    alternativeKeywords: ['soul', 'spirit'],
+    number: 2177
   },
   {
     kanji: '魔',
     keyword: 'witch',
-    number: '2178'
+    alternativeKeywords: ['witch', 'demon', 'evil spirit'],
+    number: 2178
   },
   {
     kanji: '魅',
     keyword: 'fascination',
-    number: '2179'
+    alternativeKeywords: ['fascination', 'charm', 'bewitch'],
+    number: 2179
   },
   {
     kanji: '塊',
     keyword: 'clod',
-    number: '2180'
+    alternativeKeywords: ['clod', 'lump', 'chunk', 'clot', 'mass'],
+    number: 2180
   },
   {
     kanji: '襲',
     keyword: 'attack',
-    number: '2181'
+    alternativeKeywords: ['attack', 'advance on', 'succeed to', 'pile', 'heap'],
+    number: 2181
   },
   {
     kanji: '嚇',
     keyword: 'upbraid',
-    number: '2182'
+    alternativeKeywords: ['menacing', 'dignity', 'majesty', 'threaten'],
+    number: 2182
   },
   {
     kanji: '朕',
     keyword: 'majestic plural',
-    number: '2183'
+    alternativeKeywords: ['majestic plural', 'imperial we'],
+    number: 2183
   },
   {
     kanji: '雰',
     keyword: 'atmosphere',
-    number: '2184'
+    alternativeKeywords: ['atmosphere', 'fog'],
+    number: 2184
   },
   {
     kanji: '箇',
     keyword: 'item',
-    number: '2185'
+    alternativeKeywords: ['counter for articles'],
+    number: 2185
   },
   {
     kanji: '錬',
     keyword: 'tempering',
-    number: '2186'
+    alternativeKeywords: ['tempering', 'refine', 'drill', 'train', 'polish'],
+    number: 2186
   },
   {
     kanji: '遵',
     keyword: 'abide by',
-    number: '2187'
+    alternativeKeywords: ['abide by', 'follow', 'obey', 'learn'],
+    number: 2187
   },
   {
     kanji: '罷',
     keyword: 'quit',
-    number: '2188'
+    alternativeKeywords: ['quit', 'stop', 'leave', 'withdraw', 'go'],
+    number: 2188
   },
   {
     kanji: '屯',
     keyword: 'barracks',
-    number: '2189'
+    alternativeKeywords: ['barracks', 'police station', 'camp', 'ton'],
+    number: 2189
   },
   {
     kanji: '且',
     keyword: 'moreover',
-    number: '2190'
+    alternativeKeywords: ['moreover', 'also', 'furthermore'],
+    number: 2190
   },
   {
     kanji: '藻',
     keyword: 'seaweed',
-    number: '2191'
+    alternativeKeywords: ['seaweed', 'duckweed'],
+    number: 2191
   },
   {
     kanji: '隷',
     keyword: 'slave',
-    number: '2192'
+    alternativeKeywords: [
+      'slave',
+      'servant',
+      'prisoner',
+      'criminal',
+      'follower'
+    ],
+    number: 2192
   },
   {
     kanji: '癒',
     keyword: 'healing',
-    number: '2193'
+    alternativeKeywords: ['healing', 'cure', 'quench (thirst)', 'wreak'],
+    number: 2193
   },
   {
     kanji: '璽',
     keyword: 'imperial seal',
-    number: '2194'
+    alternativeKeywords: ["emperor's seal"],
+    number: 2194
   },
   {
     kanji: '潟',
     keyword: 'lagoon',
-    number: '2195'
+    alternativeKeywords: ['lagoon'],
+    number: 2195
   },
   {
     kanji: '丹',
     keyword: 'cinnabar',
-    number: '2196'
+    alternativeKeywords: [
+      'rust-colored',
+      'red',
+      'red lead',
+      'pills',
+      'sincerity'
+    ],
+    number: 2196
   },
   {
     kanji: '丑',
     keyword: 'sign of the cow',
-    number: '2197'
+    alternativeKeywords: [
+      'sign of the ox or cow',
+      '1-3AM',
+      'second sign of Chinese zodiac'
+    ],
+    number: 2197
   },
   {
     kanji: '羞',
     keyword: 'humiliate',
-    number: '2198'
+    alternativeKeywords: ['feel ashamed'],
+    number: 2198
   },
   {
     kanji: '卯',
     keyword: 'sign of the hare',
-    number: '2199'
+    alternativeKeywords: [
+      'sign of the hare or rabbit',
+      'fourth sign of Chinese zodiac',
+      '5-7AM',
+      'east'
+    ],
+    number: 2199
   },
   {
     kanji: '巳',
     keyword: 'sign of the snake',
-    number: '2200'
+    alternativeKeywords: [
+      'sign of the snake or serpent',
+      '9-11AM',
+      'sixth sign of Chinese zodiac'
+    ],
+    number: 2200
   }
 ]

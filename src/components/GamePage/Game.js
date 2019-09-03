@@ -98,8 +98,12 @@ const Game = ({ settings, handleGameEnd }) => {
   }
 
   const onSubmitAnswer = answer => {
+    console.log(kanjiObject)
     const answerIsCorrect =
-      answer.toLowerCase() === kanjiObject.keyword.toLowerCase()
+      answer.toLowerCase() === kanjiObject.keyword.toLowerCase() ||
+      kanjiObject.alternativeKeywords
+        .map(keyword => keyword.toLowerCase())
+        .includes(answer.toLowerCase())
     if (answerIsCorrect) {
       if (soundOn) correctSound.play()
       notification['success']({
