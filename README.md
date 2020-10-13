@@ -1,5 +1,6 @@
 # Kanji Game
-A simple game to sharpen your Kanji recognition skills
+* A simple game to sharpen your Kanji recognition skills.
+* [Click here to play](https://nc000.github.io/kanji-game/)
 
 ## Features
 * Contains all of the characters from RTK1 and RTK3
